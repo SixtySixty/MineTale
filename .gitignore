@@ -6,5 +6,6 @@ screenshots/
 .mixin.out/
 xaero/
 kubejs/
+options.txt
 usercache.json
 usernamecache.json
