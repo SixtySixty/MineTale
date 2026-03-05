@@ -1,0 +1,10 @@
+crash-reports/
+defultconfigs/
+logs/
+saves/
+screenshots/
+.mixin.out/
+xaero/
+kubejs/
+usercache.json
+usernamecache.json
