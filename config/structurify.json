@@ -1,13 +1,567 @@
 {
   "config_version": "2.0.19",
-  "config_datetime": "2026-03-06_02-46-49",
+  "config_datetime": "2026-03-10_22-24-43",
   "general": {
-    "disable_all_structures": false,
-    "prevent_structure_overlap": false,
+    "disable_all_structures": true,
+    "prevent_structure_overlap": true,
     "enable_global_spacing_and_separation_modifier": false,
     "global_spacing_and_separation_modifier": 1.0
   },
-  "structure_namespaces": [],
-  "structures": [],
+  "structure_namespaces": [
+    {
+      "name": "global",
+      "is_disabled": false,
+      "override_global_flatness_check": false,
+      "enable_flatness_check": true,
+      "flatness_check_allow_non_solid_blocks": false,
+      "override_global_biome_check": false,
+      "enable_biome_check": true,
+      "biome_check_mode": "STRICT",
+      "biome_check_blacklisted_biomes": [
+        "#minecraft:is_river",
+        "#c:river",
+        "#minecraft:is_ocean",
+        "#c:ocean"
+      ]
+    }
+  ],
+  "structures": [
+    {
+      "name": "minecraft:ancient_city",
+      "is_disabled": true,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "underground_decoration",
+      "terrain_adaptation": "beard_box"
+    },
+    {
+      "name": "minecraft:bastion_remnant",
+      "is_disabled": true,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "surface_structures",
+      "terrain_adaptation": "none"
+    },
+    {
+      "name": "minecraft:buried_treasure",
+      "is_disabled": true,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "underground_structures",
+      "terrain_adaptation": "none"
+    },
+    {
+      "name": "minecraft:desert_pyramid",
+      "is_disabled": true,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "surface_structures",
+      "terrain_adaptation": "none"
+    },
+    {
+      "name": "minecraft:end_city",
+      "is_disabled": true,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "surface_structures",
+      "terrain_adaptation": "none"
+    },
+    {
+      "name": "minecraft:fortress",
+      "is_disabled": true,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "underground_decoration",
+      "terrain_adaptation": "none"
+    },
+    {
+      "name": "minecraft:igloo",
+      "is_disabled": true,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "surface_structures",
+      "terrain_adaptation": "none"
+    },
+    {
+      "name": "minecraft:jungle_pyramid",
+      "is_disabled": true,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "surface_structures",
+      "terrain_adaptation": "none"
+    },
+    {
+      "name": "minecraft:mansion",
+      "is_disabled": true,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "surface_structures",
+      "terrain_adaptation": "none"
+    },
+    {
+      "name": "minecraft:mineshaft",
+      "is_disabled": true,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "underground_structures",
+      "terrain_adaptation": "none"
+    },
+    {
+      "name": "minecraft:mineshaft_mesa",
+      "is_disabled": true,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "underground_structures",
+      "terrain_adaptation": "none"
+    },
+    {
+      "name": "minecraft:monument",
+      "is_disabled": true,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "surface_structures",
+      "terrain_adaptation": "none"
+    },
+    {
+      "name": "minecraft:nether_fossil",
+      "is_disabled": true,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "underground_decoration",
+      "terrain_adaptation": "beard_thin"
+    },
+    {
+      "name": "minecraft:ocean_ruin_cold",
+      "is_disabled": true,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "surface_structures",
+      "terrain_adaptation": "none"
+    },
+    {
+      "name": "minecraft:ocean_ruin_warm",
+      "is_disabled": true,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "surface_structures",
+      "terrain_adaptation": "none"
+    },
+    {
+      "name": "minecraft:pillager_outpost",
+      "is_disabled": true,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "surface_structures",
+      "terrain_adaptation": "beard_thin"
+    },
+    {
+      "name": "minecraft:ruined_portal",
+      "is_disabled": true,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "surface_structures",
+      "terrain_adaptation": "none"
+    },
+    {
+      "name": "minecraft:ruined_portal_desert",
+      "is_disabled": true,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "surface_structures",
+      "terrain_adaptation": "none"
+    },
+    {
+      "name": "minecraft:ruined_portal_jungle",
+      "is_disabled": true,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "surface_structures",
+      "terrain_adaptation": "none"
+    },
+    {
+      "name": "minecraft:ruined_portal_mountain",
+      "is_disabled": true,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "surface_structures",
+      "terrain_adaptation": "none"
+    },
+    {
+      "name": "minecraft:ruined_portal_nether",
+      "is_disabled": true,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "surface_structures",
+      "terrain_adaptation": "none"
+    },
+    {
+      "name": "minecraft:ruined_portal_ocean",
+      "is_disabled": true,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "surface_structures",
+      "terrain_adaptation": "none"
+    },
+    {
+      "name": "minecraft:ruined_portal_swamp",
+      "is_disabled": true,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "surface_structures",
+      "terrain_adaptation": "none"
+    },
+    {
+      "name": "minecraft:shipwreck",
+      "is_disabled": true,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "surface_structures",
+      "terrain_adaptation": "none"
+    },
+    {
+      "name": "minecraft:shipwreck_beached",
+      "is_disabled": true,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "surface_structures",
+      "terrain_adaptation": "none"
+    },
+    {
+      "name": "minecraft:stronghold",
+      "is_disabled": true,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "surface_structures",
+      "terrain_adaptation": "bury"
+    },
+    {
+      "name": "minecraft:swamp_hut",
+      "is_disabled": true,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "surface_structures",
+      "terrain_adaptation": "none"
+    },
+    {
+      "name": "minecraft:trail_ruins",
+      "is_disabled": true,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "underground_structures",
+      "terrain_adaptation": "bury"
+    },
+    {
+      "name": "minecraft:village_desert",
+      "is_disabled": true,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "surface_structures",
+      "terrain_adaptation": "beard_thin"
+    },
+    {
+      "name": "minecraft:village_plains",
+      "is_disabled": true,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "surface_structures",
+      "terrain_adaptation": "beard_thin"
+    },
+    {
+      "name": "minecraft:village_savanna",
+      "is_disabled": true,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "surface_structures",
+      "terrain_adaptation": "beard_thin"
+    },
+    {
+      "name": "minecraft:village_snowy",
+      "is_disabled": true,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "surface_structures",
+      "terrain_adaptation": "beard_thin"
+    },
+    {
+      "name": "minecraft:village_taiga",
+      "is_disabled": true,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "surface_structures",
+      "terrain_adaptation": "beard_thin"
+    },
+    {
+      "name": "arboria:lake_bamboo_jungle",
+      "is_disabled": true,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "lakes",
+      "terrain_adaptation": "beard_thin"
+    },
+    {
+      "name": "arboria:lake_birch",
+      "is_disabled": true,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "lakes",
+      "terrain_adaptation": "beard_thin"
+    },
+    {
+      "name": "arboria:lake_dark_forest",
+      "is_disabled": true,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "lakes",
+      "terrain_adaptation": "beard_thin"
+    },
+    {
+      "name": "arboria:lake_flower_forest",
+      "is_disabled": true,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "lakes",
+      "terrain_adaptation": "beard_thin"
+    },
+    {
+      "name": "arboria:lake_forest",
+      "is_disabled": true,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "lakes",
+      "terrain_adaptation": "beard_thin"
+    },
+    {
+      "name": "arboria:lake_frozen/common",
+      "is_disabled": true,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "lakes",
+      "terrain_adaptation": "beard_thin"
+    },
+    {
+      "name": "arboria:lake_frozen/normal",
+      "is_disabled": true,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "lakes",
+      "terrain_adaptation": "beard_thin"
+    },
+    {
+      "name": "arboria:lake_gravel/common",
+      "is_disabled": true,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "lakes",
+      "terrain_adaptation": "beard_thin"
+    },
+    {
+      "name": "arboria:lake_gravel/large",
+      "is_disabled": true,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "lakes",
+      "terrain_adaptation": "beard_thin"
+    },
+    {
+      "name": "arboria:lake_gravel/normal",
+      "is_disabled": true,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "lakes",
+      "terrain_adaptation": "beard_thin"
+    },
+    {
+      "name": "arboria:lake_jungle",
+      "is_disabled": true,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "lakes",
+      "terrain_adaptation": "beard_thin"
+    },
+    {
+      "name": "arboria:lake_lava",
+      "is_disabled": true,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "lakes",
+      "terrain_adaptation": "beard_thin"
+    },
+    {
+      "name": "arboria:lake_meadow",
+      "is_disabled": true,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "lakes",
+      "terrain_adaptation": "beard_thin"
+    },
+    {
+      "name": "arboria:lake_mushroom_fields",
+      "is_disabled": true,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "lakes",
+      "terrain_adaptation": "beard_thin"
+    },
+    {
+      "name": "arboria:lake_old_birch",
+      "is_disabled": true,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "lakes",
+      "terrain_adaptation": "beard_thin"
+    },
+    {
+      "name": "arboria:lake_old_pine_taiga",
+      "is_disabled": true,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "lakes",
+      "terrain_adaptation": "beard_thin"
+    },
+    {
+      "name": "arboria:lake_old_spruce_taiga",
+      "is_disabled": true,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "lakes",
+      "terrain_adaptation": "beard_thin"
+    },
+    {
+      "name": "arboria:lake_plains",
+      "is_disabled": true,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "lakes",
+      "terrain_adaptation": "beard_thin"
+    },
+    {
+      "name": "arboria:lake_sand/common",
+      "is_disabled": true,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "lakes",
+      "terrain_adaptation": "beard_thin"
+    },
+    {
+      "name": "arboria:lake_sand/large",
+      "is_disabled": true,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "lakes",
+      "terrain_adaptation": "beard_thin"
+    },
+    {
+      "name": "arboria:lake_sand/normal",
+      "is_disabled": true,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "lakes",
+      "terrain_adaptation": "beard_thin"
+    },
+    {
+      "name": "arboria:lake_savanna",
+      "is_disabled": true,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "lakes",
+      "terrain_adaptation": "beard_thin"
+    },
+    {
+      "name": "arboria:lake_savanna_plateau",
+      "is_disabled": true,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "lakes",
+      "terrain_adaptation": "beard_thin"
+    },
+    {
+      "name": "arboria:lake_snowy_plains",
+      "is_disabled": true,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "lakes",
+      "terrain_adaptation": "beard_thin"
+    },
+    {
+      "name": "arboria:lake_snowy_taiga",
+      "is_disabled": true,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "lakes",
+      "terrain_adaptation": "beard_thin"
+    },
+    {
+      "name": "arboria:lake_sparse_jungle",
+      "is_disabled": true,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "lakes",
+      "terrain_adaptation": "beard_thin"
+    },
+    {
+      "name": "arboria:lake_sunflower_plains",
+      "is_disabled": true,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "lakes",
+      "terrain_adaptation": "beard_thin"
+    },
+    {
+      "name": "arboria:lake_taiga",
+      "is_disabled": true,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "lakes",
+      "terrain_adaptation": "beard_thin"
+    },
+    {
+      "name": "arboria:lake_windswept_savanna",
+      "is_disabled": true,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "lakes",
+      "terrain_adaptation": "beard_thin"
+    },
+    {
+      "name": "ivp:small_village_desert",
+      "is_disabled": true,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "surface_structures",
+      "terrain_adaptation": "beard_thin"
+    },
+    {
+      "name": "ivp:small_village_plains",
+      "is_disabled": true,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "surface_structures",
+      "terrain_adaptation": "beard_thin"
+    },
+    {
+      "name": "ivp:small_village_savanna",
+      "is_disabled": true,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "surface_structures",
+      "terrain_adaptation": "beard_thin"
+    },
+    {
+      "name": "ivp:small_village_snowy",
+      "is_disabled": true,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "surface_structures",
+      "terrain_adaptation": "beard_thin"
+    },
+    {
+      "name": "ivp:small_village_taiga",
+      "is_disabled": true,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "surface_structures",
+      "terrain_adaptation": "beard_thin"
+    }
+  ],
   "structure_sets": []
 }
