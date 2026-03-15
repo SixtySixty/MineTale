@@ -1,15 +1,15 @@
 
 [region]
 	#Range: > 0
-	terra_ferax_weight = 4
+	terra_ferax_weight = 5
 	#Range: > 0
-	terra_solaris_weight = 4
+	terra_solaris_weight = 5
 	#Range: > 0
-	terra_flava_weight = 4
+	terra_flava_weight = 5
 	#Range: > 0
-	terra_laeta_weight = 4
+	terra_laeta_weight = 5
 	#Range: > 0
-	terra_mater_weight = 4
+	terra_mater_weight = 5
 
 [misc]
 	calcite_generator = true
@@ -22,8 +22,8 @@
 	birch_forest_toggle = false
 	flower_forest_toggle = true
 	jungle_toggle = false
-	swamp_toggle = true
-	desert_toggle = true
+	swamp_toggle = false
+	desert_toggle = false
 	badlands_toggle = true
 	mountain_biomes_toggle = true
 	savanna_toggle = true
