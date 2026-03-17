@@ -9,13 +9,13 @@
 	#5 is greatest/normal, 0 is disabled
 	"Wild Palm tree spawnrate" = 5.0
 	#5 is greatest/normal, 0 is disabled
-	"Soft Birch tree spawnrate" = 5.0
+	"Soft Birch tree spawnrate" = 0.0
 	#5 is greatest/normal, 0 is disabled
 	"Tall Taiga tree spawnrate" = 5.0
 	#5 is greatest/normal, 0 is disabled
 	"Baobab tree spawnrate" = 5.0
 	#true means enabled, false means disabled
-	"Savanna Additions" = false
+	"Savanna Additions" = true
 	#true means enabled, false means disabled
 	"Snowy plant spawns" = true
 	#true means enabled, false means disabled
