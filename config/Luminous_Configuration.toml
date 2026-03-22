@@ -3,9 +3,9 @@
 	#Determines if ground pebbles will spawn in biomes
 	"Pebble Spawns" = false
 	#5 is greatest/normal, 0 is disabled
-	"Auburn tree spawnrate" = 5.0
+	"Auburn tree spawnrate" = 0.0
 	#5 is greatest/normal, 0 is disabled
-	"White Oak tree spawnrate" = 5.0
+	"White Oak tree spawnrate" = 0.0
 	#5 is greatest/normal, 0 is disabled
 	"Wild Palm tree spawnrate" = 5.0
 	#5 is greatest/normal, 0 is disabled
@@ -21,7 +21,7 @@
 	#true means enabled, false means disabled
 	"Boulder spawns" = true
 	#true means enabled, false means disabled
-	"Decorative Mushroom Spawns" = true
+	"Decorative Mushroom Spawns" = false
 
 ["Legendary Beasts"]
 	#0 means disabled 1 means enabled
