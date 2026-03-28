@@ -6,6 +6,7 @@ screenshots/
 .mixin.out/
 xaero/
 kubejs/
+data/
 fancymenu_data/
 rhino.local.properties
 options.txt
