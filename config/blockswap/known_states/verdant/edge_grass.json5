@@ -1,0 +1,814 @@
+/*
+This file uses the ".json5" file extension which allows for comments like this in a json file!
+Your text editor may show this file with invalid/no syntax, if so, we recommend you download:
+
+VSCode: https://code.visualstudio.com/
+JSON5 plugin(for VSCode): https://marketplace.visualstudio.com/items?itemName=mrmlnc.vscode-json5
+
+to make editing this file much easier.
+*/
+[
+	{
+		"Name": "verdant:edge_grass"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "1",
+			"south": "0",
+			"north": "0",
+			"east": "0"
+		},
+		"Name": "verdant:edge_grass"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "2",
+			"south": "0",
+			"north": "0",
+			"east": "0"
+		},
+		"Name": "verdant:edge_grass"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "0",
+			"south": "1",
+			"north": "0",
+			"east": "0"
+		},
+		"Name": "verdant:edge_grass"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "1",
+			"south": "1",
+			"north": "0",
+			"east": "0"
+		},
+		"Name": "verdant:edge_grass"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "2",
+			"south": "1",
+			"north": "0",
+			"east": "0"
+		},
+		"Name": "verdant:edge_grass"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "0",
+			"south": "2",
+			"north": "0",
+			"east": "0"
+		},
+		"Name": "verdant:edge_grass"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "1",
+			"south": "2",
+			"north": "0",
+			"east": "0"
+		},
+		"Name": "verdant:edge_grass"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "2",
+			"south": "2",
+			"north": "0",
+			"east": "0"
+		},
+		"Name": "verdant:edge_grass"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "0",
+			"south": "0",
+			"north": "1",
+			"east": "0"
+		},
+		"Name": "verdant:edge_grass"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "1",
+			"south": "0",
+			"north": "1",
+			"east": "0"
+		},
+		"Name": "verdant:edge_grass"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "2",
+			"south": "0",
+			"north": "1",
+			"east": "0"
+		},
+		"Name": "verdant:edge_grass"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "0",
+			"south": "1",
+			"north": "1",
+			"east": "0"
+		},
+		"Name": "verdant:edge_grass"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "1",
+			"south": "1",
+			"north": "1",
+			"east": "0"
+		},
+		"Name": "verdant:edge_grass"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "2",
+			"south": "1",
+			"north": "1",
+			"east": "0"
+		},
+		"Name": "verdant:edge_grass"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "0",
+			"south": "2",
+			"north": "1",
+			"east": "0"
+		},
+		"Name": "verdant:edge_grass"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "1",
+			"south": "2",
+			"north": "1",
+			"east": "0"
+		},
+		"Name": "verdant:edge_grass"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "2",
+			"south": "2",
+			"north": "1",
+			"east": "0"
+		},
+		"Name": "verdant:edge_grass"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "0",
+			"south": "0",
+			"north": "2",
+			"east": "0"
+		},
+		"Name": "verdant:edge_grass"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "1",
+			"south": "0",
+			"north": "2",
+			"east": "0"
+		},
+		"Name": "verdant:edge_grass"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "2",
+			"south": "0",
+			"north": "2",
+			"east": "0"
+		},
+		"Name": "verdant:edge_grass"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "0",
+			"south": "1",
+			"north": "2",
+			"east": "0"
+		},
+		"Name": "verdant:edge_grass"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "1",
+			"south": "1",
+			"north": "2",
+			"east": "0"
+		},
+		"Name": "verdant:edge_grass"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "2",
+			"south": "1",
+			"north": "2",
+			"east": "0"
+		},
+		"Name": "verdant:edge_grass"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "0",
+			"south": "2",
+			"north": "2",
+			"east": "0"
+		},
+		"Name": "verdant:edge_grass"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "1",
+			"south": "2",
+			"north": "2",
+			"east": "0"
+		},
+		"Name": "verdant:edge_grass"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "2",
+			"south": "2",
+			"north": "2",
+			"east": "0"
+		},
+		"Name": "verdant:edge_grass"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "0",
+			"south": "0",
+			"north": "0",
+			"east": "1"
+		},
+		"Name": "verdant:edge_grass"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "1",
+			"south": "0",
+			"north": "0",
+			"east": "1"
+		},
+		"Name": "verdant:edge_grass"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "2",
+			"south": "0",
+			"north": "0",
+			"east": "1"
+		},
+		"Name": "verdant:edge_grass"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "0",
+			"south": "1",
+			"north": "0",
+			"east": "1"
+		},
+		"Name": "verdant:edge_grass"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "1",
+			"south": "1",
+			"north": "0",
+			"east": "1"
+		},
+		"Name": "verdant:edge_grass"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "2",
+			"south": "1",
+			"north": "0",
+			"east": "1"
+		},
+		"Name": "verdant:edge_grass"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "0",
+			"south": "2",
+			"north": "0",
+			"east": "1"
+		},
+		"Name": "verdant:edge_grass"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "1",
+			"south": "2",
+			"north": "0",
+			"east": "1"
+		},
+		"Name": "verdant:edge_grass"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "2",
+			"south": "2",
+			"north": "0",
+			"east": "1"
+		},
+		"Name": "verdant:edge_grass"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "0",
+			"south": "0",
+			"north": "1",
+			"east": "1"
+		},
+		"Name": "verdant:edge_grass"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "1",
+			"south": "0",
+			"north": "1",
+			"east": "1"
+		},
+		"Name": "verdant:edge_grass"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "2",
+			"south": "0",
+			"north": "1",
+			"east": "1"
+		},
+		"Name": "verdant:edge_grass"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "0",
+			"south": "1",
+			"north": "1",
+			"east": "1"
+		},
+		"Name": "verdant:edge_grass"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "1",
+			"south": "1",
+			"north": "1",
+			"east": "1"
+		},
+		"Name": "verdant:edge_grass"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "2",
+			"south": "1",
+			"north": "1",
+			"east": "1"
+		},
+		"Name": "verdant:edge_grass"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "0",
+			"south": "2",
+			"north": "1",
+			"east": "1"
+		},
+		"Name": "verdant:edge_grass"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "1",
+			"south": "2",
+			"north": "1",
+			"east": "1"
+		},
+		"Name": "verdant:edge_grass"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "2",
+			"south": "2",
+			"north": "1",
+			"east": "1"
+		},
+		"Name": "verdant:edge_grass"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "0",
+			"south": "0",
+			"north": "2",
+			"east": "1"
+		},
+		"Name": "verdant:edge_grass"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "1",
+			"south": "0",
+			"north": "2",
+			"east": "1"
+		},
+		"Name": "verdant:edge_grass"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "2",
+			"south": "0",
+			"north": "2",
+			"east": "1"
+		},
+		"Name": "verdant:edge_grass"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "0",
+			"south": "1",
+			"north": "2",
+			"east": "1"
+		},
+		"Name": "verdant:edge_grass"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "1",
+			"south": "1",
+			"north": "2",
+			"east": "1"
+		},
+		"Name": "verdant:edge_grass"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "2",
+			"south": "1",
+			"north": "2",
+			"east": "1"
+		},
+		"Name": "verdant:edge_grass"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "0",
+			"south": "2",
+			"north": "2",
+			"east": "1"
+		},
+		"Name": "verdant:edge_grass"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "1",
+			"south": "2",
+			"north": "2",
+			"east": "1"
+		},
+		"Name": "verdant:edge_grass"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "2",
+			"south": "2",
+			"north": "2",
+			"east": "1"
+		},
+		"Name": "verdant:edge_grass"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "0",
+			"south": "0",
+			"north": "0",
+			"east": "2"
+		},
+		"Name": "verdant:edge_grass"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "1",
+			"south": "0",
+			"north": "0",
+			"east": "2"
+		},
+		"Name": "verdant:edge_grass"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "2",
+			"south": "0",
+			"north": "0",
+			"east": "2"
+		},
+		"Name": "verdant:edge_grass"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "0",
+			"south": "1",
+			"north": "0",
+			"east": "2"
+		},
+		"Name": "verdant:edge_grass"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "1",
+			"south": "1",
+			"north": "0",
+			"east": "2"
+		},
+		"Name": "verdant:edge_grass"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "2",
+			"south": "1",
+			"north": "0",
+			"east": "2"
+		},
+		"Name": "verdant:edge_grass"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "0",
+			"south": "2",
+			"north": "0",
+			"east": "2"
+		},
+		"Name": "verdant:edge_grass"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "1",
+			"south": "2",
+			"north": "0",
+			"east": "2"
+		},
+		"Name": "verdant:edge_grass"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "2",
+			"south": "2",
+			"north": "0",
+			"east": "2"
+		},
+		"Name": "verdant:edge_grass"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "0",
+			"south": "0",
+			"north": "1",
+			"east": "2"
+		},
+		"Name": "verdant:edge_grass"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "1",
+			"south": "0",
+			"north": "1",
+			"east": "2"
+		},
+		"Name": "verdant:edge_grass"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "2",
+			"south": "0",
+			"north": "1",
+			"east": "2"
+		},
+		"Name": "verdant:edge_grass"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "0",
+			"south": "1",
+			"north": "1",
+			"east": "2"
+		},
+		"Name": "verdant:edge_grass"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "1",
+			"south": "1",
+			"north": "1",
+			"east": "2"
+		},
+		"Name": "verdant:edge_grass"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "2",
+			"south": "1",
+			"north": "1",
+			"east": "2"
+		},
+		"Name": "verdant:edge_grass"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "0",
+			"south": "2",
+			"north": "1",
+			"east": "2"
+		},
+		"Name": "verdant:edge_grass"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "1",
+			"south": "2",
+			"north": "1",
+			"east": "2"
+		},
+		"Name": "verdant:edge_grass"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "2",
+			"south": "2",
+			"north": "1",
+			"east": "2"
+		},
+		"Name": "verdant:edge_grass"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "0",
+			"south": "0",
+			"north": "2",
+			"east": "2"
+		},
+		"Name": "verdant:edge_grass"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "1",
+			"south": "0",
+			"north": "2",
+			"east": "2"
+		},
+		"Name": "verdant:edge_grass"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "2",
+			"south": "0",
+			"north": "2",
+			"east": "2"
+		},
+		"Name": "verdant:edge_grass"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "0",
+			"south": "1",
+			"north": "2",
+			"east": "2"
+		},
+		"Name": "verdant:edge_grass"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "1",
+			"south": "1",
+			"north": "2",
+			"east": "2"
+		},
+		"Name": "verdant:edge_grass"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "2",
+			"south": "1",
+			"north": "2",
+			"east": "2"
+		},
+		"Name": "verdant:edge_grass"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "0",
+			"south": "2",
+			"north": "2",
+			"east": "2"
+		},
+		"Name": "verdant:edge_grass"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "1",
+			"south": "2",
+			"north": "2",
+			"east": "2"
+		},
+		"Name": "verdant:edge_grass"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "2",
+			"south": "2",
+			"north": "2",
+			"east": "2"
+		},
+		"Name": "verdant:edge_grass"
+	}
+]

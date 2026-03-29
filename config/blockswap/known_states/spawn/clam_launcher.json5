@@ -1,0 +1,3364 @@
+/*
+This file uses the ".json5" file extension which allows for comments like this in a json file!
+Your text editor may show this file with invalid/no syntax, if so, we recommend you download:
+
+VSCode: https://code.visualstudio.com/
+JSON5 plugin(for VSCode): https://marketplace.visualstudio.com/items?itemName=mrmlnc.vscode-json5
+
+to make editing this file much easier.
+*/
+[
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"powered": "true",
+			"facing": "north",
+			"cooldown": "0"
+		},
+		"Name": "spawn:clam_launcher"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"powered": "true",
+			"facing": "north",
+			"cooldown": "0"
+		},
+		"Name": "spawn:clam_launcher"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"powered": "false",
+			"facing": "north",
+			"cooldown": "0"
+		},
+		"Name": "spawn:clam_launcher"
+	},
+	{
+		"Name": "spawn:clam_launcher"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"powered": "true",
+			"facing": "south",
+			"cooldown": "0"
+		},
+		"Name": "spawn:clam_launcher"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"powered": "true",
+			"facing": "south",
+			"cooldown": "0"
+		},
+		"Name": "spawn:clam_launcher"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"powered": "false",
+			"facing": "south",
+			"cooldown": "0"
+		},
+		"Name": "spawn:clam_launcher"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"powered": "false",
+			"facing": "south",
+			"cooldown": "0"
+		},
+		"Name": "spawn:clam_launcher"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"powered": "true",
+			"facing": "west",
+			"cooldown": "0"
+		},
+		"Name": "spawn:clam_launcher"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"powered": "true",
+			"facing": "west",
+			"cooldown": "0"
+		},
+		"Name": "spawn:clam_launcher"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"powered": "false",
+			"facing": "west",
+			"cooldown": "0"
+		},
+		"Name": "spawn:clam_launcher"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"powered": "false",
+			"facing": "west",
+			"cooldown": "0"
+		},
+		"Name": "spawn:clam_launcher"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"powered": "true",
+			"facing": "east",
+			"cooldown": "0"
+		},
+		"Name": "spawn:clam_launcher"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"powered": "true",
+			"facing": "east",
+			"cooldown": "0"
+		},
+		"Name": "spawn:clam_launcher"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"powered": "false",
+			"facing": "east",
+			"cooldown": "0"
+		},
+		"Name": "spawn:clam_launcher"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"powered": "false",
+			"facing": "east",
+			"cooldown": "0"
+		},
+		"Name": "spawn:clam_launcher"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"powered": "true",
+			"facing": "north",
+			"cooldown": "1"
+		},
+		"Name": "spawn:clam_launcher"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"powered": "true",
+			"facing": "north",
+			"cooldown": "1"
+		},
+		"Name": "spawn:clam_launcher"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"powered": "false",
+			"facing": "north",
+			"cooldown": "1"
+		},
+		"Name": "spawn:clam_launcher"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"powered": "false",
+			"facing": "north",
+			"cooldown": "1"
+		},
+		"Name": "spawn:clam_launcher"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"powered": "true",
+			"facing": "south",
+			"cooldown": "1"
+		},
+		"Name": "spawn:clam_launcher"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"powered": "true",
+			"facing": "south",
+			"cooldown": "1"
+		},
+		"Name": "spawn:clam_launcher"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"powered": "false",
+			"facing": "south",
+			"cooldown": "1"
+		},
+		"Name": "spawn:clam_launcher"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"powered": "false",
+			"facing": "south",
+			"cooldown": "1"
+		},
+		"Name": "spawn:clam_launcher"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"powered": "true",
+			"facing": "west",
+			"cooldown": "1"
+		},
+		"Name": "spawn:clam_launcher"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"powered": "true",
+			"facing": "west",
+			"cooldown": "1"
+		},
+		"Name": "spawn:clam_launcher"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"powered": "false",
+			"facing": "west",
+			"cooldown": "1"
+		},
+		"Name": "spawn:clam_launcher"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"powered": "false",
+			"facing": "west",
+			"cooldown": "1"
+		},
+		"Name": "spawn:clam_launcher"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"powered": "true",
+			"facing": "east",
+			"cooldown": "1"
+		},
+		"Name": "spawn:clam_launcher"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"powered": "true",
+			"facing": "east",
+			"cooldown": "1"
+		},
+		"Name": "spawn:clam_launcher"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"powered": "false",
+			"facing": "east",
+			"cooldown": "1"
+		},
+		"Name": "spawn:clam_launcher"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"powered": "false",
+			"facing": "east",
+			"cooldown": "1"
+		},
+		"Name": "spawn:clam_launcher"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"powered": "true",
+			"facing": "north",
+			"cooldown": "2"
+		},
+		"Name": "spawn:clam_launcher"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"powered": "true",
+			"facing": "north",
+			"cooldown": "2"
+		},
+		"Name": "spawn:clam_launcher"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"powered": "false",
+			"facing": "north",
+			"cooldown": "2"
+		},
+		"Name": "spawn:clam_launcher"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"powered": "false",
+			"facing": "north",
+			"cooldown": "2"
+		},
+		"Name": "spawn:clam_launcher"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"powered": "true",
+			"facing": "south",
+			"cooldown": "2"
+		},
+		"Name": "spawn:clam_launcher"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"powered": "true",
+			"facing": "south",
+			"cooldown": "2"
+		},
+		"Name": "spawn:clam_launcher"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"powered": "false",
+			"facing": "south",
+			"cooldown": "2"
+		},
+		"Name": "spawn:clam_launcher"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"powered": "false",
+			"facing": "south",
+			"cooldown": "2"
+		},
+		"Name": "spawn:clam_launcher"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"powered": "true",
+			"facing": "west",
+			"cooldown": "2"
+		},
+		"Name": "spawn:clam_launcher"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"powered": "true",
+			"facing": "west",
+			"cooldown": "2"
+		},
+		"Name": "spawn:clam_launcher"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"powered": "false",
+			"facing": "west",
+			"cooldown": "2"
+		},
+		"Name": "spawn:clam_launcher"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"powered": "false",
+			"facing": "west",
+			"cooldown": "2"
+		},
+		"Name": "spawn:clam_launcher"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"powered": "true",
+			"facing": "east",
+			"cooldown": "2"
+		},
+		"Name": "spawn:clam_launcher"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"powered": "true",
+			"facing": "east",
+			"cooldown": "2"
+		},
+		"Name": "spawn:clam_launcher"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"powered": "false",
+			"facing": "east",
+			"cooldown": "2"
+		},
+		"Name": "spawn:clam_launcher"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"powered": "false",
+			"facing": "east",
+			"cooldown": "2"
+		},
+		"Name": "spawn:clam_launcher"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"powered": "true",
+			"facing": "north",
+			"cooldown": "3"
+		},
+		"Name": "spawn:clam_launcher"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"powered": "true",
+			"facing": "north",
+			"cooldown": "3"
+		},
+		"Name": "spawn:clam_launcher"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"powered": "false",
+			"facing": "north",
+			"cooldown": "3"
+		},
+		"Name": "spawn:clam_launcher"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"powered": "false",
+			"facing": "north",
+			"cooldown": "3"
+		},
+		"Name": "spawn:clam_launcher"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"powered": "true",
+			"facing": "south",
+			"cooldown": "3"
+		},
+		"Name": "spawn:clam_launcher"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"powered": "true",
+			"facing": "south",
+			"cooldown": "3"
+		},
+		"Name": "spawn:clam_launcher"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"powered": "false",
+			"facing": "south",
+			"cooldown": "3"
+		},
+		"Name": "spawn:clam_launcher"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"powered": "false",
+			"facing": "south",
+			"cooldown": "3"
+		},
+		"Name": "spawn:clam_launcher"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"powered": "true",
+			"facing": "west",
+			"cooldown": "3"
+		},
+		"Name": "spawn:clam_launcher"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"powered": "true",
+			"facing": "west",
+			"cooldown": "3"
+		},
+		"Name": "spawn:clam_launcher"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"powered": "false",
+			"facing": "west",
+			"cooldown": "3"
+		},
+		"Name": "spawn:clam_launcher"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"powered": "false",
+			"facing": "west",
+			"cooldown": "3"
+		},
+		"Name": "spawn:clam_launcher"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"powered": "true",
+			"facing": "east",
+			"cooldown": "3"
+		},
+		"Name": "spawn:clam_launcher"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"powered": "true",
+			"facing": "east",
+			"cooldown": "3"
+		},
+		"Name": "spawn:clam_launcher"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"powered": "false",
+			"facing": "east",
+			"cooldown": "3"
+		},
+		"Name": "spawn:clam_launcher"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"powered": "false",
+			"facing": "east",
+			"cooldown": "3"
+		},
+		"Name": "spawn:clam_launcher"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"powered": "true",
+			"facing": "north",
+			"cooldown": "4"
+		},
+		"Name": "spawn:clam_launcher"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"powered": "true",
+			"facing": "north",
+			"cooldown": "4"
+		},
+		"Name": "spawn:clam_launcher"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"powered": "false",
+			"facing": "north",
+			"cooldown": "4"
+		},
+		"Name": "spawn:clam_launcher"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"powered": "false",
+			"facing": "north",
+			"cooldown": "4"
+		},
+		"Name": "spawn:clam_launcher"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"powered": "true",
+			"facing": "south",
+			"cooldown": "4"
+		},
+		"Name": "spawn:clam_launcher"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"powered": "true",
+			"facing": "south",
+			"cooldown": "4"
+		},
+		"Name": "spawn:clam_launcher"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"powered": "false",
+			"facing": "south",
+			"cooldown": "4"
+		},
+		"Name": "spawn:clam_launcher"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"powered": "false",
+			"facing": "south",
+			"cooldown": "4"
+		},
+		"Name": "spawn:clam_launcher"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"powered": "true",
+			"facing": "west",
+			"cooldown": "4"
+		},
+		"Name": "spawn:clam_launcher"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"powered": "true",
+			"facing": "west",
+			"cooldown": "4"
+		},
+		"Name": "spawn:clam_launcher"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"powered": "false",
+			"facing": "west",
+			"cooldown": "4"
+		},
+		"Name": "spawn:clam_launcher"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"powered": "false",
+			"facing": "west",
+			"cooldown": "4"
+		},
+		"Name": "spawn:clam_launcher"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"powered": "true",
+			"facing": "east",
+			"cooldown": "4"
+		},
+		"Name": "spawn:clam_launcher"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"powered": "true",
+			"facing": "east",
+			"cooldown": "4"
+		},
+		"Name": "spawn:clam_launcher"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"powered": "false",
+			"facing": "east",
+			"cooldown": "4"
+		},
+		"Name": "spawn:clam_launcher"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"powered": "false",
+			"facing": "east",
+			"cooldown": "4"
+		},
+		"Name": "spawn:clam_launcher"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"powered": "true",
+			"facing": "north",
+			"cooldown": "5"
+		},
+		"Name": "spawn:clam_launcher"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"powered": "true",
+			"facing": "north",
+			"cooldown": "5"
+		},
+		"Name": "spawn:clam_launcher"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"powered": "false",
+			"facing": "north",
+			"cooldown": "5"
+		},
+		"Name": "spawn:clam_launcher"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"powered": "false",
+			"facing": "north",
+			"cooldown": "5"
+		},
+		"Name": "spawn:clam_launcher"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"powered": "true",
+			"facing": "south",
+			"cooldown": "5"
+		},
+		"Name": "spawn:clam_launcher"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"powered": "true",
+			"facing": "south",
+			"cooldown": "5"
+		},
+		"Name": "spawn:clam_launcher"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"powered": "false",
+			"facing": "south",
+			"cooldown": "5"
+		},
+		"Name": "spawn:clam_launcher"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"powered": "false",
+			"facing": "south",
+			"cooldown": "5"
+		},
+		"Name": "spawn:clam_launcher"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"powered": "true",
+			"facing": "west",
+			"cooldown": "5"
+		},
+		"Name": "spawn:clam_launcher"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"powered": "true",
+			"facing": "west",
+			"cooldown": "5"
+		},
+		"Name": "spawn:clam_launcher"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"powered": "false",
+			"facing": "west",
+			"cooldown": "5"
+		},
+		"Name": "spawn:clam_launcher"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"powered": "false",
+			"facing": "west",
+			"cooldown": "5"
+		},
+		"Name": "spawn:clam_launcher"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"powered": "true",
+			"facing": "east",
+			"cooldown": "5"
+		},
+		"Name": "spawn:clam_launcher"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"powered": "true",
+			"facing": "east",
+			"cooldown": "5"
+		},
+		"Name": "spawn:clam_launcher"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"powered": "false",
+			"facing": "east",
+			"cooldown": "5"
+		},
+		"Name": "spawn:clam_launcher"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"powered": "false",
+			"facing": "east",
+			"cooldown": "5"
+		},
+		"Name": "spawn:clam_launcher"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"powered": "true",
+			"facing": "north",
+			"cooldown": "6"
+		},
+		"Name": "spawn:clam_launcher"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"powered": "true",
+			"facing": "north",
+			"cooldown": "6"
+		},
+		"Name": "spawn:clam_launcher"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"powered": "false",
+			"facing": "north",
+			"cooldown": "6"
+		},
+		"Name": "spawn:clam_launcher"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"powered": "false",
+			"facing": "north",
+			"cooldown": "6"
+		},
+		"Name": "spawn:clam_launcher"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"powered": "true",
+			"facing": "south",
+			"cooldown": "6"
+		},
+		"Name": "spawn:clam_launcher"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"powered": "true",
+			"facing": "south",
+			"cooldown": "6"
+		},
+		"Name": "spawn:clam_launcher"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"powered": "false",
+			"facing": "south",
+			"cooldown": "6"
+		},
+		"Name": "spawn:clam_launcher"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"powered": "false",
+			"facing": "south",
+			"cooldown": "6"
+		},
+		"Name": "spawn:clam_launcher"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"powered": "true",
+			"facing": "west",
+			"cooldown": "6"
+		},
+		"Name": "spawn:clam_launcher"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"powered": "true",
+			"facing": "west",
+			"cooldown": "6"
+		},
+		"Name": "spawn:clam_launcher"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"powered": "false",
+			"facing": "west",
+			"cooldown": "6"
+		},
+		"Name": "spawn:clam_launcher"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"powered": "false",
+			"facing": "west",
+			"cooldown": "6"
+		},
+		"Name": "spawn:clam_launcher"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"powered": "true",
+			"facing": "east",
+			"cooldown": "6"
+		},
+		"Name": "spawn:clam_launcher"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"powered": "true",
+			"facing": "east",
+			"cooldown": "6"
+		},
+		"Name": "spawn:clam_launcher"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"powered": "false",
+			"facing": "east",
+			"cooldown": "6"
+		},
+		"Name": "spawn:clam_launcher"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"powered": "false",
+			"facing": "east",
+			"cooldown": "6"
+		},
+		"Name": "spawn:clam_launcher"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"powered": "true",
+			"facing": "north",
+			"cooldown": "7"
+		},
+		"Name": "spawn:clam_launcher"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"powered": "true",
+			"facing": "north",
+			"cooldown": "7"
+		},
+		"Name": "spawn:clam_launcher"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"powered": "false",
+			"facing": "north",
+			"cooldown": "7"
+		},
+		"Name": "spawn:clam_launcher"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"powered": "false",
+			"facing": "north",
+			"cooldown": "7"
+		},
+		"Name": "spawn:clam_launcher"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"powered": "true",
+			"facing": "south",
+			"cooldown": "7"
+		},
+		"Name": "spawn:clam_launcher"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"powered": "true",
+			"facing": "south",
+			"cooldown": "7"
+		},
+		"Name": "spawn:clam_launcher"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"powered": "false",
+			"facing": "south",
+			"cooldown": "7"
+		},
+		"Name": "spawn:clam_launcher"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"powered": "false",
+			"facing": "south",
+			"cooldown": "7"
+		},
+		"Name": "spawn:clam_launcher"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"powered": "true",
+			"facing": "west",
+			"cooldown": "7"
+		},
+		"Name": "spawn:clam_launcher"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"powered": "true",
+			"facing": "west",
+			"cooldown": "7"
+		},
+		"Name": "spawn:clam_launcher"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"powered": "false",
+			"facing": "west",
+			"cooldown": "7"
+		},
+		"Name": "spawn:clam_launcher"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"powered": "false",
+			"facing": "west",
+			"cooldown": "7"
+		},
+		"Name": "spawn:clam_launcher"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"powered": "true",
+			"facing": "east",
+			"cooldown": "7"
+		},
+		"Name": "spawn:clam_launcher"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"powered": "true",
+			"facing": "east",
+			"cooldown": "7"
+		},
+		"Name": "spawn:clam_launcher"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"powered": "false",
+			"facing": "east",
+			"cooldown": "7"
+		},
+		"Name": "spawn:clam_launcher"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"powered": "false",
+			"facing": "east",
+			"cooldown": "7"
+		},
+		"Name": "spawn:clam_launcher"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"powered": "true",
+			"facing": "north",
+			"cooldown": "8"
+		},
+		"Name": "spawn:clam_launcher"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"powered": "true",
+			"facing": "north",
+			"cooldown": "8"
+		},
+		"Name": "spawn:clam_launcher"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"powered": "false",
+			"facing": "north",
+			"cooldown": "8"
+		},
+		"Name": "spawn:clam_launcher"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"powered": "false",
+			"facing": "north",
+			"cooldown": "8"
+		},
+		"Name": "spawn:clam_launcher"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"powered": "true",
+			"facing": "south",
+			"cooldown": "8"
+		},
+		"Name": "spawn:clam_launcher"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"powered": "true",
+			"facing": "south",
+			"cooldown": "8"
+		},
+		"Name": "spawn:clam_launcher"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"powered": "false",
+			"facing": "south",
+			"cooldown": "8"
+		},
+		"Name": "spawn:clam_launcher"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"powered": "false",
+			"facing": "south",
+			"cooldown": "8"
+		},
+		"Name": "spawn:clam_launcher"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"powered": "true",
+			"facing": "west",
+			"cooldown": "8"
+		},
+		"Name": "spawn:clam_launcher"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"powered": "true",
+			"facing": "west",
+			"cooldown": "8"
+		},
+		"Name": "spawn:clam_launcher"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"powered": "false",
+			"facing": "west",
+			"cooldown": "8"
+		},
+		"Name": "spawn:clam_launcher"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"powered": "false",
+			"facing": "west",
+			"cooldown": "8"
+		},
+		"Name": "spawn:clam_launcher"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"powered": "true",
+			"facing": "east",
+			"cooldown": "8"
+		},
+		"Name": "spawn:clam_launcher"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"powered": "true",
+			"facing": "east",
+			"cooldown": "8"
+		},
+		"Name": "spawn:clam_launcher"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"powered": "false",
+			"facing": "east",
+			"cooldown": "8"
+		},
+		"Name": "spawn:clam_launcher"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"powered": "false",
+			"facing": "east",
+			"cooldown": "8"
+		},
+		"Name": "spawn:clam_launcher"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"powered": "true",
+			"facing": "north",
+			"cooldown": "9"
+		},
+		"Name": "spawn:clam_launcher"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"powered": "true",
+			"facing": "north",
+			"cooldown": "9"
+		},
+		"Name": "spawn:clam_launcher"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"powered": "false",
+			"facing": "north",
+			"cooldown": "9"
+		},
+		"Name": "spawn:clam_launcher"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"powered": "false",
+			"facing": "north",
+			"cooldown": "9"
+		},
+		"Name": "spawn:clam_launcher"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"powered": "true",
+			"facing": "south",
+			"cooldown": "9"
+		},
+		"Name": "spawn:clam_launcher"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"powered": "true",
+			"facing": "south",
+			"cooldown": "9"
+		},
+		"Name": "spawn:clam_launcher"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"powered": "false",
+			"facing": "south",
+			"cooldown": "9"
+		},
+		"Name": "spawn:clam_launcher"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"powered": "false",
+			"facing": "south",
+			"cooldown": "9"
+		},
+		"Name": "spawn:clam_launcher"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"powered": "true",
+			"facing": "west",
+			"cooldown": "9"
+		},
+		"Name": "spawn:clam_launcher"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"powered": "true",
+			"facing": "west",
+			"cooldown": "9"
+		},
+		"Name": "spawn:clam_launcher"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"powered": "false",
+			"facing": "west",
+			"cooldown": "9"
+		},
+		"Name": "spawn:clam_launcher"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"powered": "false",
+			"facing": "west",
+			"cooldown": "9"
+		},
+		"Name": "spawn:clam_launcher"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"powered": "true",
+			"facing": "east",
+			"cooldown": "9"
+		},
+		"Name": "spawn:clam_launcher"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"powered": "true",
+			"facing": "east",
+			"cooldown": "9"
+		},
+		"Name": "spawn:clam_launcher"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"powered": "false",
+			"facing": "east",
+			"cooldown": "9"
+		},
+		"Name": "spawn:clam_launcher"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"powered": "false",
+			"facing": "east",
+			"cooldown": "9"
+		},
+		"Name": "spawn:clam_launcher"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"powered": "true",
+			"facing": "north",
+			"cooldown": "10"
+		},
+		"Name": "spawn:clam_launcher"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"powered": "true",
+			"facing": "north",
+			"cooldown": "10"
+		},
+		"Name": "spawn:clam_launcher"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"powered": "false",
+			"facing": "north",
+			"cooldown": "10"
+		},
+		"Name": "spawn:clam_launcher"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"powered": "false",
+			"facing": "north",
+			"cooldown": "10"
+		},
+		"Name": "spawn:clam_launcher"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"powered": "true",
+			"facing": "south",
+			"cooldown": "10"
+		},
+		"Name": "spawn:clam_launcher"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"powered": "true",
+			"facing": "south",
+			"cooldown": "10"
+		},
+		"Name": "spawn:clam_launcher"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"powered": "false",
+			"facing": "south",
+			"cooldown": "10"
+		},
+		"Name": "spawn:clam_launcher"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"powered": "false",
+			"facing": "south",
+			"cooldown": "10"
+		},
+		"Name": "spawn:clam_launcher"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"powered": "true",
+			"facing": "west",
+			"cooldown": "10"
+		},
+		"Name": "spawn:clam_launcher"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"powered": "true",
+			"facing": "west",
+			"cooldown": "10"
+		},
+		"Name": "spawn:clam_launcher"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"powered": "false",
+			"facing": "west",
+			"cooldown": "10"
+		},
+		"Name": "spawn:clam_launcher"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"powered": "false",
+			"facing": "west",
+			"cooldown": "10"
+		},
+		"Name": "spawn:clam_launcher"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"powered": "true",
+			"facing": "east",
+			"cooldown": "10"
+		},
+		"Name": "spawn:clam_launcher"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"powered": "true",
+			"facing": "east",
+			"cooldown": "10"
+		},
+		"Name": "spawn:clam_launcher"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"powered": "false",
+			"facing": "east",
+			"cooldown": "10"
+		},
+		"Name": "spawn:clam_launcher"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"powered": "false",
+			"facing": "east",
+			"cooldown": "10"
+		},
+		"Name": "spawn:clam_launcher"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"powered": "true",
+			"facing": "north",
+			"cooldown": "11"
+		},
+		"Name": "spawn:clam_launcher"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"powered": "true",
+			"facing": "north",
+			"cooldown": "11"
+		},
+		"Name": "spawn:clam_launcher"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"powered": "false",
+			"facing": "north",
+			"cooldown": "11"
+		},
+		"Name": "spawn:clam_launcher"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"powered": "false",
+			"facing": "north",
+			"cooldown": "11"
+		},
+		"Name": "spawn:clam_launcher"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"powered": "true",
+			"facing": "south",
+			"cooldown": "11"
+		},
+		"Name": "spawn:clam_launcher"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"powered": "true",
+			"facing": "south",
+			"cooldown": "11"
+		},
+		"Name": "spawn:clam_launcher"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"powered": "false",
+			"facing": "south",
+			"cooldown": "11"
+		},
+		"Name": "spawn:clam_launcher"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"powered": "false",
+			"facing": "south",
+			"cooldown": "11"
+		},
+		"Name": "spawn:clam_launcher"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"powered": "true",
+			"facing": "west",
+			"cooldown": "11"
+		},
+		"Name": "spawn:clam_launcher"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"powered": "true",
+			"facing": "west",
+			"cooldown": "11"
+		},
+		"Name": "spawn:clam_launcher"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"powered": "false",
+			"facing": "west",
+			"cooldown": "11"
+		},
+		"Name": "spawn:clam_launcher"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"powered": "false",
+			"facing": "west",
+			"cooldown": "11"
+		},
+		"Name": "spawn:clam_launcher"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"powered": "true",
+			"facing": "east",
+			"cooldown": "11"
+		},
+		"Name": "spawn:clam_launcher"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"powered": "true",
+			"facing": "east",
+			"cooldown": "11"
+		},
+		"Name": "spawn:clam_launcher"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"powered": "false",
+			"facing": "east",
+			"cooldown": "11"
+		},
+		"Name": "spawn:clam_launcher"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"powered": "false",
+			"facing": "east",
+			"cooldown": "11"
+		},
+		"Name": "spawn:clam_launcher"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"powered": "true",
+			"facing": "north",
+			"cooldown": "12"
+		},
+		"Name": "spawn:clam_launcher"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"powered": "true",
+			"facing": "north",
+			"cooldown": "12"
+		},
+		"Name": "spawn:clam_launcher"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"powered": "false",
+			"facing": "north",
+			"cooldown": "12"
+		},
+		"Name": "spawn:clam_launcher"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"powered": "false",
+			"facing": "north",
+			"cooldown": "12"
+		},
+		"Name": "spawn:clam_launcher"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"powered": "true",
+			"facing": "south",
+			"cooldown": "12"
+		},
+		"Name": "spawn:clam_launcher"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"powered": "true",
+			"facing": "south",
+			"cooldown": "12"
+		},
+		"Name": "spawn:clam_launcher"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"powered": "false",
+			"facing": "south",
+			"cooldown": "12"
+		},
+		"Name": "spawn:clam_launcher"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"powered": "false",
+			"facing": "south",
+			"cooldown": "12"
+		},
+		"Name": "spawn:clam_launcher"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"powered": "true",
+			"facing": "west",
+			"cooldown": "12"
+		},
+		"Name": "spawn:clam_launcher"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"powered": "true",
+			"facing": "west",
+			"cooldown": "12"
+		},
+		"Name": "spawn:clam_launcher"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"powered": "false",
+			"facing": "west",
+			"cooldown": "12"
+		},
+		"Name": "spawn:clam_launcher"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"powered": "false",
+			"facing": "west",
+			"cooldown": "12"
+		},
+		"Name": "spawn:clam_launcher"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"powered": "true",
+			"facing": "east",
+			"cooldown": "12"
+		},
+		"Name": "spawn:clam_launcher"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"powered": "true",
+			"facing": "east",
+			"cooldown": "12"
+		},
+		"Name": "spawn:clam_launcher"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"powered": "false",
+			"facing": "east",
+			"cooldown": "12"
+		},
+		"Name": "spawn:clam_launcher"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"powered": "false",
+			"facing": "east",
+			"cooldown": "12"
+		},
+		"Name": "spawn:clam_launcher"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"powered": "true",
+			"facing": "north",
+			"cooldown": "13"
+		},
+		"Name": "spawn:clam_launcher"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"powered": "true",
+			"facing": "north",
+			"cooldown": "13"
+		},
+		"Name": "spawn:clam_launcher"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"powered": "false",
+			"facing": "north",
+			"cooldown": "13"
+		},
+		"Name": "spawn:clam_launcher"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"powered": "false",
+			"facing": "north",
+			"cooldown": "13"
+		},
+		"Name": "spawn:clam_launcher"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"powered": "true",
+			"facing": "south",
+			"cooldown": "13"
+		},
+		"Name": "spawn:clam_launcher"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"powered": "true",
+			"facing": "south",
+			"cooldown": "13"
+		},
+		"Name": "spawn:clam_launcher"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"powered": "false",
+			"facing": "south",
+			"cooldown": "13"
+		},
+		"Name": "spawn:clam_launcher"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"powered": "false",
+			"facing": "south",
+			"cooldown": "13"
+		},
+		"Name": "spawn:clam_launcher"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"powered": "true",
+			"facing": "west",
+			"cooldown": "13"
+		},
+		"Name": "spawn:clam_launcher"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"powered": "true",
+			"facing": "west",
+			"cooldown": "13"
+		},
+		"Name": "spawn:clam_launcher"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"powered": "false",
+			"facing": "west",
+			"cooldown": "13"
+		},
+		"Name": "spawn:clam_launcher"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"powered": "false",
+			"facing": "west",
+			"cooldown": "13"
+		},
+		"Name": "spawn:clam_launcher"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"powered": "true",
+			"facing": "east",
+			"cooldown": "13"
+		},
+		"Name": "spawn:clam_launcher"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"powered": "true",
+			"facing": "east",
+			"cooldown": "13"
+		},
+		"Name": "spawn:clam_launcher"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"powered": "false",
+			"facing": "east",
+			"cooldown": "13"
+		},
+		"Name": "spawn:clam_launcher"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"powered": "false",
+			"facing": "east",
+			"cooldown": "13"
+		},
+		"Name": "spawn:clam_launcher"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"powered": "true",
+			"facing": "north",
+			"cooldown": "14"
+		},
+		"Name": "spawn:clam_launcher"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"powered": "true",
+			"facing": "north",
+			"cooldown": "14"
+		},
+		"Name": "spawn:clam_launcher"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"powered": "false",
+			"facing": "north",
+			"cooldown": "14"
+		},
+		"Name": "spawn:clam_launcher"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"powered": "false",
+			"facing": "north",
+			"cooldown": "14"
+		},
+		"Name": "spawn:clam_launcher"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"powered": "true",
+			"facing": "south",
+			"cooldown": "14"
+		},
+		"Name": "spawn:clam_launcher"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"powered": "true",
+			"facing": "south",
+			"cooldown": "14"
+		},
+		"Name": "spawn:clam_launcher"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"powered": "false",
+			"facing": "south",
+			"cooldown": "14"
+		},
+		"Name": "spawn:clam_launcher"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"powered": "false",
+			"facing": "south",
+			"cooldown": "14"
+		},
+		"Name": "spawn:clam_launcher"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"powered": "true",
+			"facing": "west",
+			"cooldown": "14"
+		},
+		"Name": "spawn:clam_launcher"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"powered": "true",
+			"facing": "west",
+			"cooldown": "14"
+		},
+		"Name": "spawn:clam_launcher"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"powered": "false",
+			"facing": "west",
+			"cooldown": "14"
+		},
+		"Name": "spawn:clam_launcher"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"powered": "false",
+			"facing": "west",
+			"cooldown": "14"
+		},
+		"Name": "spawn:clam_launcher"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"powered": "true",
+			"facing": "east",
+			"cooldown": "14"
+		},
+		"Name": "spawn:clam_launcher"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"powered": "true",
+			"facing": "east",
+			"cooldown": "14"
+		},
+		"Name": "spawn:clam_launcher"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"powered": "false",
+			"facing": "east",
+			"cooldown": "14"
+		},
+		"Name": "spawn:clam_launcher"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"powered": "false",
+			"facing": "east",
+			"cooldown": "14"
+		},
+		"Name": "spawn:clam_launcher"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"powered": "true",
+			"facing": "north",
+			"cooldown": "15"
+		},
+		"Name": "spawn:clam_launcher"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"powered": "true",
+			"facing": "north",
+			"cooldown": "15"
+		},
+		"Name": "spawn:clam_launcher"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"powered": "false",
+			"facing": "north",
+			"cooldown": "15"
+		},
+		"Name": "spawn:clam_launcher"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"powered": "false",
+			"facing": "north",
+			"cooldown": "15"
+		},
+		"Name": "spawn:clam_launcher"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"powered": "true",
+			"facing": "south",
+			"cooldown": "15"
+		},
+		"Name": "spawn:clam_launcher"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"powered": "true",
+			"facing": "south",
+			"cooldown": "15"
+		},
+		"Name": "spawn:clam_launcher"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"powered": "false",
+			"facing": "south",
+			"cooldown": "15"
+		},
+		"Name": "spawn:clam_launcher"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"powered": "false",
+			"facing": "south",
+			"cooldown": "15"
+		},
+		"Name": "spawn:clam_launcher"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"powered": "true",
+			"facing": "west",
+			"cooldown": "15"
+		},
+		"Name": "spawn:clam_launcher"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"powered": "true",
+			"facing": "west",
+			"cooldown": "15"
+		},
+		"Name": "spawn:clam_launcher"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"powered": "false",
+			"facing": "west",
+			"cooldown": "15"
+		},
+		"Name": "spawn:clam_launcher"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"powered": "false",
+			"facing": "west",
+			"cooldown": "15"
+		},
+		"Name": "spawn:clam_launcher"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"powered": "true",
+			"facing": "east",
+			"cooldown": "15"
+		},
+		"Name": "spawn:clam_launcher"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"powered": "true",
+			"facing": "east",
+			"cooldown": "15"
+		},
+		"Name": "spawn:clam_launcher"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"powered": "false",
+			"facing": "east",
+			"cooldown": "15"
+		},
+		"Name": "spawn:clam_launcher"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"powered": "false",
+			"facing": "east",
+			"cooldown": "15"
+		},
+		"Name": "spawn:clam_launcher"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"powered": "true",
+			"facing": "north",
+			"cooldown": "16"
+		},
+		"Name": "spawn:clam_launcher"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"powered": "true",
+			"facing": "north",
+			"cooldown": "16"
+		},
+		"Name": "spawn:clam_launcher"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"powered": "false",
+			"facing": "north",
+			"cooldown": "16"
+		},
+		"Name": "spawn:clam_launcher"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"powered": "false",
+			"facing": "north",
+			"cooldown": "16"
+		},
+		"Name": "spawn:clam_launcher"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"powered": "true",
+			"facing": "south",
+			"cooldown": "16"
+		},
+		"Name": "spawn:clam_launcher"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"powered": "true",
+			"facing": "south",
+			"cooldown": "16"
+		},
+		"Name": "spawn:clam_launcher"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"powered": "false",
+			"facing": "south",
+			"cooldown": "16"
+		},
+		"Name": "spawn:clam_launcher"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"powered": "false",
+			"facing": "south",
+			"cooldown": "16"
+		},
+		"Name": "spawn:clam_launcher"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"powered": "true",
+			"facing": "west",
+			"cooldown": "16"
+		},
+		"Name": "spawn:clam_launcher"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"powered": "true",
+			"facing": "west",
+			"cooldown": "16"
+		},
+		"Name": "spawn:clam_launcher"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"powered": "false",
+			"facing": "west",
+			"cooldown": "16"
+		},
+		"Name": "spawn:clam_launcher"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"powered": "false",
+			"facing": "west",
+			"cooldown": "16"
+		},
+		"Name": "spawn:clam_launcher"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"powered": "true",
+			"facing": "east",
+			"cooldown": "16"
+		},
+		"Name": "spawn:clam_launcher"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"powered": "true",
+			"facing": "east",
+			"cooldown": "16"
+		},
+		"Name": "spawn:clam_launcher"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"powered": "false",
+			"facing": "east",
+			"cooldown": "16"
+		},
+		"Name": "spawn:clam_launcher"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"powered": "false",
+			"facing": "east",
+			"cooldown": "16"
+		},
+		"Name": "spawn:clam_launcher"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"powered": "true",
+			"facing": "north",
+			"cooldown": "17"
+		},
+		"Name": "spawn:clam_launcher"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"powered": "true",
+			"facing": "north",
+			"cooldown": "17"
+		},
+		"Name": "spawn:clam_launcher"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"powered": "false",
+			"facing": "north",
+			"cooldown": "17"
+		},
+		"Name": "spawn:clam_launcher"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"powered": "false",
+			"facing": "north",
+			"cooldown": "17"
+		},
+		"Name": "spawn:clam_launcher"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"powered": "true",
+			"facing": "south",
+			"cooldown": "17"
+		},
+		"Name": "spawn:clam_launcher"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"powered": "true",
+			"facing": "south",
+			"cooldown": "17"
+		},
+		"Name": "spawn:clam_launcher"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"powered": "false",
+			"facing": "south",
+			"cooldown": "17"
+		},
+		"Name": "spawn:clam_launcher"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"powered": "false",
+			"facing": "south",
+			"cooldown": "17"
+		},
+		"Name": "spawn:clam_launcher"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"powered": "true",
+			"facing": "west",
+			"cooldown": "17"
+		},
+		"Name": "spawn:clam_launcher"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"powered": "true",
+			"facing": "west",
+			"cooldown": "17"
+		},
+		"Name": "spawn:clam_launcher"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"powered": "false",
+			"facing": "west",
+			"cooldown": "17"
+		},
+		"Name": "spawn:clam_launcher"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"powered": "false",
+			"facing": "west",
+			"cooldown": "17"
+		},
+		"Name": "spawn:clam_launcher"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"powered": "true",
+			"facing": "east",
+			"cooldown": "17"
+		},
+		"Name": "spawn:clam_launcher"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"powered": "true",
+			"facing": "east",
+			"cooldown": "17"
+		},
+		"Name": "spawn:clam_launcher"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"powered": "false",
+			"facing": "east",
+			"cooldown": "17"
+		},
+		"Name": "spawn:clam_launcher"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"powered": "false",
+			"facing": "east",
+			"cooldown": "17"
+		},
+		"Name": "spawn:clam_launcher"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"powered": "true",
+			"facing": "north",
+			"cooldown": "18"
+		},
+		"Name": "spawn:clam_launcher"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"powered": "true",
+			"facing": "north",
+			"cooldown": "18"
+		},
+		"Name": "spawn:clam_launcher"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"powered": "false",
+			"facing": "north",
+			"cooldown": "18"
+		},
+		"Name": "spawn:clam_launcher"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"powered": "false",
+			"facing": "north",
+			"cooldown": "18"
+		},
+		"Name": "spawn:clam_launcher"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"powered": "true",
+			"facing": "south",
+			"cooldown": "18"
+		},
+		"Name": "spawn:clam_launcher"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"powered": "true",
+			"facing": "south",
+			"cooldown": "18"
+		},
+		"Name": "spawn:clam_launcher"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"powered": "false",
+			"facing": "south",
+			"cooldown": "18"
+		},
+		"Name": "spawn:clam_launcher"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"powered": "false",
+			"facing": "south",
+			"cooldown": "18"
+		},
+		"Name": "spawn:clam_launcher"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"powered": "true",
+			"facing": "west",
+			"cooldown": "18"
+		},
+		"Name": "spawn:clam_launcher"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"powered": "true",
+			"facing": "west",
+			"cooldown": "18"
+		},
+		"Name": "spawn:clam_launcher"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"powered": "false",
+			"facing": "west",
+			"cooldown": "18"
+		},
+		"Name": "spawn:clam_launcher"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"powered": "false",
+			"facing": "west",
+			"cooldown": "18"
+		},
+		"Name": "spawn:clam_launcher"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"powered": "true",
+			"facing": "east",
+			"cooldown": "18"
+		},
+		"Name": "spawn:clam_launcher"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"powered": "true",
+			"facing": "east",
+			"cooldown": "18"
+		},
+		"Name": "spawn:clam_launcher"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"powered": "false",
+			"facing": "east",
+			"cooldown": "18"
+		},
+		"Name": "spawn:clam_launcher"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"powered": "false",
+			"facing": "east",
+			"cooldown": "18"
+		},
+		"Name": "spawn:clam_launcher"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"powered": "true",
+			"facing": "north",
+			"cooldown": "19"
+		},
+		"Name": "spawn:clam_launcher"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"powered": "true",
+			"facing": "north",
+			"cooldown": "19"
+		},
+		"Name": "spawn:clam_launcher"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"powered": "false",
+			"facing": "north",
+			"cooldown": "19"
+		},
+		"Name": "spawn:clam_launcher"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"powered": "false",
+			"facing": "north",
+			"cooldown": "19"
+		},
+		"Name": "spawn:clam_launcher"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"powered": "true",
+			"facing": "south",
+			"cooldown": "19"
+		},
+		"Name": "spawn:clam_launcher"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"powered": "true",
+			"facing": "south",
+			"cooldown": "19"
+		},
+		"Name": "spawn:clam_launcher"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"powered": "false",
+			"facing": "south",
+			"cooldown": "19"
+		},
+		"Name": "spawn:clam_launcher"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"powered": "false",
+			"facing": "south",
+			"cooldown": "19"
+		},
+		"Name": "spawn:clam_launcher"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"powered": "true",
+			"facing": "west",
+			"cooldown": "19"
+		},
+		"Name": "spawn:clam_launcher"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"powered": "true",
+			"facing": "west",
+			"cooldown": "19"
+		},
+		"Name": "spawn:clam_launcher"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"powered": "false",
+			"facing": "west",
+			"cooldown": "19"
+		},
+		"Name": "spawn:clam_launcher"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"powered": "false",
+			"facing": "west",
+			"cooldown": "19"
+		},
+		"Name": "spawn:clam_launcher"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"powered": "true",
+			"facing": "east",
+			"cooldown": "19"
+		},
+		"Name": "spawn:clam_launcher"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"powered": "true",
+			"facing": "east",
+			"cooldown": "19"
+		},
+		"Name": "spawn:clam_launcher"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"powered": "false",
+			"facing": "east",
+			"cooldown": "19"
+		},
+		"Name": "spawn:clam_launcher"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"powered": "false",
+			"facing": "east",
+			"cooldown": "19"
+		},
+		"Name": "spawn:clam_launcher"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"powered": "true",
+			"facing": "north",
+			"cooldown": "20"
+		},
+		"Name": "spawn:clam_launcher"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"powered": "true",
+			"facing": "north",
+			"cooldown": "20"
+		},
+		"Name": "spawn:clam_launcher"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"powered": "false",
+			"facing": "north",
+			"cooldown": "20"
+		},
+		"Name": "spawn:clam_launcher"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"powered": "false",
+			"facing": "north",
+			"cooldown": "20"
+		},
+		"Name": "spawn:clam_launcher"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"powered": "true",
+			"facing": "south",
+			"cooldown": "20"
+		},
+		"Name": "spawn:clam_launcher"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"powered": "true",
+			"facing": "south",
+			"cooldown": "20"
+		},
+		"Name": "spawn:clam_launcher"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"powered": "false",
+			"facing": "south",
+			"cooldown": "20"
+		},
+		"Name": "spawn:clam_launcher"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"powered": "false",
+			"facing": "south",
+			"cooldown": "20"
+		},
+		"Name": "spawn:clam_launcher"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"powered": "true",
+			"facing": "west",
+			"cooldown": "20"
+		},
+		"Name": "spawn:clam_launcher"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"powered": "true",
+			"facing": "west",
+			"cooldown": "20"
+		},
+		"Name": "spawn:clam_launcher"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"powered": "false",
+			"facing": "west",
+			"cooldown": "20"
+		},
+		"Name": "spawn:clam_launcher"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"powered": "false",
+			"facing": "west",
+			"cooldown": "20"
+		},
+		"Name": "spawn:clam_launcher"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"powered": "true",
+			"facing": "east",
+			"cooldown": "20"
+		},
+		"Name": "spawn:clam_launcher"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"powered": "true",
+			"facing": "east",
+			"cooldown": "20"
+		},
+		"Name": "spawn:clam_launcher"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"powered": "false",
+			"facing": "east",
+			"cooldown": "20"
+		},
+		"Name": "spawn:clam_launcher"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"powered": "false",
+			"facing": "east",
+			"cooldown": "20"
+		},
+		"Name": "spawn:clam_launcher"
+	}
+]

@@ -1,0 +1,869 @@
+/*
+This file uses the ".json5" file extension which allows for comments like this in a json file!
+Your text editor may show this file with invalid/no syntax, if so, we recommend you download:
+
+VSCode: https://code.visualstudio.com/
+JSON5 plugin(for VSCode): https://marketplace.visualstudio.com/items?itemName=mrmlnc.vscode-json5
+
+to make editing this file much easier.
+*/
+[
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"axis": "x",
+			"attached": "true",
+			"age": "0"
+		},
+		"Name": "verdant:saguaro_block"
+	},
+	{
+		"Name": "verdant:saguaro_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"axis": "z",
+			"attached": "true",
+			"age": "0"
+		},
+		"Name": "verdant:saguaro_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"axis": "x",
+			"attached": "false",
+			"age": "0"
+		},
+		"Name": "verdant:saguaro_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"axis": "y",
+			"attached": "false",
+			"age": "0"
+		},
+		"Name": "verdant:saguaro_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"axis": "z",
+			"attached": "false",
+			"age": "0"
+		},
+		"Name": "verdant:saguaro_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"axis": "x",
+			"attached": "true",
+			"age": "1"
+		},
+		"Name": "verdant:saguaro_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"axis": "y",
+			"attached": "true",
+			"age": "1"
+		},
+		"Name": "verdant:saguaro_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"axis": "z",
+			"attached": "true",
+			"age": "1"
+		},
+		"Name": "verdant:saguaro_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"axis": "x",
+			"attached": "false",
+			"age": "1"
+		},
+		"Name": "verdant:saguaro_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"axis": "y",
+			"attached": "false",
+			"age": "1"
+		},
+		"Name": "verdant:saguaro_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"axis": "z",
+			"attached": "false",
+			"age": "1"
+		},
+		"Name": "verdant:saguaro_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"axis": "x",
+			"attached": "true",
+			"age": "2"
+		},
+		"Name": "verdant:saguaro_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"axis": "y",
+			"attached": "true",
+			"age": "2"
+		},
+		"Name": "verdant:saguaro_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"axis": "z",
+			"attached": "true",
+			"age": "2"
+		},
+		"Name": "verdant:saguaro_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"axis": "x",
+			"attached": "false",
+			"age": "2"
+		},
+		"Name": "verdant:saguaro_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"axis": "y",
+			"attached": "false",
+			"age": "2"
+		},
+		"Name": "verdant:saguaro_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"axis": "z",
+			"attached": "false",
+			"age": "2"
+		},
+		"Name": "verdant:saguaro_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"axis": "x",
+			"attached": "true",
+			"age": "3"
+		},
+		"Name": "verdant:saguaro_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"axis": "y",
+			"attached": "true",
+			"age": "3"
+		},
+		"Name": "verdant:saguaro_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"axis": "z",
+			"attached": "true",
+			"age": "3"
+		},
+		"Name": "verdant:saguaro_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"axis": "x",
+			"attached": "false",
+			"age": "3"
+		},
+		"Name": "verdant:saguaro_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"axis": "y",
+			"attached": "false",
+			"age": "3"
+		},
+		"Name": "verdant:saguaro_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"axis": "z",
+			"attached": "false",
+			"age": "3"
+		},
+		"Name": "verdant:saguaro_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"axis": "x",
+			"attached": "true",
+			"age": "4"
+		},
+		"Name": "verdant:saguaro_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"axis": "y",
+			"attached": "true",
+			"age": "4"
+		},
+		"Name": "verdant:saguaro_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"axis": "z",
+			"attached": "true",
+			"age": "4"
+		},
+		"Name": "verdant:saguaro_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"axis": "x",
+			"attached": "false",
+			"age": "4"
+		},
+		"Name": "verdant:saguaro_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"axis": "y",
+			"attached": "false",
+			"age": "4"
+		},
+		"Name": "verdant:saguaro_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"axis": "z",
+			"attached": "false",
+			"age": "4"
+		},
+		"Name": "verdant:saguaro_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"axis": "x",
+			"attached": "true",
+			"age": "5"
+		},
+		"Name": "verdant:saguaro_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"axis": "y",
+			"attached": "true",
+			"age": "5"
+		},
+		"Name": "verdant:saguaro_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"axis": "z",
+			"attached": "true",
+			"age": "5"
+		},
+		"Name": "verdant:saguaro_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"axis": "x",
+			"attached": "false",
+			"age": "5"
+		},
+		"Name": "verdant:saguaro_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"axis": "y",
+			"attached": "false",
+			"age": "5"
+		},
+		"Name": "verdant:saguaro_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"axis": "z",
+			"attached": "false",
+			"age": "5"
+		},
+		"Name": "verdant:saguaro_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"axis": "x",
+			"attached": "true",
+			"age": "6"
+		},
+		"Name": "verdant:saguaro_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"axis": "y",
+			"attached": "true",
+			"age": "6"
+		},
+		"Name": "verdant:saguaro_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"axis": "z",
+			"attached": "true",
+			"age": "6"
+		},
+		"Name": "verdant:saguaro_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"axis": "x",
+			"attached": "false",
+			"age": "6"
+		},
+		"Name": "verdant:saguaro_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"axis": "y",
+			"attached": "false",
+			"age": "6"
+		},
+		"Name": "verdant:saguaro_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"axis": "z",
+			"attached": "false",
+			"age": "6"
+		},
+		"Name": "verdant:saguaro_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"axis": "x",
+			"attached": "true",
+			"age": "7"
+		},
+		"Name": "verdant:saguaro_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"axis": "y",
+			"attached": "true",
+			"age": "7"
+		},
+		"Name": "verdant:saguaro_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"axis": "z",
+			"attached": "true",
+			"age": "7"
+		},
+		"Name": "verdant:saguaro_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"axis": "x",
+			"attached": "false",
+			"age": "7"
+		},
+		"Name": "verdant:saguaro_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"axis": "y",
+			"attached": "false",
+			"age": "7"
+		},
+		"Name": "verdant:saguaro_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"axis": "z",
+			"attached": "false",
+			"age": "7"
+		},
+		"Name": "verdant:saguaro_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"axis": "x",
+			"attached": "true",
+			"age": "8"
+		},
+		"Name": "verdant:saguaro_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"axis": "y",
+			"attached": "true",
+			"age": "8"
+		},
+		"Name": "verdant:saguaro_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"axis": "z",
+			"attached": "true",
+			"age": "8"
+		},
+		"Name": "verdant:saguaro_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"axis": "x",
+			"attached": "false",
+			"age": "8"
+		},
+		"Name": "verdant:saguaro_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"axis": "y",
+			"attached": "false",
+			"age": "8"
+		},
+		"Name": "verdant:saguaro_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"axis": "z",
+			"attached": "false",
+			"age": "8"
+		},
+		"Name": "verdant:saguaro_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"axis": "x",
+			"attached": "true",
+			"age": "9"
+		},
+		"Name": "verdant:saguaro_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"axis": "y",
+			"attached": "true",
+			"age": "9"
+		},
+		"Name": "verdant:saguaro_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"axis": "z",
+			"attached": "true",
+			"age": "9"
+		},
+		"Name": "verdant:saguaro_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"axis": "x",
+			"attached": "false",
+			"age": "9"
+		},
+		"Name": "verdant:saguaro_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"axis": "y",
+			"attached": "false",
+			"age": "9"
+		},
+		"Name": "verdant:saguaro_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"axis": "z",
+			"attached": "false",
+			"age": "9"
+		},
+		"Name": "verdant:saguaro_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"axis": "x",
+			"attached": "true",
+			"age": "10"
+		},
+		"Name": "verdant:saguaro_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"axis": "y",
+			"attached": "true",
+			"age": "10"
+		},
+		"Name": "verdant:saguaro_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"axis": "z",
+			"attached": "true",
+			"age": "10"
+		},
+		"Name": "verdant:saguaro_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"axis": "x",
+			"attached": "false",
+			"age": "10"
+		},
+		"Name": "verdant:saguaro_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"axis": "y",
+			"attached": "false",
+			"age": "10"
+		},
+		"Name": "verdant:saguaro_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"axis": "z",
+			"attached": "false",
+			"age": "10"
+		},
+		"Name": "verdant:saguaro_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"axis": "x",
+			"attached": "true",
+			"age": "11"
+		},
+		"Name": "verdant:saguaro_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"axis": "y",
+			"attached": "true",
+			"age": "11"
+		},
+		"Name": "verdant:saguaro_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"axis": "z",
+			"attached": "true",
+			"age": "11"
+		},
+		"Name": "verdant:saguaro_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"axis": "x",
+			"attached": "false",
+			"age": "11"
+		},
+		"Name": "verdant:saguaro_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"axis": "y",
+			"attached": "false",
+			"age": "11"
+		},
+		"Name": "verdant:saguaro_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"axis": "z",
+			"attached": "false",
+			"age": "11"
+		},
+		"Name": "verdant:saguaro_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"axis": "x",
+			"attached": "true",
+			"age": "12"
+		},
+		"Name": "verdant:saguaro_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"axis": "y",
+			"attached": "true",
+			"age": "12"
+		},
+		"Name": "verdant:saguaro_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"axis": "z",
+			"attached": "true",
+			"age": "12"
+		},
+		"Name": "verdant:saguaro_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"axis": "x",
+			"attached": "false",
+			"age": "12"
+		},
+		"Name": "verdant:saguaro_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"axis": "y",
+			"attached": "false",
+			"age": "12"
+		},
+		"Name": "verdant:saguaro_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"axis": "z",
+			"attached": "false",
+			"age": "12"
+		},
+		"Name": "verdant:saguaro_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"axis": "x",
+			"attached": "true",
+			"age": "13"
+		},
+		"Name": "verdant:saguaro_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"axis": "y",
+			"attached": "true",
+			"age": "13"
+		},
+		"Name": "verdant:saguaro_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"axis": "z",
+			"attached": "true",
+			"age": "13"
+		},
+		"Name": "verdant:saguaro_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"axis": "x",
+			"attached": "false",
+			"age": "13"
+		},
+		"Name": "verdant:saguaro_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"axis": "y",
+			"attached": "false",
+			"age": "13"
+		},
+		"Name": "verdant:saguaro_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"axis": "z",
+			"attached": "false",
+			"age": "13"
+		},
+		"Name": "verdant:saguaro_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"axis": "x",
+			"attached": "true",
+			"age": "14"
+		},
+		"Name": "verdant:saguaro_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"axis": "y",
+			"attached": "true",
+			"age": "14"
+		},
+		"Name": "verdant:saguaro_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"axis": "z",
+			"attached": "true",
+			"age": "14"
+		},
+		"Name": "verdant:saguaro_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"axis": "x",
+			"attached": "false",
+			"age": "14"
+		},
+		"Name": "verdant:saguaro_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"axis": "y",
+			"attached": "false",
+			"age": "14"
+		},
+		"Name": "verdant:saguaro_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"axis": "z",
+			"attached": "false",
+			"age": "14"
+		},
+		"Name": "verdant:saguaro_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"axis": "x",
+			"attached": "true",
+			"age": "15"
+		},
+		"Name": "verdant:saguaro_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"axis": "y",
+			"attached": "true",
+			"age": "15"
+		},
+		"Name": "verdant:saguaro_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"axis": "z",
+			"attached": "true",
+			"age": "15"
+		},
+		"Name": "verdant:saguaro_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"axis": "x",
+			"attached": "false",
+			"age": "15"
+		},
+		"Name": "verdant:saguaro_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"axis": "y",
+			"attached": "false",
+			"age": "15"
+		},
+		"Name": "verdant:saguaro_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"axis": "z",
+			"attached": "false",
+			"age": "15"
+		},
+		"Name": "verdant:saguaro_block"
+	}
+]

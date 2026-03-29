@@ -1,15 +1,15 @@
 
 [region]
 	#Range: > 0
-	terra_ferax_weight = 5
+	terra_ferax_weight = 9
 	#Range: > 0
-	terra_solaris_weight = 5
+	terra_solaris_weight = 9
 	#Range: > 0
-	terra_flava_weight = 5
+	terra_flava_weight = 9
 	#Range: > 0
-	terra_laeta_weight = 5
+	terra_laeta_weight = 9
 	#Range: > 0
-	terra_mater_weight = 5
+	terra_mater_weight = 9
 
 [misc]
 	calcite_generator = true
@@ -36,7 +36,7 @@
 	has_blooming_sugi_forest = false
 	has_lavender_fields = true
 	has_marsh = true
-	has_bamboo_wetlands = true
+	has_bamboo_wetlands = false
 	has_wisteria_forest = true
 	has_redwood_forest = true
 	has_snowy_redwood_forest = true
@@ -53,7 +53,7 @@
 	has_blooming_dunes = true
 	has_lively_dunes = true
 	has_drylands = false
-	has_wooded_drylands = true
+	has_wooded_drylands = false
 	has_xeric_plains = true
 	has_white_cliffs = true
 	has_prairie = true
@@ -68,13 +68,13 @@
 	has_tropical_woods = true
 	has_sparse_tropical_woods = true
 	has_tropical_basin = true
-	has_arid_savanna = true
+	has_arid_savanna = false
 	has_scorched_dunes = false
 	has_flowering_shrubland = true
 	has_shrubland = true
 	has_arid_highlands = false
-	has_shrubby_highlands = true
-	has_woody_highlands = true
+	has_shrubby_highlands = false
+	has_woody_highlands = false
 	has_red_peaks = true
 	has_dusty_slopes = true
 	has_snowcapped_red_peaks = false
