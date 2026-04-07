@@ -1,4 +1,5 @@
 {
+  "balm:jade": null,
   "jade:block_face": null,
   "jade:distance": null,
   "jade:mod_name": null,
@@ -45,6 +46,7 @@
   "minecraft:villager_profession": null,
   "minecraft:waxed": null,
   "minecraft:zombie_villager": null,
-  "spawn:octopus_chest_lock": null,
-  "spawn:stickbug_as_item": null
+  "supplementaries:hat_stand": null,
+  "supplementaries:present": null,
+  "supplementaries:safe": null
 }

@@ -3,3 +3,6 @@ type = customizablemenus
 de.keksuccino.drippyloadingscreen.customization.DrippyOverlayScreen {
 }
 
+de.keksuccino.spiffyhud.customization.SpiffyOverlayScreen {
+}
+

@@ -21,3 +21,13 @@ config/fzzy_config/
 config/jade/
 config/jei/
 config/konkrete/
+essential/
+.spyglass_astronomy/
+cache/
+local/
+spiffy_instance_data/
+
+servers.dat
+servers.dat_old
+servers.essential.dat
+TrashSlotSaveState.json

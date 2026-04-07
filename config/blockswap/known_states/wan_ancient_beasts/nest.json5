@@ -1,0 +1,4684 @@
+/*
+This file uses the ".json5" file extension which allows for comments like this in a json file!
+Your text editor may show this file with invalid/no syntax, if so, we recommend you download:
+
+VSCode: https://code.visualstudio.com/
+JSON5 plugin(for VSCode): https://marketplace.visualstudio.com/items?itemName=mrmlnc.vscode-json5
+
+to make editing this file much easier.
+*/
+[
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"is_decorative": "true",
+			"hatch": "0",
+			"egg": "none",
+			"count": "0"
+		},
+		"Name": "wan_ancient_beasts:nest"
+	},
+	{
+		"Name": "wan_ancient_beasts:nest"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"is_decorative": "true",
+			"hatch": "1",
+			"egg": "none",
+			"count": "0"
+		},
+		"Name": "wan_ancient_beasts:nest"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"is_decorative": "false",
+			"hatch": "1",
+			"egg": "none",
+			"count": "0"
+		},
+		"Name": "wan_ancient_beasts:nest"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"is_decorative": "true",
+			"hatch": "2",
+			"egg": "none",
+			"count": "0"
+		},
+		"Name": "wan_ancient_beasts:nest"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"is_decorative": "false",
+			"hatch": "2",
+			"egg": "none",
+			"count": "0"
+		},
+		"Name": "wan_ancient_beasts:nest"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"is_decorative": "true",
+			"hatch": "0",
+			"egg": "chicken",
+			"count": "0"
+		},
+		"Name": "wan_ancient_beasts:nest"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"is_decorative": "false",
+			"hatch": "0",
+			"egg": "chicken",
+			"count": "0"
+		},
+		"Name": "wan_ancient_beasts:nest"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"is_decorative": "true",
+			"hatch": "1",
+			"egg": "chicken",
+			"count": "0"
+		},
+		"Name": "wan_ancient_beasts:nest"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"is_decorative": "false",
+			"hatch": "1",
+			"egg": "chicken",
+			"count": "0"
+		},
+		"Name": "wan_ancient_beasts:nest"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"is_decorative": "true",
+			"hatch": "2",
+			"egg": "chicken",
+			"count": "0"
+		},
+		"Name": "wan_ancient_beasts:nest"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"is_decorative": "false",
+			"hatch": "2",
+			"egg": "chicken",
+			"count": "0"
+		},
+		"Name": "wan_ancient_beasts:nest"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"is_decorative": "true",
+			"hatch": "0",
+			"egg": "turtle",
+			"count": "0"
+		},
+		"Name": "wan_ancient_beasts:nest"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"is_decorative": "false",
+			"hatch": "0",
+			"egg": "turtle",
+			"count": "0"
+		},
+		"Name": "wan_ancient_beasts:nest"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"is_decorative": "true",
+			"hatch": "1",
+			"egg": "turtle",
+			"count": "0"
+		},
+		"Name": "wan_ancient_beasts:nest"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"is_decorative": "false",
+			"hatch": "1",
+			"egg": "turtle",
+			"count": "0"
+		},
+		"Name": "wan_ancient_beasts:nest"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"is_decorative": "true",
+			"hatch": "2",
+			"egg": "turtle",
+			"count": "0"
+		},
+		"Name": "wan_ancient_beasts:nest"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"is_decorative": "false",
+			"hatch": "2",
+			"egg": "turtle",
+			"count": "0"
+		},
+		"Name": "wan_ancient_beasts:nest"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"is_decorative": "true",
+			"hatch": "0",
+			"egg": "sniffer",
+			"count": "0"
+		},
+		"Name": "wan_ancient_beasts:nest"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"is_decorative": "false",
+			"hatch": "0",
+			"egg": "sniffer",
+			"count": "0"
+		},
+		"Name": "wan_ancient_beasts:nest"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"is_decorative": "true",
+			"hatch": "1",
+			"egg": "sniffer",
+			"count": "0"
+		},
+		"Name": "wan_ancient_beasts:nest"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"is_decorative": "false",
+			"hatch": "1",
+			"egg": "sniffer",
+			"count": "0"
+		},
+		"Name": "wan_ancient_beasts:nest"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"is_decorative": "true",
+			"hatch": "2",
+			"egg": "sniffer",
+			"count": "0"
+		},
+		"Name": "wan_ancient_beasts:nest"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"is_decorative": "false",
+			"hatch": "2",
+			"egg": "sniffer",
+			"count": "0"
+		},
+		"Name": "wan_ancient_beasts:nest"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"is_decorative": "true",
+			"hatch": "0",
+			"egg": "eater",
+			"count": "0"
+		},
+		"Name": "wan_ancient_beasts:nest"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"is_decorative": "false",
+			"hatch": "0",
+			"egg": "eater",
+			"count": "0"
+		},
+		"Name": "wan_ancient_beasts:nest"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"is_decorative": "true",
+			"hatch": "1",
+			"egg": "eater",
+			"count": "0"
+		},
+		"Name": "wan_ancient_beasts:nest"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"is_decorative": "false",
+			"hatch": "1",
+			"egg": "eater",
+			"count": "0"
+		},
+		"Name": "wan_ancient_beasts:nest"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"is_decorative": "true",
+			"hatch": "2",
+			"egg": "eater",
+			"count": "0"
+		},
+		"Name": "wan_ancient_beasts:nest"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"is_decorative": "false",
+			"hatch": "2",
+			"egg": "eater",
+			"count": "0"
+		},
+		"Name": "wan_ancient_beasts:nest"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"is_decorative": "true",
+			"hatch": "0",
+			"egg": "walker",
+			"count": "0"
+		},
+		"Name": "wan_ancient_beasts:nest"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"is_decorative": "false",
+			"hatch": "0",
+			"egg": "walker",
+			"count": "0"
+		},
+		"Name": "wan_ancient_beasts:nest"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"is_decorative": "true",
+			"hatch": "1",
+			"egg": "walker",
+			"count": "0"
+		},
+		"Name": "wan_ancient_beasts:nest"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"is_decorative": "false",
+			"hatch": "1",
+			"egg": "walker",
+			"count": "0"
+		},
+		"Name": "wan_ancient_beasts:nest"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"is_decorative": "true",
+			"hatch": "2",
+			"egg": "walker",
+			"count": "0"
+		},
+		"Name": "wan_ancient_beasts:nest"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"is_decorative": "false",
+			"hatch": "2",
+			"egg": "walker",
+			"count": "0"
+		},
+		"Name": "wan_ancient_beasts:nest"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"is_decorative": "true",
+			"hatch": "0",
+			"egg": "crusher",
+			"count": "0"
+		},
+		"Name": "wan_ancient_beasts:nest"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"is_decorative": "false",
+			"hatch": "0",
+			"egg": "crusher",
+			"count": "0"
+		},
+		"Name": "wan_ancient_beasts:nest"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"is_decorative": "true",
+			"hatch": "1",
+			"egg": "crusher",
+			"count": "0"
+		},
+		"Name": "wan_ancient_beasts:nest"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"is_decorative": "false",
+			"hatch": "1",
+			"egg": "crusher",
+			"count": "0"
+		},
+		"Name": "wan_ancient_beasts:nest"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"is_decorative": "true",
+			"hatch": "2",
+			"egg": "crusher",
+			"count": "0"
+		},
+		"Name": "wan_ancient_beasts:nest"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"is_decorative": "false",
+			"hatch": "2",
+			"egg": "crusher",
+			"count": "0"
+		},
+		"Name": "wan_ancient_beasts:nest"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"is_decorative": "true",
+			"hatch": "0",
+			"egg": "glider",
+			"count": "0"
+		},
+		"Name": "wan_ancient_beasts:nest"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"is_decorative": "false",
+			"hatch": "0",
+			"egg": "glider",
+			"count": "0"
+		},
+		"Name": "wan_ancient_beasts:nest"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"is_decorative": "true",
+			"hatch": "1",
+			"egg": "glider",
+			"count": "0"
+		},
+		"Name": "wan_ancient_beasts:nest"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"is_decorative": "false",
+			"hatch": "1",
+			"egg": "glider",
+			"count": "0"
+		},
+		"Name": "wan_ancient_beasts:nest"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"is_decorative": "true",
+			"hatch": "2",
+			"egg": "glider",
+			"count": "0"
+		},
+		"Name": "wan_ancient_beasts:nest"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"is_decorative": "false",
+			"hatch": "2",
+			"egg": "glider",
+			"count": "0"
+		},
+		"Name": "wan_ancient_beasts:nest"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"is_decorative": "true",
+			"hatch": "0",
+			"egg": "soarer",
+			"count": "0"
+		},
+		"Name": "wan_ancient_beasts:nest"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"is_decorative": "false",
+			"hatch": "0",
+			"egg": "soarer",
+			"count": "0"
+		},
+		"Name": "wan_ancient_beasts:nest"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"is_decorative": "true",
+			"hatch": "1",
+			"egg": "soarer",
+			"count": "0"
+		},
+		"Name": "wan_ancient_beasts:nest"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"is_decorative": "false",
+			"hatch": "1",
+			"egg": "soarer",
+			"count": "0"
+		},
+		"Name": "wan_ancient_beasts:nest"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"is_decorative": "true",
+			"hatch": "2",
+			"egg": "soarer",
+			"count": "0"
+		},
+		"Name": "wan_ancient_beasts:nest"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"is_decorative": "false",
+			"hatch": "2",
+			"egg": "soarer",
+			"count": "0"
+		},
+		"Name": "wan_ancient_beasts:nest"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"is_decorative": "true",
+			"hatch": "0",
+			"egg": "surfer",
+			"count": "0"
+		},
+		"Name": "wan_ancient_beasts:nest"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"is_decorative": "false",
+			"hatch": "0",
+			"egg": "surfer",
+			"count": "0"
+		},
+		"Name": "wan_ancient_beasts:nest"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"is_decorative": "true",
+			"hatch": "1",
+			"egg": "surfer",
+			"count": "0"
+		},
+		"Name": "wan_ancient_beasts:nest"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"is_decorative": "false",
+			"hatch": "1",
+			"egg": "surfer",
+			"count": "0"
+		},
+		"Name": "wan_ancient_beasts:nest"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"is_decorative": "true",
+			"hatch": "2",
+			"egg": "surfer",
+			"count": "0"
+		},
+		"Name": "wan_ancient_beasts:nest"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"is_decorative": "false",
+			"hatch": "2",
+			"egg": "surfer",
+			"count": "0"
+		},
+		"Name": "wan_ancient_beasts:nest"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"is_decorative": "true",
+			"hatch": "0",
+			"egg": "charger",
+			"count": "0"
+		},
+		"Name": "wan_ancient_beasts:nest"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"is_decorative": "false",
+			"hatch": "0",
+			"egg": "charger",
+			"count": "0"
+		},
+		"Name": "wan_ancient_beasts:nest"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"is_decorative": "true",
+			"hatch": "1",
+			"egg": "charger",
+			"count": "0"
+		},
+		"Name": "wan_ancient_beasts:nest"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"is_decorative": "false",
+			"hatch": "1",
+			"egg": "charger",
+			"count": "0"
+		},
+		"Name": "wan_ancient_beasts:nest"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"is_decorative": "true",
+			"hatch": "2",
+			"egg": "charger",
+			"count": "0"
+		},
+		"Name": "wan_ancient_beasts:nest"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"is_decorative": "false",
+			"hatch": "2",
+			"egg": "charger",
+			"count": "0"
+		},
+		"Name": "wan_ancient_beasts:nest"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"is_decorative": "true",
+			"hatch": "0",
+			"egg": "raider",
+			"count": "0"
+		},
+		"Name": "wan_ancient_beasts:nest"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"is_decorative": "false",
+			"hatch": "0",
+			"egg": "raider",
+			"count": "0"
+		},
+		"Name": "wan_ancient_beasts:nest"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"is_decorative": "true",
+			"hatch": "1",
+			"egg": "raider",
+			"count": "0"
+		},
+		"Name": "wan_ancient_beasts:nest"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"is_decorative": "false",
+			"hatch": "1",
+			"egg": "raider",
+			"count": "0"
+		},
+		"Name": "wan_ancient_beasts:nest"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"is_decorative": "true",
+			"hatch": "2",
+			"egg": "raider",
+			"count": "0"
+		},
+		"Name": "wan_ancient_beasts:nest"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"is_decorative": "false",
+			"hatch": "2",
+			"egg": "raider",
+			"count": "0"
+		},
+		"Name": "wan_ancient_beasts:nest"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"is_decorative": "true",
+			"hatch": "0",
+			"egg": "snatcher",
+			"count": "0"
+		},
+		"Name": "wan_ancient_beasts:nest"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"is_decorative": "false",
+			"hatch": "0",
+			"egg": "snatcher",
+			"count": "0"
+		},
+		"Name": "wan_ancient_beasts:nest"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"is_decorative": "true",
+			"hatch": "1",
+			"egg": "snatcher",
+			"count": "0"
+		},
+		"Name": "wan_ancient_beasts:nest"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"is_decorative": "false",
+			"hatch": "1",
+			"egg": "snatcher",
+			"count": "0"
+		},
+		"Name": "wan_ancient_beasts:nest"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"is_decorative": "true",
+			"hatch": "2",
+			"egg": "snatcher",
+			"count": "0"
+		},
+		"Name": "wan_ancient_beasts:nest"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"is_decorative": "false",
+			"hatch": "2",
+			"egg": "snatcher",
+			"count": "0"
+		},
+		"Name": "wan_ancient_beasts:nest"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"is_decorative": "true",
+			"hatch": "0",
+			"egg": "none",
+			"count": "1"
+		},
+		"Name": "wan_ancient_beasts:nest"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"is_decorative": "false",
+			"hatch": "0",
+			"egg": "none",
+			"count": "1"
+		},
+		"Name": "wan_ancient_beasts:nest"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"is_decorative": "true",
+			"hatch": "1",
+			"egg": "none",
+			"count": "1"
+		},
+		"Name": "wan_ancient_beasts:nest"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"is_decorative": "false",
+			"hatch": "1",
+			"egg": "none",
+			"count": "1"
+		},
+		"Name": "wan_ancient_beasts:nest"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"is_decorative": "true",
+			"hatch": "2",
+			"egg": "none",
+			"count": "1"
+		},
+		"Name": "wan_ancient_beasts:nest"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"is_decorative": "false",
+			"hatch": "2",
+			"egg": "none",
+			"count": "1"
+		},
+		"Name": "wan_ancient_beasts:nest"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"is_decorative": "true",
+			"hatch": "0",
+			"egg": "chicken",
+			"count": "1"
+		},
+		"Name": "wan_ancient_beasts:nest"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"is_decorative": "false",
+			"hatch": "0",
+			"egg": "chicken",
+			"count": "1"
+		},
+		"Name": "wan_ancient_beasts:nest"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"is_decorative": "true",
+			"hatch": "1",
+			"egg": "chicken",
+			"count": "1"
+		},
+		"Name": "wan_ancient_beasts:nest"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"is_decorative": "false",
+			"hatch": "1",
+			"egg": "chicken",
+			"count": "1"
+		},
+		"Name": "wan_ancient_beasts:nest"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"is_decorative": "true",
+			"hatch": "2",
+			"egg": "chicken",
+			"count": "1"
+		},
+		"Name": "wan_ancient_beasts:nest"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"is_decorative": "false",
+			"hatch": "2",
+			"egg": "chicken",
+			"count": "1"
+		},
+		"Name": "wan_ancient_beasts:nest"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"is_decorative": "true",
+			"hatch": "0",
+			"egg": "turtle",
+			"count": "1"
+		},
+		"Name": "wan_ancient_beasts:nest"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"is_decorative": "false",
+			"hatch": "0",
+			"egg": "turtle",
+			"count": "1"
+		},
+		"Name": "wan_ancient_beasts:nest"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"is_decorative": "true",
+			"hatch": "1",
+			"egg": "turtle",
+			"count": "1"
+		},
+		"Name": "wan_ancient_beasts:nest"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"is_decorative": "false",
+			"hatch": "1",
+			"egg": "turtle",
+			"count": "1"
+		},
+		"Name": "wan_ancient_beasts:nest"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"is_decorative": "true",
+			"hatch": "2",
+			"egg": "turtle",
+			"count": "1"
+		},
+		"Name": "wan_ancient_beasts:nest"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"is_decorative": "false",
+			"hatch": "2",
+			"egg": "turtle",
+			"count": "1"
+		},
+		"Name": "wan_ancient_beasts:nest"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"is_decorative": "true",
+			"hatch": "0",
+			"egg": "sniffer",
+			"count": "1"
+		},
+		"Name": "wan_ancient_beasts:nest"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"is_decorative": "false",
+			"hatch": "0",
+			"egg": "sniffer",
+			"count": "1"
+		},
+		"Name": "wan_ancient_beasts:nest"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"is_decorative": "true",
+			"hatch": "1",
+			"egg": "sniffer",
+			"count": "1"
+		},
+		"Name": "wan_ancient_beasts:nest"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"is_decorative": "false",
+			"hatch": "1",
+			"egg": "sniffer",
+			"count": "1"
+		},
+		"Name": "wan_ancient_beasts:nest"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"is_decorative": "true",
+			"hatch": "2",
+			"egg": "sniffer",
+			"count": "1"
+		},
+		"Name": "wan_ancient_beasts:nest"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"is_decorative": "false",
+			"hatch": "2",
+			"egg": "sniffer",
+			"count": "1"
+		},
+		"Name": "wan_ancient_beasts:nest"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"is_decorative": "true",
+			"hatch": "0",
+			"egg": "eater",
+			"count": "1"
+		},
+		"Name": "wan_ancient_beasts:nest"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"is_decorative": "false",
+			"hatch": "0",
+			"egg": "eater",
+			"count": "1"
+		},
+		"Name": "wan_ancient_beasts:nest"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"is_decorative": "true",
+			"hatch": "1",
+			"egg": "eater",
+			"count": "1"
+		},
+		"Name": "wan_ancient_beasts:nest"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"is_decorative": "false",
+			"hatch": "1",
+			"egg": "eater",
+			"count": "1"
+		},
+		"Name": "wan_ancient_beasts:nest"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"is_decorative": "true",
+			"hatch": "2",
+			"egg": "eater",
+			"count": "1"
+		},
+		"Name": "wan_ancient_beasts:nest"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"is_decorative": "false",
+			"hatch": "2",
+			"egg": "eater",
+			"count": "1"
+		},
+		"Name": "wan_ancient_beasts:nest"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"is_decorative": "true",
+			"hatch": "0",
+			"egg": "walker",
+			"count": "1"
+		},
+		"Name": "wan_ancient_beasts:nest"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"is_decorative": "false",
+			"hatch": "0",
+			"egg": "walker",
+			"count": "1"
+		},
+		"Name": "wan_ancient_beasts:nest"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"is_decorative": "true",
+			"hatch": "1",
+			"egg": "walker",
+			"count": "1"
+		},
+		"Name": "wan_ancient_beasts:nest"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"is_decorative": "false",
+			"hatch": "1",
+			"egg": "walker",
+			"count": "1"
+		},
+		"Name": "wan_ancient_beasts:nest"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"is_decorative": "true",
+			"hatch": "2",
+			"egg": "walker",
+			"count": "1"
+		},
+		"Name": "wan_ancient_beasts:nest"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"is_decorative": "false",
+			"hatch": "2",
+			"egg": "walker",
+			"count": "1"
+		},
+		"Name": "wan_ancient_beasts:nest"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"is_decorative": "true",
+			"hatch": "0",
+			"egg": "crusher",
+			"count": "1"
+		},
+		"Name": "wan_ancient_beasts:nest"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"is_decorative": "false",
+			"hatch": "0",
+			"egg": "crusher",
+			"count": "1"
+		},
+		"Name": "wan_ancient_beasts:nest"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"is_decorative": "true",
+			"hatch": "1",
+			"egg": "crusher",
+			"count": "1"
+		},
+		"Name": "wan_ancient_beasts:nest"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"is_decorative": "false",
+			"hatch": "1",
+			"egg": "crusher",
+			"count": "1"
+		},
+		"Name": "wan_ancient_beasts:nest"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"is_decorative": "true",
+			"hatch": "2",
+			"egg": "crusher",
+			"count": "1"
+		},
+		"Name": "wan_ancient_beasts:nest"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"is_decorative": "false",
+			"hatch": "2",
+			"egg": "crusher",
+			"count": "1"
+		},
+		"Name": "wan_ancient_beasts:nest"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"is_decorative": "true",
+			"hatch": "0",
+			"egg": "glider",
+			"count": "1"
+		},
+		"Name": "wan_ancient_beasts:nest"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"is_decorative": "false",
+			"hatch": "0",
+			"egg": "glider",
+			"count": "1"
+		},
+		"Name": "wan_ancient_beasts:nest"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"is_decorative": "true",
+			"hatch": "1",
+			"egg": "glider",
+			"count": "1"
+		},
+		"Name": "wan_ancient_beasts:nest"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"is_decorative": "false",
+			"hatch": "1",
+			"egg": "glider",
+			"count": "1"
+		},
+		"Name": "wan_ancient_beasts:nest"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"is_decorative": "true",
+			"hatch": "2",
+			"egg": "glider",
+			"count": "1"
+		},
+		"Name": "wan_ancient_beasts:nest"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"is_decorative": "false",
+			"hatch": "2",
+			"egg": "glider",
+			"count": "1"
+		},
+		"Name": "wan_ancient_beasts:nest"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"is_decorative": "true",
+			"hatch": "0",
+			"egg": "soarer",
+			"count": "1"
+		},
+		"Name": "wan_ancient_beasts:nest"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"is_decorative": "false",
+			"hatch": "0",
+			"egg": "soarer",
+			"count": "1"
+		},
+		"Name": "wan_ancient_beasts:nest"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"is_decorative": "true",
+			"hatch": "1",
+			"egg": "soarer",
+			"count": "1"
+		},
+		"Name": "wan_ancient_beasts:nest"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"is_decorative": "false",
+			"hatch": "1",
+			"egg": "soarer",
+			"count": "1"
+		},
+		"Name": "wan_ancient_beasts:nest"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"is_decorative": "true",
+			"hatch": "2",
+			"egg": "soarer",
+			"count": "1"
+		},
+		"Name": "wan_ancient_beasts:nest"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"is_decorative": "false",
+			"hatch": "2",
+			"egg": "soarer",
+			"count": "1"
+		},
+		"Name": "wan_ancient_beasts:nest"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"is_decorative": "true",
+			"hatch": "0",
+			"egg": "surfer",
+			"count": "1"
+		},
+		"Name": "wan_ancient_beasts:nest"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"is_decorative": "false",
+			"hatch": "0",
+			"egg": "surfer",
+			"count": "1"
+		},
+		"Name": "wan_ancient_beasts:nest"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"is_decorative": "true",
+			"hatch": "1",
+			"egg": "surfer",
+			"count": "1"
+		},
+		"Name": "wan_ancient_beasts:nest"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"is_decorative": "false",
+			"hatch": "1",
+			"egg": "surfer",
+			"count": "1"
+		},
+		"Name": "wan_ancient_beasts:nest"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"is_decorative": "true",
+			"hatch": "2",
+			"egg": "surfer",
+			"count": "1"
+		},
+		"Name": "wan_ancient_beasts:nest"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"is_decorative": "false",
+			"hatch": "2",
+			"egg": "surfer",
+			"count": "1"
+		},
+		"Name": "wan_ancient_beasts:nest"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"is_decorative": "true",
+			"hatch": "0",
+			"egg": "charger",
+			"count": "1"
+		},
+		"Name": "wan_ancient_beasts:nest"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"is_decorative": "false",
+			"hatch": "0",
+			"egg": "charger",
+			"count": "1"
+		},
+		"Name": "wan_ancient_beasts:nest"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"is_decorative": "true",
+			"hatch": "1",
+			"egg": "charger",
+			"count": "1"
+		},
+		"Name": "wan_ancient_beasts:nest"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"is_decorative": "false",
+			"hatch": "1",
+			"egg": "charger",
+			"count": "1"
+		},
+		"Name": "wan_ancient_beasts:nest"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"is_decorative": "true",
+			"hatch": "2",
+			"egg": "charger",
+			"count": "1"
+		},
+		"Name": "wan_ancient_beasts:nest"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"is_decorative": "false",
+			"hatch": "2",
+			"egg": "charger",
+			"count": "1"
+		},
+		"Name": "wan_ancient_beasts:nest"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"is_decorative": "true",
+			"hatch": "0",
+			"egg": "raider",
+			"count": "1"
+		},
+		"Name": "wan_ancient_beasts:nest"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"is_decorative": "false",
+			"hatch": "0",
+			"egg": "raider",
+			"count": "1"
+		},
+		"Name": "wan_ancient_beasts:nest"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"is_decorative": "true",
+			"hatch": "1",
+			"egg": "raider",
+			"count": "1"
+		},
+		"Name": "wan_ancient_beasts:nest"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"is_decorative": "false",
+			"hatch": "1",
+			"egg": "raider",
+			"count": "1"
+		},
+		"Name": "wan_ancient_beasts:nest"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"is_decorative": "true",
+			"hatch": "2",
+			"egg": "raider",
+			"count": "1"
+		},
+		"Name": "wan_ancient_beasts:nest"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"is_decorative": "false",
+			"hatch": "2",
+			"egg": "raider",
+			"count": "1"
+		},
+		"Name": "wan_ancient_beasts:nest"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"is_decorative": "true",
+			"hatch": "0",
+			"egg": "snatcher",
+			"count": "1"
+		},
+		"Name": "wan_ancient_beasts:nest"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"is_decorative": "false",
+			"hatch": "0",
+			"egg": "snatcher",
+			"count": "1"
+		},
+		"Name": "wan_ancient_beasts:nest"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"is_decorative": "true",
+			"hatch": "1",
+			"egg": "snatcher",
+			"count": "1"
+		},
+		"Name": "wan_ancient_beasts:nest"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"is_decorative": "false",
+			"hatch": "1",
+			"egg": "snatcher",
+			"count": "1"
+		},
+		"Name": "wan_ancient_beasts:nest"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"is_decorative": "true",
+			"hatch": "2",
+			"egg": "snatcher",
+			"count": "1"
+		},
+		"Name": "wan_ancient_beasts:nest"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"is_decorative": "false",
+			"hatch": "2",
+			"egg": "snatcher",
+			"count": "1"
+		},
+		"Name": "wan_ancient_beasts:nest"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"is_decorative": "true",
+			"hatch": "0",
+			"egg": "none",
+			"count": "2"
+		},
+		"Name": "wan_ancient_beasts:nest"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"is_decorative": "false",
+			"hatch": "0",
+			"egg": "none",
+			"count": "2"
+		},
+		"Name": "wan_ancient_beasts:nest"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"is_decorative": "true",
+			"hatch": "1",
+			"egg": "none",
+			"count": "2"
+		},
+		"Name": "wan_ancient_beasts:nest"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"is_decorative": "false",
+			"hatch": "1",
+			"egg": "none",
+			"count": "2"
+		},
+		"Name": "wan_ancient_beasts:nest"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"is_decorative": "true",
+			"hatch": "2",
+			"egg": "none",
+			"count": "2"
+		},
+		"Name": "wan_ancient_beasts:nest"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"is_decorative": "false",
+			"hatch": "2",
+			"egg": "none",
+			"count": "2"
+		},
+		"Name": "wan_ancient_beasts:nest"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"is_decorative": "true",
+			"hatch": "0",
+			"egg": "chicken",
+			"count": "2"
+		},
+		"Name": "wan_ancient_beasts:nest"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"is_decorative": "false",
+			"hatch": "0",
+			"egg": "chicken",
+			"count": "2"
+		},
+		"Name": "wan_ancient_beasts:nest"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"is_decorative": "true",
+			"hatch": "1",
+			"egg": "chicken",
+			"count": "2"
+		},
+		"Name": "wan_ancient_beasts:nest"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"is_decorative": "false",
+			"hatch": "1",
+			"egg": "chicken",
+			"count": "2"
+		},
+		"Name": "wan_ancient_beasts:nest"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"is_decorative": "true",
+			"hatch": "2",
+			"egg": "chicken",
+			"count": "2"
+		},
+		"Name": "wan_ancient_beasts:nest"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"is_decorative": "false",
+			"hatch": "2",
+			"egg": "chicken",
+			"count": "2"
+		},
+		"Name": "wan_ancient_beasts:nest"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"is_decorative": "true",
+			"hatch": "0",
+			"egg": "turtle",
+			"count": "2"
+		},
+		"Name": "wan_ancient_beasts:nest"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"is_decorative": "false",
+			"hatch": "0",
+			"egg": "turtle",
+			"count": "2"
+		},
+		"Name": "wan_ancient_beasts:nest"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"is_decorative": "true",
+			"hatch": "1",
+			"egg": "turtle",
+			"count": "2"
+		},
+		"Name": "wan_ancient_beasts:nest"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"is_decorative": "false",
+			"hatch": "1",
+			"egg": "turtle",
+			"count": "2"
+		},
+		"Name": "wan_ancient_beasts:nest"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"is_decorative": "true",
+			"hatch": "2",
+			"egg": "turtle",
+			"count": "2"
+		},
+		"Name": "wan_ancient_beasts:nest"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"is_decorative": "false",
+			"hatch": "2",
+			"egg": "turtle",
+			"count": "2"
+		},
+		"Name": "wan_ancient_beasts:nest"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"is_decorative": "true",
+			"hatch": "0",
+			"egg": "sniffer",
+			"count": "2"
+		},
+		"Name": "wan_ancient_beasts:nest"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"is_decorative": "false",
+			"hatch": "0",
+			"egg": "sniffer",
+			"count": "2"
+		},
+		"Name": "wan_ancient_beasts:nest"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"is_decorative": "true",
+			"hatch": "1",
+			"egg": "sniffer",
+			"count": "2"
+		},
+		"Name": "wan_ancient_beasts:nest"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"is_decorative": "false",
+			"hatch": "1",
+			"egg": "sniffer",
+			"count": "2"
+		},
+		"Name": "wan_ancient_beasts:nest"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"is_decorative": "true",
+			"hatch": "2",
+			"egg": "sniffer",
+			"count": "2"
+		},
+		"Name": "wan_ancient_beasts:nest"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"is_decorative": "false",
+			"hatch": "2",
+			"egg": "sniffer",
+			"count": "2"
+		},
+		"Name": "wan_ancient_beasts:nest"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"is_decorative": "true",
+			"hatch": "0",
+			"egg": "eater",
+			"count": "2"
+		},
+		"Name": "wan_ancient_beasts:nest"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"is_decorative": "false",
+			"hatch": "0",
+			"egg": "eater",
+			"count": "2"
+		},
+		"Name": "wan_ancient_beasts:nest"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"is_decorative": "true",
+			"hatch": "1",
+			"egg": "eater",
+			"count": "2"
+		},
+		"Name": "wan_ancient_beasts:nest"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"is_decorative": "false",
+			"hatch": "1",
+			"egg": "eater",
+			"count": "2"
+		},
+		"Name": "wan_ancient_beasts:nest"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"is_decorative": "true",
+			"hatch": "2",
+			"egg": "eater",
+			"count": "2"
+		},
+		"Name": "wan_ancient_beasts:nest"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"is_decorative": "false",
+			"hatch": "2",
+			"egg": "eater",
+			"count": "2"
+		},
+		"Name": "wan_ancient_beasts:nest"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"is_decorative": "true",
+			"hatch": "0",
+			"egg": "walker",
+			"count": "2"
+		},
+		"Name": "wan_ancient_beasts:nest"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"is_decorative": "false",
+			"hatch": "0",
+			"egg": "walker",
+			"count": "2"
+		},
+		"Name": "wan_ancient_beasts:nest"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"is_decorative": "true",
+			"hatch": "1",
+			"egg": "walker",
+			"count": "2"
+		},
+		"Name": "wan_ancient_beasts:nest"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"is_decorative": "false",
+			"hatch": "1",
+			"egg": "walker",
+			"count": "2"
+		},
+		"Name": "wan_ancient_beasts:nest"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"is_decorative": "true",
+			"hatch": "2",
+			"egg": "walker",
+			"count": "2"
+		},
+		"Name": "wan_ancient_beasts:nest"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"is_decorative": "false",
+			"hatch": "2",
+			"egg": "walker",
+			"count": "2"
+		},
+		"Name": "wan_ancient_beasts:nest"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"is_decorative": "true",
+			"hatch": "0",
+			"egg": "crusher",
+			"count": "2"
+		},
+		"Name": "wan_ancient_beasts:nest"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"is_decorative": "false",
+			"hatch": "0",
+			"egg": "crusher",
+			"count": "2"
+		},
+		"Name": "wan_ancient_beasts:nest"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"is_decorative": "true",
+			"hatch": "1",
+			"egg": "crusher",
+			"count": "2"
+		},
+		"Name": "wan_ancient_beasts:nest"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"is_decorative": "false",
+			"hatch": "1",
+			"egg": "crusher",
+			"count": "2"
+		},
+		"Name": "wan_ancient_beasts:nest"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"is_decorative": "true",
+			"hatch": "2",
+			"egg": "crusher",
+			"count": "2"
+		},
+		"Name": "wan_ancient_beasts:nest"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"is_decorative": "false",
+			"hatch": "2",
+			"egg": "crusher",
+			"count": "2"
+		},
+		"Name": "wan_ancient_beasts:nest"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"is_decorative": "true",
+			"hatch": "0",
+			"egg": "glider",
+			"count": "2"
+		},
+		"Name": "wan_ancient_beasts:nest"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"is_decorative": "false",
+			"hatch": "0",
+			"egg": "glider",
+			"count": "2"
+		},
+		"Name": "wan_ancient_beasts:nest"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"is_decorative": "true",
+			"hatch": "1",
+			"egg": "glider",
+			"count": "2"
+		},
+		"Name": "wan_ancient_beasts:nest"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"is_decorative": "false",
+			"hatch": "1",
+			"egg": "glider",
+			"count": "2"
+		},
+		"Name": "wan_ancient_beasts:nest"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"is_decorative": "true",
+			"hatch": "2",
+			"egg": "glider",
+			"count": "2"
+		},
+		"Name": "wan_ancient_beasts:nest"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"is_decorative": "false",
+			"hatch": "2",
+			"egg": "glider",
+			"count": "2"
+		},
+		"Name": "wan_ancient_beasts:nest"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"is_decorative": "true",
+			"hatch": "0",
+			"egg": "soarer",
+			"count": "2"
+		},
+		"Name": "wan_ancient_beasts:nest"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"is_decorative": "false",
+			"hatch": "0",
+			"egg": "soarer",
+			"count": "2"
+		},
+		"Name": "wan_ancient_beasts:nest"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"is_decorative": "true",
+			"hatch": "1",
+			"egg": "soarer",
+			"count": "2"
+		},
+		"Name": "wan_ancient_beasts:nest"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"is_decorative": "false",
+			"hatch": "1",
+			"egg": "soarer",
+			"count": "2"
+		},
+		"Name": "wan_ancient_beasts:nest"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"is_decorative": "true",
+			"hatch": "2",
+			"egg": "soarer",
+			"count": "2"
+		},
+		"Name": "wan_ancient_beasts:nest"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"is_decorative": "false",
+			"hatch": "2",
+			"egg": "soarer",
+			"count": "2"
+		},
+		"Name": "wan_ancient_beasts:nest"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"is_decorative": "true",
+			"hatch": "0",
+			"egg": "surfer",
+			"count": "2"
+		},
+		"Name": "wan_ancient_beasts:nest"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"is_decorative": "false",
+			"hatch": "0",
+			"egg": "surfer",
+			"count": "2"
+		},
+		"Name": "wan_ancient_beasts:nest"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"is_decorative": "true",
+			"hatch": "1",
+			"egg": "surfer",
+			"count": "2"
+		},
+		"Name": "wan_ancient_beasts:nest"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"is_decorative": "false",
+			"hatch": "1",
+			"egg": "surfer",
+			"count": "2"
+		},
+		"Name": "wan_ancient_beasts:nest"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"is_decorative": "true",
+			"hatch": "2",
+			"egg": "surfer",
+			"count": "2"
+		},
+		"Name": "wan_ancient_beasts:nest"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"is_decorative": "false",
+			"hatch": "2",
+			"egg": "surfer",
+			"count": "2"
+		},
+		"Name": "wan_ancient_beasts:nest"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"is_decorative": "true",
+			"hatch": "0",
+			"egg": "charger",
+			"count": "2"
+		},
+		"Name": "wan_ancient_beasts:nest"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"is_decorative": "false",
+			"hatch": "0",
+			"egg": "charger",
+			"count": "2"
+		},
+		"Name": "wan_ancient_beasts:nest"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"is_decorative": "true",
+			"hatch": "1",
+			"egg": "charger",
+			"count": "2"
+		},
+		"Name": "wan_ancient_beasts:nest"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"is_decorative": "false",
+			"hatch": "1",
+			"egg": "charger",
+			"count": "2"
+		},
+		"Name": "wan_ancient_beasts:nest"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"is_decorative": "true",
+			"hatch": "2",
+			"egg": "charger",
+			"count": "2"
+		},
+		"Name": "wan_ancient_beasts:nest"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"is_decorative": "false",
+			"hatch": "2",
+			"egg": "charger",
+			"count": "2"
+		},
+		"Name": "wan_ancient_beasts:nest"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"is_decorative": "true",
+			"hatch": "0",
+			"egg": "raider",
+			"count": "2"
+		},
+		"Name": "wan_ancient_beasts:nest"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"is_decorative": "false",
+			"hatch": "0",
+			"egg": "raider",
+			"count": "2"
+		},
+		"Name": "wan_ancient_beasts:nest"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"is_decorative": "true",
+			"hatch": "1",
+			"egg": "raider",
+			"count": "2"
+		},
+		"Name": "wan_ancient_beasts:nest"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"is_decorative": "false",
+			"hatch": "1",
+			"egg": "raider",
+			"count": "2"
+		},
+		"Name": "wan_ancient_beasts:nest"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"is_decorative": "true",
+			"hatch": "2",
+			"egg": "raider",
+			"count": "2"
+		},
+		"Name": "wan_ancient_beasts:nest"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"is_decorative": "false",
+			"hatch": "2",
+			"egg": "raider",
+			"count": "2"
+		},
+		"Name": "wan_ancient_beasts:nest"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"is_decorative": "true",
+			"hatch": "0",
+			"egg": "snatcher",
+			"count": "2"
+		},
+		"Name": "wan_ancient_beasts:nest"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"is_decorative": "false",
+			"hatch": "0",
+			"egg": "snatcher",
+			"count": "2"
+		},
+		"Name": "wan_ancient_beasts:nest"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"is_decorative": "true",
+			"hatch": "1",
+			"egg": "snatcher",
+			"count": "2"
+		},
+		"Name": "wan_ancient_beasts:nest"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"is_decorative": "false",
+			"hatch": "1",
+			"egg": "snatcher",
+			"count": "2"
+		},
+		"Name": "wan_ancient_beasts:nest"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"is_decorative": "true",
+			"hatch": "2",
+			"egg": "snatcher",
+			"count": "2"
+		},
+		"Name": "wan_ancient_beasts:nest"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"is_decorative": "false",
+			"hatch": "2",
+			"egg": "snatcher",
+			"count": "2"
+		},
+		"Name": "wan_ancient_beasts:nest"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"is_decorative": "true",
+			"hatch": "0",
+			"egg": "none",
+			"count": "3"
+		},
+		"Name": "wan_ancient_beasts:nest"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"is_decorative": "false",
+			"hatch": "0",
+			"egg": "none",
+			"count": "3"
+		},
+		"Name": "wan_ancient_beasts:nest"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"is_decorative": "true",
+			"hatch": "1",
+			"egg": "none",
+			"count": "3"
+		},
+		"Name": "wan_ancient_beasts:nest"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"is_decorative": "false",
+			"hatch": "1",
+			"egg": "none",
+			"count": "3"
+		},
+		"Name": "wan_ancient_beasts:nest"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"is_decorative": "true",
+			"hatch": "2",
+			"egg": "none",
+			"count": "3"
+		},
+		"Name": "wan_ancient_beasts:nest"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"is_decorative": "false",
+			"hatch": "2",
+			"egg": "none",
+			"count": "3"
+		},
+		"Name": "wan_ancient_beasts:nest"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"is_decorative": "true",
+			"hatch": "0",
+			"egg": "chicken",
+			"count": "3"
+		},
+		"Name": "wan_ancient_beasts:nest"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"is_decorative": "false",
+			"hatch": "0",
+			"egg": "chicken",
+			"count": "3"
+		},
+		"Name": "wan_ancient_beasts:nest"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"is_decorative": "true",
+			"hatch": "1",
+			"egg": "chicken",
+			"count": "3"
+		},
+		"Name": "wan_ancient_beasts:nest"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"is_decorative": "false",
+			"hatch": "1",
+			"egg": "chicken",
+			"count": "3"
+		},
+		"Name": "wan_ancient_beasts:nest"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"is_decorative": "true",
+			"hatch": "2",
+			"egg": "chicken",
+			"count": "3"
+		},
+		"Name": "wan_ancient_beasts:nest"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"is_decorative": "false",
+			"hatch": "2",
+			"egg": "chicken",
+			"count": "3"
+		},
+		"Name": "wan_ancient_beasts:nest"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"is_decorative": "true",
+			"hatch": "0",
+			"egg": "turtle",
+			"count": "3"
+		},
+		"Name": "wan_ancient_beasts:nest"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"is_decorative": "false",
+			"hatch": "0",
+			"egg": "turtle",
+			"count": "3"
+		},
+		"Name": "wan_ancient_beasts:nest"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"is_decorative": "true",
+			"hatch": "1",
+			"egg": "turtle",
+			"count": "3"
+		},
+		"Name": "wan_ancient_beasts:nest"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"is_decorative": "false",
+			"hatch": "1",
+			"egg": "turtle",
+			"count": "3"
+		},
+		"Name": "wan_ancient_beasts:nest"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"is_decorative": "true",
+			"hatch": "2",
+			"egg": "turtle",
+			"count": "3"
+		},
+		"Name": "wan_ancient_beasts:nest"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"is_decorative": "false",
+			"hatch": "2",
+			"egg": "turtle",
+			"count": "3"
+		},
+		"Name": "wan_ancient_beasts:nest"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"is_decorative": "true",
+			"hatch": "0",
+			"egg": "sniffer",
+			"count": "3"
+		},
+		"Name": "wan_ancient_beasts:nest"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"is_decorative": "false",
+			"hatch": "0",
+			"egg": "sniffer",
+			"count": "3"
+		},
+		"Name": "wan_ancient_beasts:nest"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"is_decorative": "true",
+			"hatch": "1",
+			"egg": "sniffer",
+			"count": "3"
+		},
+		"Name": "wan_ancient_beasts:nest"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"is_decorative": "false",
+			"hatch": "1",
+			"egg": "sniffer",
+			"count": "3"
+		},
+		"Name": "wan_ancient_beasts:nest"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"is_decorative": "true",
+			"hatch": "2",
+			"egg": "sniffer",
+			"count": "3"
+		},
+		"Name": "wan_ancient_beasts:nest"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"is_decorative": "false",
+			"hatch": "2",
+			"egg": "sniffer",
+			"count": "3"
+		},
+		"Name": "wan_ancient_beasts:nest"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"is_decorative": "true",
+			"hatch": "0",
+			"egg": "eater",
+			"count": "3"
+		},
+		"Name": "wan_ancient_beasts:nest"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"is_decorative": "false",
+			"hatch": "0",
+			"egg": "eater",
+			"count": "3"
+		},
+		"Name": "wan_ancient_beasts:nest"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"is_decorative": "true",
+			"hatch": "1",
+			"egg": "eater",
+			"count": "3"
+		},
+		"Name": "wan_ancient_beasts:nest"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"is_decorative": "false",
+			"hatch": "1",
+			"egg": "eater",
+			"count": "3"
+		},
+		"Name": "wan_ancient_beasts:nest"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"is_decorative": "true",
+			"hatch": "2",
+			"egg": "eater",
+			"count": "3"
+		},
+		"Name": "wan_ancient_beasts:nest"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"is_decorative": "false",
+			"hatch": "2",
+			"egg": "eater",
+			"count": "3"
+		},
+		"Name": "wan_ancient_beasts:nest"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"is_decorative": "true",
+			"hatch": "0",
+			"egg": "walker",
+			"count": "3"
+		},
+		"Name": "wan_ancient_beasts:nest"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"is_decorative": "false",
+			"hatch": "0",
+			"egg": "walker",
+			"count": "3"
+		},
+		"Name": "wan_ancient_beasts:nest"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"is_decorative": "true",
+			"hatch": "1",
+			"egg": "walker",
+			"count": "3"
+		},
+		"Name": "wan_ancient_beasts:nest"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"is_decorative": "false",
+			"hatch": "1",
+			"egg": "walker",
+			"count": "3"
+		},
+		"Name": "wan_ancient_beasts:nest"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"is_decorative": "true",
+			"hatch": "2",
+			"egg": "walker",
+			"count": "3"
+		},
+		"Name": "wan_ancient_beasts:nest"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"is_decorative": "false",
+			"hatch": "2",
+			"egg": "walker",
+			"count": "3"
+		},
+		"Name": "wan_ancient_beasts:nest"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"is_decorative": "true",
+			"hatch": "0",
+			"egg": "crusher",
+			"count": "3"
+		},
+		"Name": "wan_ancient_beasts:nest"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"is_decorative": "false",
+			"hatch": "0",
+			"egg": "crusher",
+			"count": "3"
+		},
+		"Name": "wan_ancient_beasts:nest"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"is_decorative": "true",
+			"hatch": "1",
+			"egg": "crusher",
+			"count": "3"
+		},
+		"Name": "wan_ancient_beasts:nest"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"is_decorative": "false",
+			"hatch": "1",
+			"egg": "crusher",
+			"count": "3"
+		},
+		"Name": "wan_ancient_beasts:nest"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"is_decorative": "true",
+			"hatch": "2",
+			"egg": "crusher",
+			"count": "3"
+		},
+		"Name": "wan_ancient_beasts:nest"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"is_decorative": "false",
+			"hatch": "2",
+			"egg": "crusher",
+			"count": "3"
+		},
+		"Name": "wan_ancient_beasts:nest"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"is_decorative": "true",
+			"hatch": "0",
+			"egg": "glider",
+			"count": "3"
+		},
+		"Name": "wan_ancient_beasts:nest"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"is_decorative": "false",
+			"hatch": "0",
+			"egg": "glider",
+			"count": "3"
+		},
+		"Name": "wan_ancient_beasts:nest"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"is_decorative": "true",
+			"hatch": "1",
+			"egg": "glider",
+			"count": "3"
+		},
+		"Name": "wan_ancient_beasts:nest"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"is_decorative": "false",
+			"hatch": "1",
+			"egg": "glider",
+			"count": "3"
+		},
+		"Name": "wan_ancient_beasts:nest"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"is_decorative": "true",
+			"hatch": "2",
+			"egg": "glider",
+			"count": "3"
+		},
+		"Name": "wan_ancient_beasts:nest"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"is_decorative": "false",
+			"hatch": "2",
+			"egg": "glider",
+			"count": "3"
+		},
+		"Name": "wan_ancient_beasts:nest"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"is_decorative": "true",
+			"hatch": "0",
+			"egg": "soarer",
+			"count": "3"
+		},
+		"Name": "wan_ancient_beasts:nest"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"is_decorative": "false",
+			"hatch": "0",
+			"egg": "soarer",
+			"count": "3"
+		},
+		"Name": "wan_ancient_beasts:nest"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"is_decorative": "true",
+			"hatch": "1",
+			"egg": "soarer",
+			"count": "3"
+		},
+		"Name": "wan_ancient_beasts:nest"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"is_decorative": "false",
+			"hatch": "1",
+			"egg": "soarer",
+			"count": "3"
+		},
+		"Name": "wan_ancient_beasts:nest"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"is_decorative": "true",
+			"hatch": "2",
+			"egg": "soarer",
+			"count": "3"
+		},
+		"Name": "wan_ancient_beasts:nest"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"is_decorative": "false",
+			"hatch": "2",
+			"egg": "soarer",
+			"count": "3"
+		},
+		"Name": "wan_ancient_beasts:nest"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"is_decorative": "true",
+			"hatch": "0",
+			"egg": "surfer",
+			"count": "3"
+		},
+		"Name": "wan_ancient_beasts:nest"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"is_decorative": "false",
+			"hatch": "0",
+			"egg": "surfer",
+			"count": "3"
+		},
+		"Name": "wan_ancient_beasts:nest"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"is_decorative": "true",
+			"hatch": "1",
+			"egg": "surfer",
+			"count": "3"
+		},
+		"Name": "wan_ancient_beasts:nest"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"is_decorative": "false",
+			"hatch": "1",
+			"egg": "surfer",
+			"count": "3"
+		},
+		"Name": "wan_ancient_beasts:nest"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"is_decorative": "true",
+			"hatch": "2",
+			"egg": "surfer",
+			"count": "3"
+		},
+		"Name": "wan_ancient_beasts:nest"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"is_decorative": "false",
+			"hatch": "2",
+			"egg": "surfer",
+			"count": "3"
+		},
+		"Name": "wan_ancient_beasts:nest"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"is_decorative": "true",
+			"hatch": "0",
+			"egg": "charger",
+			"count": "3"
+		},
+		"Name": "wan_ancient_beasts:nest"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"is_decorative": "false",
+			"hatch": "0",
+			"egg": "charger",
+			"count": "3"
+		},
+		"Name": "wan_ancient_beasts:nest"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"is_decorative": "true",
+			"hatch": "1",
+			"egg": "charger",
+			"count": "3"
+		},
+		"Name": "wan_ancient_beasts:nest"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"is_decorative": "false",
+			"hatch": "1",
+			"egg": "charger",
+			"count": "3"
+		},
+		"Name": "wan_ancient_beasts:nest"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"is_decorative": "true",
+			"hatch": "2",
+			"egg": "charger",
+			"count": "3"
+		},
+		"Name": "wan_ancient_beasts:nest"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"is_decorative": "false",
+			"hatch": "2",
+			"egg": "charger",
+			"count": "3"
+		},
+		"Name": "wan_ancient_beasts:nest"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"is_decorative": "true",
+			"hatch": "0",
+			"egg": "raider",
+			"count": "3"
+		},
+		"Name": "wan_ancient_beasts:nest"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"is_decorative": "false",
+			"hatch": "0",
+			"egg": "raider",
+			"count": "3"
+		},
+		"Name": "wan_ancient_beasts:nest"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"is_decorative": "true",
+			"hatch": "1",
+			"egg": "raider",
+			"count": "3"
+		},
+		"Name": "wan_ancient_beasts:nest"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"is_decorative": "false",
+			"hatch": "1",
+			"egg": "raider",
+			"count": "3"
+		},
+		"Name": "wan_ancient_beasts:nest"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"is_decorative": "true",
+			"hatch": "2",
+			"egg": "raider",
+			"count": "3"
+		},
+		"Name": "wan_ancient_beasts:nest"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"is_decorative": "false",
+			"hatch": "2",
+			"egg": "raider",
+			"count": "3"
+		},
+		"Name": "wan_ancient_beasts:nest"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"is_decorative": "true",
+			"hatch": "0",
+			"egg": "snatcher",
+			"count": "3"
+		},
+		"Name": "wan_ancient_beasts:nest"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"is_decorative": "false",
+			"hatch": "0",
+			"egg": "snatcher",
+			"count": "3"
+		},
+		"Name": "wan_ancient_beasts:nest"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"is_decorative": "true",
+			"hatch": "1",
+			"egg": "snatcher",
+			"count": "3"
+		},
+		"Name": "wan_ancient_beasts:nest"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"is_decorative": "false",
+			"hatch": "1",
+			"egg": "snatcher",
+			"count": "3"
+		},
+		"Name": "wan_ancient_beasts:nest"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"is_decorative": "true",
+			"hatch": "2",
+			"egg": "snatcher",
+			"count": "3"
+		},
+		"Name": "wan_ancient_beasts:nest"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"is_decorative": "false",
+			"hatch": "2",
+			"egg": "snatcher",
+			"count": "3"
+		},
+		"Name": "wan_ancient_beasts:nest"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"is_decorative": "true",
+			"hatch": "0",
+			"egg": "none",
+			"count": "4"
+		},
+		"Name": "wan_ancient_beasts:nest"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"is_decorative": "false",
+			"hatch": "0",
+			"egg": "none",
+			"count": "4"
+		},
+		"Name": "wan_ancient_beasts:nest"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"is_decorative": "true",
+			"hatch": "1",
+			"egg": "none",
+			"count": "4"
+		},
+		"Name": "wan_ancient_beasts:nest"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"is_decorative": "false",
+			"hatch": "1",
+			"egg": "none",
+			"count": "4"
+		},
+		"Name": "wan_ancient_beasts:nest"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"is_decorative": "true",
+			"hatch": "2",
+			"egg": "none",
+			"count": "4"
+		},
+		"Name": "wan_ancient_beasts:nest"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"is_decorative": "false",
+			"hatch": "2",
+			"egg": "none",
+			"count": "4"
+		},
+		"Name": "wan_ancient_beasts:nest"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"is_decorative": "true",
+			"hatch": "0",
+			"egg": "chicken",
+			"count": "4"
+		},
+		"Name": "wan_ancient_beasts:nest"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"is_decorative": "false",
+			"hatch": "0",
+			"egg": "chicken",
+			"count": "4"
+		},
+		"Name": "wan_ancient_beasts:nest"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"is_decorative": "true",
+			"hatch": "1",
+			"egg": "chicken",
+			"count": "4"
+		},
+		"Name": "wan_ancient_beasts:nest"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"is_decorative": "false",
+			"hatch": "1",
+			"egg": "chicken",
+			"count": "4"
+		},
+		"Name": "wan_ancient_beasts:nest"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"is_decorative": "true",
+			"hatch": "2",
+			"egg": "chicken",
+			"count": "4"
+		},
+		"Name": "wan_ancient_beasts:nest"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"is_decorative": "false",
+			"hatch": "2",
+			"egg": "chicken",
+			"count": "4"
+		},
+		"Name": "wan_ancient_beasts:nest"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"is_decorative": "true",
+			"hatch": "0",
+			"egg": "turtle",
+			"count": "4"
+		},
+		"Name": "wan_ancient_beasts:nest"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"is_decorative": "false",
+			"hatch": "0",
+			"egg": "turtle",
+			"count": "4"
+		},
+		"Name": "wan_ancient_beasts:nest"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"is_decorative": "true",
+			"hatch": "1",
+			"egg": "turtle",
+			"count": "4"
+		},
+		"Name": "wan_ancient_beasts:nest"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"is_decorative": "false",
+			"hatch": "1",
+			"egg": "turtle",
+			"count": "4"
+		},
+		"Name": "wan_ancient_beasts:nest"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"is_decorative": "true",
+			"hatch": "2",
+			"egg": "turtle",
+			"count": "4"
+		},
+		"Name": "wan_ancient_beasts:nest"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"is_decorative": "false",
+			"hatch": "2",
+			"egg": "turtle",
+			"count": "4"
+		},
+		"Name": "wan_ancient_beasts:nest"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"is_decorative": "true",
+			"hatch": "0",
+			"egg": "sniffer",
+			"count": "4"
+		},
+		"Name": "wan_ancient_beasts:nest"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"is_decorative": "false",
+			"hatch": "0",
+			"egg": "sniffer",
+			"count": "4"
+		},
+		"Name": "wan_ancient_beasts:nest"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"is_decorative": "true",
+			"hatch": "1",
+			"egg": "sniffer",
+			"count": "4"
+		},
+		"Name": "wan_ancient_beasts:nest"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"is_decorative": "false",
+			"hatch": "1",
+			"egg": "sniffer",
+			"count": "4"
+		},
+		"Name": "wan_ancient_beasts:nest"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"is_decorative": "true",
+			"hatch": "2",
+			"egg": "sniffer",
+			"count": "4"
+		},
+		"Name": "wan_ancient_beasts:nest"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"is_decorative": "false",
+			"hatch": "2",
+			"egg": "sniffer",
+			"count": "4"
+		},
+		"Name": "wan_ancient_beasts:nest"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"is_decorative": "true",
+			"hatch": "0",
+			"egg": "eater",
+			"count": "4"
+		},
+		"Name": "wan_ancient_beasts:nest"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"is_decorative": "false",
+			"hatch": "0",
+			"egg": "eater",
+			"count": "4"
+		},
+		"Name": "wan_ancient_beasts:nest"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"is_decorative": "true",
+			"hatch": "1",
+			"egg": "eater",
+			"count": "4"
+		},
+		"Name": "wan_ancient_beasts:nest"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"is_decorative": "false",
+			"hatch": "1",
+			"egg": "eater",
+			"count": "4"
+		},
+		"Name": "wan_ancient_beasts:nest"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"is_decorative": "true",
+			"hatch": "2",
+			"egg": "eater",
+			"count": "4"
+		},
+		"Name": "wan_ancient_beasts:nest"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"is_decorative": "false",
+			"hatch": "2",
+			"egg": "eater",
+			"count": "4"
+		},
+		"Name": "wan_ancient_beasts:nest"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"is_decorative": "true",
+			"hatch": "0",
+			"egg": "walker",
+			"count": "4"
+		},
+		"Name": "wan_ancient_beasts:nest"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"is_decorative": "false",
+			"hatch": "0",
+			"egg": "walker",
+			"count": "4"
+		},
+		"Name": "wan_ancient_beasts:nest"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"is_decorative": "true",
+			"hatch": "1",
+			"egg": "walker",
+			"count": "4"
+		},
+		"Name": "wan_ancient_beasts:nest"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"is_decorative": "false",
+			"hatch": "1",
+			"egg": "walker",
+			"count": "4"
+		},
+		"Name": "wan_ancient_beasts:nest"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"is_decorative": "true",
+			"hatch": "2",
+			"egg": "walker",
+			"count": "4"
+		},
+		"Name": "wan_ancient_beasts:nest"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"is_decorative": "false",
+			"hatch": "2",
+			"egg": "walker",
+			"count": "4"
+		},
+		"Name": "wan_ancient_beasts:nest"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"is_decorative": "true",
+			"hatch": "0",
+			"egg": "crusher",
+			"count": "4"
+		},
+		"Name": "wan_ancient_beasts:nest"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"is_decorative": "false",
+			"hatch": "0",
+			"egg": "crusher",
+			"count": "4"
+		},
+		"Name": "wan_ancient_beasts:nest"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"is_decorative": "true",
+			"hatch": "1",
+			"egg": "crusher",
+			"count": "4"
+		},
+		"Name": "wan_ancient_beasts:nest"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"is_decorative": "false",
+			"hatch": "1",
+			"egg": "crusher",
+			"count": "4"
+		},
+		"Name": "wan_ancient_beasts:nest"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"is_decorative": "true",
+			"hatch": "2",
+			"egg": "crusher",
+			"count": "4"
+		},
+		"Name": "wan_ancient_beasts:nest"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"is_decorative": "false",
+			"hatch": "2",
+			"egg": "crusher",
+			"count": "4"
+		},
+		"Name": "wan_ancient_beasts:nest"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"is_decorative": "true",
+			"hatch": "0",
+			"egg": "glider",
+			"count": "4"
+		},
+		"Name": "wan_ancient_beasts:nest"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"is_decorative": "false",
+			"hatch": "0",
+			"egg": "glider",
+			"count": "4"
+		},
+		"Name": "wan_ancient_beasts:nest"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"is_decorative": "true",
+			"hatch": "1",
+			"egg": "glider",
+			"count": "4"
+		},
+		"Name": "wan_ancient_beasts:nest"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"is_decorative": "false",
+			"hatch": "1",
+			"egg": "glider",
+			"count": "4"
+		},
+		"Name": "wan_ancient_beasts:nest"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"is_decorative": "true",
+			"hatch": "2",
+			"egg": "glider",
+			"count": "4"
+		},
+		"Name": "wan_ancient_beasts:nest"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"is_decorative": "false",
+			"hatch": "2",
+			"egg": "glider",
+			"count": "4"
+		},
+		"Name": "wan_ancient_beasts:nest"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"is_decorative": "true",
+			"hatch": "0",
+			"egg": "soarer",
+			"count": "4"
+		},
+		"Name": "wan_ancient_beasts:nest"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"is_decorative": "false",
+			"hatch": "0",
+			"egg": "soarer",
+			"count": "4"
+		},
+		"Name": "wan_ancient_beasts:nest"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"is_decorative": "true",
+			"hatch": "1",
+			"egg": "soarer",
+			"count": "4"
+		},
+		"Name": "wan_ancient_beasts:nest"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"is_decorative": "false",
+			"hatch": "1",
+			"egg": "soarer",
+			"count": "4"
+		},
+		"Name": "wan_ancient_beasts:nest"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"is_decorative": "true",
+			"hatch": "2",
+			"egg": "soarer",
+			"count": "4"
+		},
+		"Name": "wan_ancient_beasts:nest"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"is_decorative": "false",
+			"hatch": "2",
+			"egg": "soarer",
+			"count": "4"
+		},
+		"Name": "wan_ancient_beasts:nest"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"is_decorative": "true",
+			"hatch": "0",
+			"egg": "surfer",
+			"count": "4"
+		},
+		"Name": "wan_ancient_beasts:nest"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"is_decorative": "false",
+			"hatch": "0",
+			"egg": "surfer",
+			"count": "4"
+		},
+		"Name": "wan_ancient_beasts:nest"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"is_decorative": "true",
+			"hatch": "1",
+			"egg": "surfer",
+			"count": "4"
+		},
+		"Name": "wan_ancient_beasts:nest"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"is_decorative": "false",
+			"hatch": "1",
+			"egg": "surfer",
+			"count": "4"
+		},
+		"Name": "wan_ancient_beasts:nest"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"is_decorative": "true",
+			"hatch": "2",
+			"egg": "surfer",
+			"count": "4"
+		},
+		"Name": "wan_ancient_beasts:nest"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"is_decorative": "false",
+			"hatch": "2",
+			"egg": "surfer",
+			"count": "4"
+		},
+		"Name": "wan_ancient_beasts:nest"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"is_decorative": "true",
+			"hatch": "0",
+			"egg": "charger",
+			"count": "4"
+		},
+		"Name": "wan_ancient_beasts:nest"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"is_decorative": "false",
+			"hatch": "0",
+			"egg": "charger",
+			"count": "4"
+		},
+		"Name": "wan_ancient_beasts:nest"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"is_decorative": "true",
+			"hatch": "1",
+			"egg": "charger",
+			"count": "4"
+		},
+		"Name": "wan_ancient_beasts:nest"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"is_decorative": "false",
+			"hatch": "1",
+			"egg": "charger",
+			"count": "4"
+		},
+		"Name": "wan_ancient_beasts:nest"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"is_decorative": "true",
+			"hatch": "2",
+			"egg": "charger",
+			"count": "4"
+		},
+		"Name": "wan_ancient_beasts:nest"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"is_decorative": "false",
+			"hatch": "2",
+			"egg": "charger",
+			"count": "4"
+		},
+		"Name": "wan_ancient_beasts:nest"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"is_decorative": "true",
+			"hatch": "0",
+			"egg": "raider",
+			"count": "4"
+		},
+		"Name": "wan_ancient_beasts:nest"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"is_decorative": "false",
+			"hatch": "0",
+			"egg": "raider",
+			"count": "4"
+		},
+		"Name": "wan_ancient_beasts:nest"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"is_decorative": "true",
+			"hatch": "1",
+			"egg": "raider",
+			"count": "4"
+		},
+		"Name": "wan_ancient_beasts:nest"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"is_decorative": "false",
+			"hatch": "1",
+			"egg": "raider",
+			"count": "4"
+		},
+		"Name": "wan_ancient_beasts:nest"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"is_decorative": "true",
+			"hatch": "2",
+			"egg": "raider",
+			"count": "4"
+		},
+		"Name": "wan_ancient_beasts:nest"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"is_decorative": "false",
+			"hatch": "2",
+			"egg": "raider",
+			"count": "4"
+		},
+		"Name": "wan_ancient_beasts:nest"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"is_decorative": "true",
+			"hatch": "0",
+			"egg": "snatcher",
+			"count": "4"
+		},
+		"Name": "wan_ancient_beasts:nest"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"is_decorative": "false",
+			"hatch": "0",
+			"egg": "snatcher",
+			"count": "4"
+		},
+		"Name": "wan_ancient_beasts:nest"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"is_decorative": "true",
+			"hatch": "1",
+			"egg": "snatcher",
+			"count": "4"
+		},
+		"Name": "wan_ancient_beasts:nest"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"is_decorative": "false",
+			"hatch": "1",
+			"egg": "snatcher",
+			"count": "4"
+		},
+		"Name": "wan_ancient_beasts:nest"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"is_decorative": "true",
+			"hatch": "2",
+			"egg": "snatcher",
+			"count": "4"
+		},
+		"Name": "wan_ancient_beasts:nest"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"is_decorative": "false",
+			"hatch": "2",
+			"egg": "snatcher",
+			"count": "4"
+		},
+		"Name": "wan_ancient_beasts:nest"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"is_decorative": "true",
+			"hatch": "0",
+			"egg": "none",
+			"count": "5"
+		},
+		"Name": "wan_ancient_beasts:nest"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"is_decorative": "false",
+			"hatch": "0",
+			"egg": "none",
+			"count": "5"
+		},
+		"Name": "wan_ancient_beasts:nest"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"is_decorative": "true",
+			"hatch": "1",
+			"egg": "none",
+			"count": "5"
+		},
+		"Name": "wan_ancient_beasts:nest"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"is_decorative": "false",
+			"hatch": "1",
+			"egg": "none",
+			"count": "5"
+		},
+		"Name": "wan_ancient_beasts:nest"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"is_decorative": "true",
+			"hatch": "2",
+			"egg": "none",
+			"count": "5"
+		},
+		"Name": "wan_ancient_beasts:nest"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"is_decorative": "false",
+			"hatch": "2",
+			"egg": "none",
+			"count": "5"
+		},
+		"Name": "wan_ancient_beasts:nest"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"is_decorative": "true",
+			"hatch": "0",
+			"egg": "chicken",
+			"count": "5"
+		},
+		"Name": "wan_ancient_beasts:nest"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"is_decorative": "false",
+			"hatch": "0",
+			"egg": "chicken",
+			"count": "5"
+		},
+		"Name": "wan_ancient_beasts:nest"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"is_decorative": "true",
+			"hatch": "1",
+			"egg": "chicken",
+			"count": "5"
+		},
+		"Name": "wan_ancient_beasts:nest"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"is_decorative": "false",
+			"hatch": "1",
+			"egg": "chicken",
+			"count": "5"
+		},
+		"Name": "wan_ancient_beasts:nest"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"is_decorative": "true",
+			"hatch": "2",
+			"egg": "chicken",
+			"count": "5"
+		},
+		"Name": "wan_ancient_beasts:nest"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"is_decorative": "false",
+			"hatch": "2",
+			"egg": "chicken",
+			"count": "5"
+		},
+		"Name": "wan_ancient_beasts:nest"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"is_decorative": "true",
+			"hatch": "0",
+			"egg": "turtle",
+			"count": "5"
+		},
+		"Name": "wan_ancient_beasts:nest"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"is_decorative": "false",
+			"hatch": "0",
+			"egg": "turtle",
+			"count": "5"
+		},
+		"Name": "wan_ancient_beasts:nest"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"is_decorative": "true",
+			"hatch": "1",
+			"egg": "turtle",
+			"count": "5"
+		},
+		"Name": "wan_ancient_beasts:nest"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"is_decorative": "false",
+			"hatch": "1",
+			"egg": "turtle",
+			"count": "5"
+		},
+		"Name": "wan_ancient_beasts:nest"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"is_decorative": "true",
+			"hatch": "2",
+			"egg": "turtle",
+			"count": "5"
+		},
+		"Name": "wan_ancient_beasts:nest"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"is_decorative": "false",
+			"hatch": "2",
+			"egg": "turtle",
+			"count": "5"
+		},
+		"Name": "wan_ancient_beasts:nest"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"is_decorative": "true",
+			"hatch": "0",
+			"egg": "sniffer",
+			"count": "5"
+		},
+		"Name": "wan_ancient_beasts:nest"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"is_decorative": "false",
+			"hatch": "0",
+			"egg": "sniffer",
+			"count": "5"
+		},
+		"Name": "wan_ancient_beasts:nest"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"is_decorative": "true",
+			"hatch": "1",
+			"egg": "sniffer",
+			"count": "5"
+		},
+		"Name": "wan_ancient_beasts:nest"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"is_decorative": "false",
+			"hatch": "1",
+			"egg": "sniffer",
+			"count": "5"
+		},
+		"Name": "wan_ancient_beasts:nest"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"is_decorative": "true",
+			"hatch": "2",
+			"egg": "sniffer",
+			"count": "5"
+		},
+		"Name": "wan_ancient_beasts:nest"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"is_decorative": "false",
+			"hatch": "2",
+			"egg": "sniffer",
+			"count": "5"
+		},
+		"Name": "wan_ancient_beasts:nest"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"is_decorative": "true",
+			"hatch": "0",
+			"egg": "eater",
+			"count": "5"
+		},
+		"Name": "wan_ancient_beasts:nest"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"is_decorative": "false",
+			"hatch": "0",
+			"egg": "eater",
+			"count": "5"
+		},
+		"Name": "wan_ancient_beasts:nest"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"is_decorative": "true",
+			"hatch": "1",
+			"egg": "eater",
+			"count": "5"
+		},
+		"Name": "wan_ancient_beasts:nest"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"is_decorative": "false",
+			"hatch": "1",
+			"egg": "eater",
+			"count": "5"
+		},
+		"Name": "wan_ancient_beasts:nest"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"is_decorative": "true",
+			"hatch": "2",
+			"egg": "eater",
+			"count": "5"
+		},
+		"Name": "wan_ancient_beasts:nest"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"is_decorative": "false",
+			"hatch": "2",
+			"egg": "eater",
+			"count": "5"
+		},
+		"Name": "wan_ancient_beasts:nest"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"is_decorative": "true",
+			"hatch": "0",
+			"egg": "walker",
+			"count": "5"
+		},
+		"Name": "wan_ancient_beasts:nest"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"is_decorative": "false",
+			"hatch": "0",
+			"egg": "walker",
+			"count": "5"
+		},
+		"Name": "wan_ancient_beasts:nest"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"is_decorative": "true",
+			"hatch": "1",
+			"egg": "walker",
+			"count": "5"
+		},
+		"Name": "wan_ancient_beasts:nest"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"is_decorative": "false",
+			"hatch": "1",
+			"egg": "walker",
+			"count": "5"
+		},
+		"Name": "wan_ancient_beasts:nest"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"is_decorative": "true",
+			"hatch": "2",
+			"egg": "walker",
+			"count": "5"
+		},
+		"Name": "wan_ancient_beasts:nest"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"is_decorative": "false",
+			"hatch": "2",
+			"egg": "walker",
+			"count": "5"
+		},
+		"Name": "wan_ancient_beasts:nest"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"is_decorative": "true",
+			"hatch": "0",
+			"egg": "crusher",
+			"count": "5"
+		},
+		"Name": "wan_ancient_beasts:nest"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"is_decorative": "false",
+			"hatch": "0",
+			"egg": "crusher",
+			"count": "5"
+		},
+		"Name": "wan_ancient_beasts:nest"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"is_decorative": "true",
+			"hatch": "1",
+			"egg": "crusher",
+			"count": "5"
+		},
+		"Name": "wan_ancient_beasts:nest"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"is_decorative": "false",
+			"hatch": "1",
+			"egg": "crusher",
+			"count": "5"
+		},
+		"Name": "wan_ancient_beasts:nest"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"is_decorative": "true",
+			"hatch": "2",
+			"egg": "crusher",
+			"count": "5"
+		},
+		"Name": "wan_ancient_beasts:nest"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"is_decorative": "false",
+			"hatch": "2",
+			"egg": "crusher",
+			"count": "5"
+		},
+		"Name": "wan_ancient_beasts:nest"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"is_decorative": "true",
+			"hatch": "0",
+			"egg": "glider",
+			"count": "5"
+		},
+		"Name": "wan_ancient_beasts:nest"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"is_decorative": "false",
+			"hatch": "0",
+			"egg": "glider",
+			"count": "5"
+		},
+		"Name": "wan_ancient_beasts:nest"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"is_decorative": "true",
+			"hatch": "1",
+			"egg": "glider",
+			"count": "5"
+		},
+		"Name": "wan_ancient_beasts:nest"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"is_decorative": "false",
+			"hatch": "1",
+			"egg": "glider",
+			"count": "5"
+		},
+		"Name": "wan_ancient_beasts:nest"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"is_decorative": "true",
+			"hatch": "2",
+			"egg": "glider",
+			"count": "5"
+		},
+		"Name": "wan_ancient_beasts:nest"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"is_decorative": "false",
+			"hatch": "2",
+			"egg": "glider",
+			"count": "5"
+		},
+		"Name": "wan_ancient_beasts:nest"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"is_decorative": "true",
+			"hatch": "0",
+			"egg": "soarer",
+			"count": "5"
+		},
+		"Name": "wan_ancient_beasts:nest"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"is_decorative": "false",
+			"hatch": "0",
+			"egg": "soarer",
+			"count": "5"
+		},
+		"Name": "wan_ancient_beasts:nest"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"is_decorative": "true",
+			"hatch": "1",
+			"egg": "soarer",
+			"count": "5"
+		},
+		"Name": "wan_ancient_beasts:nest"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"is_decorative": "false",
+			"hatch": "1",
+			"egg": "soarer",
+			"count": "5"
+		},
+		"Name": "wan_ancient_beasts:nest"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"is_decorative": "true",
+			"hatch": "2",
+			"egg": "soarer",
+			"count": "5"
+		},
+		"Name": "wan_ancient_beasts:nest"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"is_decorative": "false",
+			"hatch": "2",
+			"egg": "soarer",
+			"count": "5"
+		},
+		"Name": "wan_ancient_beasts:nest"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"is_decorative": "true",
+			"hatch": "0",
+			"egg": "surfer",
+			"count": "5"
+		},
+		"Name": "wan_ancient_beasts:nest"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"is_decorative": "false",
+			"hatch": "0",
+			"egg": "surfer",
+			"count": "5"
+		},
+		"Name": "wan_ancient_beasts:nest"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"is_decorative": "true",
+			"hatch": "1",
+			"egg": "surfer",
+			"count": "5"
+		},
+		"Name": "wan_ancient_beasts:nest"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"is_decorative": "false",
+			"hatch": "1",
+			"egg": "surfer",
+			"count": "5"
+		},
+		"Name": "wan_ancient_beasts:nest"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"is_decorative": "true",
+			"hatch": "2",
+			"egg": "surfer",
+			"count": "5"
+		},
+		"Name": "wan_ancient_beasts:nest"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"is_decorative": "false",
+			"hatch": "2",
+			"egg": "surfer",
+			"count": "5"
+		},
+		"Name": "wan_ancient_beasts:nest"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"is_decorative": "true",
+			"hatch": "0",
+			"egg": "charger",
+			"count": "5"
+		},
+		"Name": "wan_ancient_beasts:nest"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"is_decorative": "false",
+			"hatch": "0",
+			"egg": "charger",
+			"count": "5"
+		},
+		"Name": "wan_ancient_beasts:nest"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"is_decorative": "true",
+			"hatch": "1",
+			"egg": "charger",
+			"count": "5"
+		},
+		"Name": "wan_ancient_beasts:nest"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"is_decorative": "false",
+			"hatch": "1",
+			"egg": "charger",
+			"count": "5"
+		},
+		"Name": "wan_ancient_beasts:nest"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"is_decorative": "true",
+			"hatch": "2",
+			"egg": "charger",
+			"count": "5"
+		},
+		"Name": "wan_ancient_beasts:nest"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"is_decorative": "false",
+			"hatch": "2",
+			"egg": "charger",
+			"count": "5"
+		},
+		"Name": "wan_ancient_beasts:nest"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"is_decorative": "true",
+			"hatch": "0",
+			"egg": "raider",
+			"count": "5"
+		},
+		"Name": "wan_ancient_beasts:nest"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"is_decorative": "false",
+			"hatch": "0",
+			"egg": "raider",
+			"count": "5"
+		},
+		"Name": "wan_ancient_beasts:nest"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"is_decorative": "true",
+			"hatch": "1",
+			"egg": "raider",
+			"count": "5"
+		},
+		"Name": "wan_ancient_beasts:nest"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"is_decorative": "false",
+			"hatch": "1",
+			"egg": "raider",
+			"count": "5"
+		},
+		"Name": "wan_ancient_beasts:nest"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"is_decorative": "true",
+			"hatch": "2",
+			"egg": "raider",
+			"count": "5"
+		},
+		"Name": "wan_ancient_beasts:nest"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"is_decorative": "false",
+			"hatch": "2",
+			"egg": "raider",
+			"count": "5"
+		},
+		"Name": "wan_ancient_beasts:nest"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"is_decorative": "true",
+			"hatch": "0",
+			"egg": "snatcher",
+			"count": "5"
+		},
+		"Name": "wan_ancient_beasts:nest"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"is_decorative": "false",
+			"hatch": "0",
+			"egg": "snatcher",
+			"count": "5"
+		},
+		"Name": "wan_ancient_beasts:nest"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"is_decorative": "true",
+			"hatch": "1",
+			"egg": "snatcher",
+			"count": "5"
+		},
+		"Name": "wan_ancient_beasts:nest"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"is_decorative": "false",
+			"hatch": "1",
+			"egg": "snatcher",
+			"count": "5"
+		},
+		"Name": "wan_ancient_beasts:nest"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"is_decorative": "true",
+			"hatch": "2",
+			"egg": "snatcher",
+			"count": "5"
+		},
+		"Name": "wan_ancient_beasts:nest"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"is_decorative": "false",
+			"hatch": "2",
+			"egg": "snatcher",
+			"count": "5"
+		},
+		"Name": "wan_ancient_beasts:nest"
+	}
+]

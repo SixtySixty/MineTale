@@ -1,0 +1,262 @@
+/*
+This file uses the ".json5" file extension which allows for comments like this in a json file!
+Your text editor may show this file with invalid/no syntax, if so, we recommend you download:
+
+VSCode: https://code.visualstudio.com/
+JSON5 plugin(for VSCode): https://marketplace.visualstudio.com/items?itemName=mrmlnc.vscode-json5
+
+to make editing this file much easier.
+*/
+[
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"rotation": "0",
+			"on_wall": "true"
+		},
+		"Name": "wan_ancient_beasts:charger_skull"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"rotation": "1",
+			"on_wall": "true"
+		},
+		"Name": "wan_ancient_beasts:charger_skull"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"rotation": "2",
+			"on_wall": "true"
+		},
+		"Name": "wan_ancient_beasts:charger_skull"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"rotation": "3",
+			"on_wall": "true"
+		},
+		"Name": "wan_ancient_beasts:charger_skull"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"rotation": "4",
+			"on_wall": "true"
+		},
+		"Name": "wan_ancient_beasts:charger_skull"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"rotation": "5",
+			"on_wall": "true"
+		},
+		"Name": "wan_ancient_beasts:charger_skull"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"rotation": "6",
+			"on_wall": "true"
+		},
+		"Name": "wan_ancient_beasts:charger_skull"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"rotation": "7",
+			"on_wall": "true"
+		},
+		"Name": "wan_ancient_beasts:charger_skull"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"rotation": "8",
+			"on_wall": "true"
+		},
+		"Name": "wan_ancient_beasts:charger_skull"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"rotation": "9",
+			"on_wall": "true"
+		},
+		"Name": "wan_ancient_beasts:charger_skull"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"rotation": "10",
+			"on_wall": "true"
+		},
+		"Name": "wan_ancient_beasts:charger_skull"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"rotation": "11",
+			"on_wall": "true"
+		},
+		"Name": "wan_ancient_beasts:charger_skull"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"rotation": "12",
+			"on_wall": "true"
+		},
+		"Name": "wan_ancient_beasts:charger_skull"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"rotation": "13",
+			"on_wall": "true"
+		},
+		"Name": "wan_ancient_beasts:charger_skull"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"rotation": "14",
+			"on_wall": "true"
+		},
+		"Name": "wan_ancient_beasts:charger_skull"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"rotation": "15",
+			"on_wall": "true"
+		},
+		"Name": "wan_ancient_beasts:charger_skull"
+	},
+	{
+		"Name": "wan_ancient_beasts:charger_skull"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"rotation": "1",
+			"on_wall": "false"
+		},
+		"Name": "wan_ancient_beasts:charger_skull"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"rotation": "2",
+			"on_wall": "false"
+		},
+		"Name": "wan_ancient_beasts:charger_skull"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"rotation": "3",
+			"on_wall": "false"
+		},
+		"Name": "wan_ancient_beasts:charger_skull"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"rotation": "4",
+			"on_wall": "false"
+		},
+		"Name": "wan_ancient_beasts:charger_skull"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"rotation": "5",
+			"on_wall": "false"
+		},
+		"Name": "wan_ancient_beasts:charger_skull"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"rotation": "6",
+			"on_wall": "false"
+		},
+		"Name": "wan_ancient_beasts:charger_skull"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"rotation": "7",
+			"on_wall": "false"
+		},
+		"Name": "wan_ancient_beasts:charger_skull"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"rotation": "8",
+			"on_wall": "false"
+		},
+		"Name": "wan_ancient_beasts:charger_skull"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"rotation": "9",
+			"on_wall": "false"
+		},
+		"Name": "wan_ancient_beasts:charger_skull"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"rotation": "10",
+			"on_wall": "false"
+		},
+		"Name": "wan_ancient_beasts:charger_skull"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"rotation": "11",
+			"on_wall": "false"
+		},
+		"Name": "wan_ancient_beasts:charger_skull"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"rotation": "12",
+			"on_wall": "false"
+		},
+		"Name": "wan_ancient_beasts:charger_skull"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"rotation": "13",
+			"on_wall": "false"
+		},
+		"Name": "wan_ancient_beasts:charger_skull"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"rotation": "14",
+			"on_wall": "false"
+		},
+		"Name": "wan_ancient_beasts:charger_skull"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"rotation": "15",
+			"on_wall": "false"
+		},
+		"Name": "wan_ancient_beasts:charger_skull"
+	}
+]

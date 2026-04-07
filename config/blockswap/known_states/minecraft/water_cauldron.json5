@@ -9,19 +9,45 @@ to make editing this file much easier.
 */
 [
 	{
-		"Name": "minecraft:water_cauldron"
-	},
-	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
-			"level": "2"
+			"level": "1",
+			"boiling": "true"
 		},
 		"Name": "minecraft:water_cauldron"
 	},
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
-			"level": "3"
+			"level": "2",
+			"boiling": "true"
+		},
+		"Name": "minecraft:water_cauldron"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"level": "3",
+			"boiling": "true"
+		},
+		"Name": "minecraft:water_cauldron"
+	},
+	{
+		"Name": "minecraft:water_cauldron"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"level": "2",
+			"boiling": "false"
+		},
+		"Name": "minecraft:water_cauldron"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"level": "3",
+			"boiling": "false"
 		},
 		"Name": "minecraft:water_cauldron"
 	}

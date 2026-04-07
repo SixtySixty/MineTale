@@ -7,7 +7,7 @@
 	#5 is greatest/normal, 0 is disabled
 	"White Oak tree spawnrate" = 0.0
 	#5 is greatest/normal, 0 is disabled
-	"Wild Palm tree spawnrate" = 5.0
+	"Wild Palm tree spawnrate" = 4.0
 	#5 is greatest/normal, 0 is disabled
 	"Soft Birch tree spawnrate" = 0.0
 	#5 is greatest/normal, 0 is disabled
@@ -70,7 +70,7 @@
 
 [Other]
 	#true means enabled, false means disabled
-	Startup_message = false
+	Startup_message = true
 	#determines if Tree Ents will grief leaves
 	Disable_Treeent_Griefing = true
 

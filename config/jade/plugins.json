@@ -51,8 +51,8 @@
     "painting": true,
     "chiseled_bookshelf": true
   },
-  "spawn": {
-    "stickbug_as_item": true
+  "supplementaries": {
+    "hat_stand": true
   },
   "jade": {
     "coordinates.rel": false,
@@ -61,5 +61,8 @@
     "coordinates": false,
     "registry_name": "OFF",
     "mod_name": true
+  },
+  "balm": {
+    "jade": true
   }
 }

@@ -9,11 +9,20 @@ to make editing this file much easier.
 */
 [
 	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"facing": "north"
+		},
+		"Name": "minecraft:wither_skeleton_wall_skull"
+	},
+	{
 		"Name": "minecraft:wither_skeleton_wall_skull"
 	},
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
+			"waterlogged": "true",
 			"facing": "south"
 		},
 		"Name": "minecraft:wither_skeleton_wall_skull"
@@ -21,6 +30,15 @@ to make editing this file much easier.
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
+			"waterlogged": "false",
+			"facing": "south"
+		},
+		"Name": "minecraft:wither_skeleton_wall_skull"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
 			"facing": "west"
 		},
 		"Name": "minecraft:wither_skeleton_wall_skull"
@@ -28,6 +46,23 @@ to make editing this file much easier.
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
+			"waterlogged": "false",
+			"facing": "west"
+		},
+		"Name": "minecraft:wither_skeleton_wall_skull"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"facing": "east"
+		},
+		"Name": "minecraft:wither_skeleton_wall_skull"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
 			"facing": "east"
 		},
 		"Name": "minecraft:wither_skeleton_wall_skull"
