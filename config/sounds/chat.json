@@ -21,7 +21,8 @@
 		"soundEvent": "minecraft:block.note_block.chime"
 	},
 	"mentionKeywords": [
-		"@ItTouchMe"
+		"@ItTouchMe",
+		"@Ferzotelo20"
 	],
 	"ignoreSystemChats": false,
 	"enableChatSoundCooldown": false,
