@@ -16,13 +16,7 @@
   // Items here will be unusable completely
   //    Example: minecraft:diamond
   "blacklisted_items": [
-    "!twigs:.*_table",
-    "!verdant:.*_bark",
-    "!verdant:.*_scales",
-    "!verdant:.*_mushroom",
-    "verdant:mushgloom",
-    "verdant:mushgloom_block",
-    "!woodworks:.*_pile"
+    "examplemod:example_item"
   ],
   // -----------------------------------------------------------
   // Removes an item if it contains certain nbt tag. If the whole entry (or expression) is present, the item gets removed.

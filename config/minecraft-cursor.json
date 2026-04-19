@@ -24,23 +24,11 @@
     "yhot": 0
   },
   "settings": {
-    "not_allowed": {
+    "default": {
       "enabled": true,
       "scale": 1.0,
-      "xhot": 11,
-      "yhot": 11
-    },
-    "resize_ns": {
-      "enabled": true,
-      "scale": 1.0,
-      "xhot": 16,
-      "yhot": 16
-    },
-    "crosshair": {
-      "enabled": true,
-      "scale": 1.0,
-      "xhot": 13,
-      "yhot": 13
+      "xhot": 0,
+      "yhot": 0
     },
     "pointer": {
       "enabled": true,
@@ -48,11 +36,11 @@
       "xhot": 7,
       "yhot": 0
     },
-    "default": {
+    "text": {
       "enabled": true,
       "scale": 1.0,
-      "xhot": 0,
-      "yhot": 0
+      "xhot": 10,
+      "yhot": 12
     },
     "grabbing": {
       "enabled": true,
@@ -60,25 +48,31 @@
       "xhot": 10,
       "yhot": 2
     },
-    "shift": {
-      "enabled": true,
-      "scale": 1.0,
-      "xhot": 10,
-      "yhot": 0
-    },
     "busy": {
       "enabled": true,
       "scale": 1.0,
       "xhot": 0,
       "yhot": 6
     },
-    "text": {
+    "shift": {
       "enabled": true,
       "scale": 1.0,
       "xhot": 10,
-      "yhot": 12
+      "yhot": 0
     },
-    "resize_nesw": {
+    "crosshair": {
+      "enabled": true,
+      "scale": 1.0,
+      "xhot": 13,
+      "yhot": 13
+    },
+    "resize_ew": {
+      "enabled": true,
+      "scale": 1.0,
+      "xhot": 16,
+      "yhot": 16
+    },
+    "resize_ns": {
       "enabled": true,
       "scale": 1.0,
       "xhot": 16,
@@ -90,11 +84,17 @@
       "xhot": 16,
       "yhot": 16
     },
-    "resize_ew": {
+    "resize_nesw": {
       "enabled": true,
       "scale": 1.0,
       "xhot": 16,
       "yhot": 16
+    },
+    "not_allowed": {
+      "enabled": true,
+      "scale": 1.0,
+      "xhot": 11,
+      "yhot": 11
     }
   }
 }

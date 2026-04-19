@@ -1,0 +1,54 @@
+{
+  "minecraft:recipes/decorations/crafting_table": {
+    "criteria": {
+      "unlock_right_away": "2026-04-20 00:41:24 +0400"
+    },
+    "done": true
+  },
+  "jodek:utility": {
+    "criteria": {
+      "tick": "2026-04-20 00:41:24 +0400"
+    },
+    "done": true
+  },
+  "biomesoplenty:biomesoplenty/root": {
+    "criteria": {
+      "pasture": "2026-04-20 00:41:28 +0400"
+    },
+    "done": true
+  },
+  "jodek:armor_stand_arms": {
+    "criteria": {
+      "tick": "2026-04-20 00:41:24 +0400"
+    },
+    "done": true
+  },
+  "jodek:root": {
+    "criteria": {
+      "tick": "2026-04-20 00:41:24 +0400"
+    },
+    "done": true
+  },
+  "vanilla_refresh:first_join": {
+    "criteria": {
+      "s": "2026-04-20 00:41:24 +0400"
+    },
+    "done": true
+  },
+  "biomesoplenty:biomesoplenty/all_biomes": {
+    "criteria": {
+      "pasture": "2026-04-20 00:41:28 +0400"
+    },
+    "done": false
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:beach": "2026-04-20 00:41:45 +0400",
+      "minecraft:river": "2026-04-20 00:43:37 +0400",
+      "minecraft:ocean": "2026-04-20 00:43:36 +0400",
+      "minecraft:plains": "2026-04-20 00:42:03 +0400"
+    },
+    "done": false
+  },
+  "DataVersion": 3465
+}

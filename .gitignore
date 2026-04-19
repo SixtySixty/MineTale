@@ -1,14 +1,15 @@
 crash-reports/
 defultconfigs/
 logs/
-saves/
 screenshots/
 .mixin.out/
 xaero/
 kubejs/
 moonlight-global-datapacks/
 data/
+backups/
 shaderpacks/
+defaultconfigs/
 fancymenu_data/
 rhino.local.properties
 options.txt
@@ -26,6 +27,7 @@ essential/
 cache/
 local/
 spiffy_instance_data/
+fabricloader.log
 
 servers.dat
 servers.dat_old

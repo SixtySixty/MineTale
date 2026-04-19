@@ -35,13 +35,13 @@
 	[camera.offset]
 		#Third person camera x-offset.
 		#Range: -1.7976931348623157E308 ~ 1.7976931348623157E308
-		offset_x = -1.624999999999998
+		offset_x = -1.075
 		#Third person camera y-offset.
 		#Range: -1.7976931348623157E308 ~ 1.7976931348623157E308
 		offset_y = 0.0
 		#Third person camera z-offset.
 		#Range: -1.7976931348623157E308 ~ 1.7976931348623157E308
-		offset_z = 2.5250000000000052
+		offset_z = 2.875000000000004
 
 		[camera.offset.presets]
 			#A list of x-offset presets that can be toggled via the 'Toggle X-Offset Presets' keybind. WARNING: Duplicate entries can result in undefined behavior!
