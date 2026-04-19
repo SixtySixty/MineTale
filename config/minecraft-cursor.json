@@ -1,5 +1,5 @@
 {
-  "_hash": "7ffe9cd528207806",
+  "_hash": "2fc9e33b88ae3c1e",
   "itemSlotEnabled": true,
   "itemGrabbingEnabled": true,
   "creativeTabsEnabled": true,
@@ -24,77 +24,17 @@
     "yhot": 0
   },
   "settings": {
-    "default": {
+    "not_allowed": {
       "enabled": true,
       "scale": 1.0,
-<<<<<<< HEAD
-      "xhot": 0,
-      "yhot": 0
-=======
-      "xhot": 15,
-      "yhot": 15
+      "xhot": 11,
+      "yhot": 11
     },
     "resize_ns": {
       "enabled": true,
       "scale": 1.0,
-      "xhot": 9,
-      "yhot": 15
-    },
-    "crosshair": {
-      "enabled": true,
-      "scale": 1.0,
-      "xhot": 13,
-      "yhot": 17
->>>>>>> bfb398d9264432bc322507645669b9f7b1f80f8f
-    },
-    "pointer": {
-      "enabled": true,
-      "scale": 1.0,
-      "xhot": 7,
-      "yhot": 3
-    },
-    "text": {
-      "enabled": true,
-      "scale": 1.0,
-<<<<<<< HEAD
-      "xhot": 10,
-      "yhot": 12
-=======
-      "xhot": 7,
-      "yhot": 3
->>>>>>> bfb398d9264432bc322507645669b9f7b1f80f8f
-    },
-    "grabbing": {
-      "enabled": true,
-      "scale": 1.0,
-      "xhot": 15,
-      "yhot": 3
-    },
-<<<<<<< HEAD
-=======
-    "shift": {
-      "enabled": true,
-      "scale": 1.0,
-      "xhot": 11,
-      "yhot": 3
-    },
->>>>>>> bfb398d9264432bc322507645669b9f7b1f80f8f
-    "busy": {
-      "enabled": true,
-      "scale": 1.0,
-      "xhot": 13,
-      "yhot": 17
-    },
-    "shift": {
-      "enabled": true,
-      "scale": 1.0,
-<<<<<<< HEAD
-      "xhot": 10,
-      "yhot": 0
-=======
-      "xhot": 12,
-      "yhot": 15
->>>>>>> bfb398d9264432bc322507645669b9f7b1f80f8f
+      "xhot": 16,
+      "yhot": 16
     },
     "crosshair": {
       "enabled": true,
@@ -102,40 +42,59 @@
       "xhot": 13,
       "yhot": 13
     },
-    "resize_ew": {
+    "pointer": {
       "enabled": true,
       "scale": 1.0,
-      "xhot": 16,
-      "yhot": 16
+      "xhot": 7,
+      "yhot": 0
     },
-    "resize_ns": {
+    "default": {
       "enabled": true,
       "scale": 1.0,
-      "xhot": 13,
-      "yhot": 12
+      "xhot": 0,
+      "yhot": 0
     },
-    "resize_nwse": {
+    "grabbing": {
       "enabled": true,
       "scale": 1.0,
-      "xhot": 13,
+      "xhot": 10,
+      "yhot": 2
+    },
+    "shift": {
+      "enabled": true,
+      "scale": 1.0,
+      "xhot": 10,
+      "yhot": 0
+    },
+    "busy": {
+      "enabled": true,
+      "scale": 1.0,
+      "xhot": 0,
+      "yhot": 6
+    },
+    "text": {
+      "enabled": true,
+      "scale": 1.0,
+      "xhot": 10,
       "yhot": 12
     },
     "resize_nesw": {
       "enabled": true,
       "scale": 1.0,
-<<<<<<< HEAD
       "xhot": 16,
       "yhot": 16
     },
-    "not_allowed": {
+    "resize_nwse": {
       "enabled": true,
       "scale": 1.0,
-      "xhot": 11,
-      "yhot": 11
-=======
-      "xhot": 15,
-      "yhot": 17
->>>>>>> bfb398d9264432bc322507645669b9f7b1f80f8f
+      "xhot": 16,
+      "yhot": 16
+    },
+    "resize_ew": {
+      "enabled": true,
+      "scale": 1.0,
+      "xhot": 16,
+      "yhot": 16
     }
   }
 }

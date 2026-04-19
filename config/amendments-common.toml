@@ -58,12 +58,12 @@
 		"minecraft:mining_fatigue" = "minecraft:haste"
 		"minecraft:strength" = "minecraft:weakness"
 		"minecraft:speed" = "minecraft:slowness"
+		"minecraft:slowness" = "minecraft:speed"
 		"minecraft:weakness" = "minecraft:strength"
-		"minecraft:instant_health" = "minecraft:instant_damage"
 		"minecraft:unluck" = "minecraft:luck"
 		"minecraft:haste" = "minecraft:mining_fatigue"
-		"minecraft:slowness" = "minecraft:speed"
 		"minecraft:instant_damage" = "minecraft:instant_health"
+		"minecraft:instant_health" = "minecraft:instant_damage"
 
 [tripwire_hook]
 	#Allows placing tools on tripwire hooks
