@@ -121,5 +121,5 @@ splashOverlayAlpha = 0.8
 splashVelocityThreshold = 0.35
 entityBlocklist = [  ]
 secondarySplash = true
-secondarySplashRipples = false
+secondarySplashRipples = true
 secondarySplashVelocityThreshold = 0.3
