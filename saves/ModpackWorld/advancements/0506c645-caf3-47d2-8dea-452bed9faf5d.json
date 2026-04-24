@@ -1,54 +1,397 @@
 {
+  "biomesoplenty:recipes/transportation/willow_boat": {
+    "criteria": {
+      "in_water": "2026-04-24 22:07:39 +0400"
+    },
+    "done": true
+  },
+  "environmental:recipes/transportation/willow_boat": {
+    "criteria": {
+      "in_water": "2026-04-24 22:07:39 +0400"
+    },
+    "done": true
+  },
+  "legendarysurvivaloverhaul:main/root": {
+    "criteria": {
+      "main": "2026-04-24 22:07:39 +0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/crafting_table": {
     "criteria": {
-      "unlock_right_away": "2026-04-20 00:41:24 +0400"
+      "unlock_right_away": "2026-04-24 22:07:39 +0400"
+    },
+    "done": true
+  },
+  "environmental:recipes/transportation/pine_boat": {
+    "criteria": {
+      "in_water": "2026-04-24 22:07:39 +0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/cherry_boat": {
+    "criteria": {
+      "in_water": "2026-04-24 22:07:39 +0400"
     },
     "done": true
   },
   "jodek:utility": {
     "criteria": {
-      "tick": "2026-04-20 00:41:24 +0400"
+      "tick": "2026-04-24 22:07:39 +0400"
     },
     "done": true
   },
-  "biomesoplenty:biomesoplenty/root": {
+  "windswept:recipes/transportation/chestnut_boat": {
     "criteria": {
-      "pasture": "2026-04-20 00:41:28 +0400"
+      "in_water": "2026-04-24 22:07:39 +0400"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/dead_boat": {
+    "criteria": {
+      "in_water": "2026-04-24 22:07:39 +0400"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/magic_boat": {
+    "criteria": {
+      "in_water": "2026-04-24 22:07:39 +0400"
+    },
+    "done": true
+  },
+  "blastfromthepast:recipes/transportation/cedar_boat": {
+    "criteria": {
+      "in_water": "2026-04-24 22:07:39 +0400"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/pine_boat": {
+    "criteria": {
+      "in_water": "2026-04-24 22:07:39 +0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/acacia_boat": {
+    "criteria": {
+      "in_water": "2026-04-24 22:07:39 +0400"
+    },
+    "done": true
+  },
+  "natures_spirit:recipes/transportation/fir_boat": {
+    "criteria": {
+      "in_water": "2026-04-24 22:07:39 +0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/pale_oak_boat": {
+    "criteria": {
+      "in_water": "2026-04-24 22:07:39 +0400"
     },
     "done": true
   },
   "jodek:armor_stand_arms": {
     "criteria": {
-      "tick": "2026-04-20 00:41:24 +0400"
+      "tick": "2026-04-24 22:07:39 +0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/jungle_boat": {
+    "criteria": {
+      "in_water": "2026-04-24 22:07:39 +0400"
+    },
+    "done": true
+  },
+  "natures_spirit:recipes/transportation/redwood_boat": {
+    "criteria": {
+      "in_water": "2026-04-24 22:07:39 +0400"
+    },
+    "done": true
+  },
+  "natures_spirit:recipes/transportation/saxaul_boat": {
+    "criteria": {
+      "in_water": "2026-04-24 22:07:39 +0400"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/fir_boat": {
+    "criteria": {
+      "in_water": "2026-04-24 22:07:39 +0400"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/maple_boat": {
+    "criteria": {
+      "in_water": "2026-04-24 22:07:39 +0400"
+    },
+    "done": true
+  },
+  "environmental:recipes/transportation/wisteria_boat": {
+    "criteria": {
+      "in_water": "2026-04-24 22:07:39 +0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/spruce_boat": {
+    "criteria": {
+      "in_water": "2026-04-24 22:07:39 +0400"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/redwood_boat": {
+    "criteria": {
+      "in_water": "2026-04-24 22:07:39 +0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/mangrove_boat": {
+    "criteria": {
+      "in_water": "2026-04-24 22:07:39 +0400"
+    },
+    "done": true
+  },
+  "natures_spirit:recipes/transportation/olive_boat": {
+    "criteria": {
+      "in_water": "2026-04-24 22:07:39 +0400"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/hellbark_boat": {
+    "criteria": {
+      "in_water": "2026-04-24 22:07:39 +0400"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/jacaranda_boat": {
+    "criteria": {
+      "in_water": "2026-04-24 22:07:39 +0400"
+    },
+    "done": true
+  },
+  "environmental:recipes/transportation/plum_boat": {
+    "criteria": {
+      "in_water": "2026-04-24 22:07:39 +0400"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/palm_boat": {
+    "criteria": {
+      "in_water": "2026-04-24 22:07:39 +0400"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/empyreal_boat": {
+    "criteria": {
+      "in_water": "2026-04-24 22:07:39 +0400"
+    },
+    "done": true
+  },
+  "upgrade_aquatic:recipes/transportation/river_boat": {
+    "criteria": {
+      "in_water": "2026-04-24 22:07:39 +0400"
     },
     "done": true
   },
   "jodek:root": {
     "criteria": {
-      "tick": "2026-04-20 00:41:24 +0400"
+      "tick": "2026-04-24 22:07:39 +0400"
     },
     "done": true
   },
   "vanilla_refresh:first_join": {
     "criteria": {
-      "s": "2026-04-20 00:41:24 +0400"
+      "s": "2026-04-24 22:07:39 +0400"
     },
     "done": true
   },
-  "biomesoplenty:biomesoplenty/all_biomes": {
+  "natures_spirit:recipes/transportation/maple_boat": {
     "criteria": {
-      "pasture": "2026-04-20 00:41:28 +0400"
+      "in_water": "2026-04-24 22:07:39 +0400"
     },
-    "done": false
+    "done": true
+  },
+  "minecraft:recipes/transportation/dark_oak_boat": {
+    "criteria": {
+      "in_water": "2026-04-24 22:07:39 +0400"
+    },
+    "done": true
+  },
+  "atmospheric:recipes/transportation/laurel_boat": {
+    "criteria": {
+      "in_water": "2026-04-24 22:07:39 +0400"
+    },
+    "done": true
+  },
+  "natures_spirit:recipes/transportation/mahogany_boat": {
+    "criteria": {
+      "in_water": "2026-04-24 22:07:39 +0400"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/umbran_boat": {
+    "criteria": {
+      "in_water": "2026-04-24 22:07:39 +0400"
+    },
+    "done": true
+  },
+  "upgrade_aquatic:recipes/transportation/driftwood_boat": {
+    "criteria": {
+      "in_water": "2026-04-24 22:07:39 +0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/bamboo_raft": {
+    "criteria": {
+      "in_water": "2026-04-24 22:07:39 +0400"
+    },
+    "done": true
+  },
+  "atmospheric:recipes/transportation/grimwood_boat": {
+    "criteria": {
+      "in_water": "2026-04-24 22:07:39 +0400"
+    },
+    "done": true
+  },
+  "atmospheric:recipes/transportation/rosewood_boat": {
+    "criteria": {
+      "in_water": "2026-04-24 22:07:39 +0400"
+    },
+    "done": true
+  },
+  "natures_spirit:recipes/transportation/sugi_boat": {
+    "criteria": {
+      "in_water": "2026-04-24 22:07:39 +0400"
+    },
+    "done": true
+  },
+  "natures_spirit:recipes/transportation/joshua_boat": {
+    "criteria": {
+      "in_water": "2026-04-24 22:07:39 +0400"
+    },
+    "done": true
+  },
+  "natures_spirit:recipes/transportation/ghaf_boat": {
+    "criteria": {
+      "in_water": "2026-04-24 22:07:39 +0400"
+    },
+    "done": true
+  },
+  "natures_spirit:recipes/transportation/willow_boat": {
+    "criteria": {
+      "in_water": "2026-04-24 22:07:39 +0400"
+    },
+    "done": true
+  },
+  "atmospheric:recipes/transportation/aspen_boat": {
+    "criteria": {
+      "in_water": "2026-04-24 22:07:39 +0400"
+    },
+    "done": true
+  },
+  "atmospheric:recipes/transportation/kousa_boat": {
+    "criteria": {
+      "in_water": "2026-04-24 22:07:39 +0400"
+    },
+    "done": true
+  },
+  "natures_spirit:recipes/transportation/cypress_boat": {
+    "criteria": {
+      "in_water": "2026-04-24 22:07:39 +0400"
+    },
+    "done": true
+  },
+  "hybrid-aquatic:root": {
+    "criteria": {
+      "enter_water": "2026-04-24 22:07:39 +0400"
+    },
+    "done": true
+  },
+  "natures_spirit:recipes/transportation/aspen_boat": {
+    "criteria": {
+      "in_water": "2026-04-24 22:07:39 +0400"
+    },
+    "done": true
+  },
+  "atmospheric:recipes/transportation/morado_boat": {
+    "criteria": {
+      "in_water": "2026-04-24 22:07:39 +0400"
+    },
+    "done": true
+  },
+  "natures_spirit:recipes/transportation/coconut_boat": {
+    "criteria": {
+      "in_water": "2026-04-24 22:07:39 +0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/birch_boat": {
+    "criteria": {
+      "in_water": "2026-04-24 22:07:39 +0400"
+    },
+    "done": true
+  },
+  "natures_spirit:recipes/transportation/palo_verde_boat": {
+    "criteria": {
+      "in_water": "2026-04-24 22:07:39 +0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/oak_boat": {
+    "criteria": {
+      "in_water": "2026-04-24 22:07:39 +0400"
+    },
+    "done": true
+  },
+  "natures_spirit:recipes/transportation/wisteria_boat": {
+    "criteria": {
+      "in_water": "2026-04-24 22:07:39 +0400"
+    },
+    "done": true
+  },
+  "atmospheric:recipes/transportation/yucca_boat": {
+    "criteria": {
+      "in_water": "2026-04-24 22:07:39 +0400"
+    },
+    "done": true
+  },
+  "windswept:recipes/transportation/holly_boat": {
+    "criteria": {
+      "in_water": "2026-04-24 22:07:39 +0400"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/mahogany_boat": {
+    "criteria": {
+      "in_water": "2026-04-24 22:07:39 +0400"
+    },
+    "done": true
+  },
+  "windswept:recipes/transportation/pine_boat": {
+    "criteria": {
+      "in_water": "2026-04-24 22:07:39 +0400"
+    },
+    "done": true
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
-      "minecraft:beach": "2026-04-20 00:41:45 +0400",
-      "minecraft:river": "2026-04-20 00:43:37 +0400",
-      "minecraft:ocean": "2026-04-20 00:43:36 +0400",
-      "minecraft:plains": "2026-04-20 00:42:03 +0400"
+      "minecraft:deep_ocean": "2026-04-24 22:07:40 +0400",
+      "minecraft:beach": "2026-04-24 22:12:13 +0400",
+      "minecraft:river": "2026-04-24 22:08:33 +0400",
+      "minecraft:ocean": "2026-04-24 22:07:47 +0400",
+      "minecraft:plains": "2026-04-24 22:08:29 +0400"
     },
     "done": false
+  },
+  "natures_spirit:recipes/transportation/cedar_boat": {
+    "criteria": {
+      "in_water": "2026-04-24 22:07:39 +0400"
+    },
+    "done": true
+  },
+  "natures_spirit:recipes/transportation/larch_boat": {
+    "criteria": {
+      "in_water": "2026-04-24 22:07:39 +0400"
+    },
+    "done": true
   },
   "DataVersion": 3465
 }
