@@ -4,19 +4,19 @@ biomeColorRain = true
 
 [biomes]
 biomeParticlesRadius = 32
+mushroomSporeDensity = 10
 mushroomSporeBiomes = [
     "minecraft:mushroom_fields"
 ]
-mushroomSporeDensity = 10
+pollenDensity = 50
 pollenBiomes = [
     "minecraft:flower_forest",
     "minecraft:sunflower_plains"
 ]
-pollenDensity = 50
+sculkDustDensity = 5
 sculkDustBiomes = [
     "minecraft:deep_dark"
 ]
-sculkDustDensity = 5
 
 [geysers]
 useUpdatedSmoke = false
@@ -85,7 +85,7 @@ defaultDensity = 3
 ignoredSeasons = "DEFAULT"
 fireflyType = "ORIGINAL"
 fireflySoundVolume = 1.0
-onlyAllowInHabitatBiomes = false
+onlyAllowInHabitatBiomes = true
 habitatBiomes = [
     "minecraft:swamp",
     "minecraft:mangrove_swamp"
