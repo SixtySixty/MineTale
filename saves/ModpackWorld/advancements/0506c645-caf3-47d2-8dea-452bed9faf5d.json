@@ -1,1215 +1,798 @@
 {
   "biomesoplenty:recipes/transportation/willow_boat": {
     "criteria": {
-      "in_water": "2026-04-24 22:07:39 +0400"
+      "in_water": "2026-05-04 22:26:03 +0400"
     },
     "done": true
   },
   "environmental:recipes/transportation/willow_boat": {
     "criteria": {
-      "in_water": "2026-04-24 22:07:39 +0400"
+      "in_water": "2026-05-04 22:26:03 +0400"
     },
     "done": true
   },
   "legendarysurvivaloverhaul:main/root": {
     "criteria": {
-      "main": "2026-04-24 22:07:39 +0400"
+      "main": "2026-05-04 22:26:03 +0400"
     },
     "done": true
   },
   "minecraft:recipes/decorations/crafting_table": {
     "criteria": {
-      "unlock_right_away": "2026-04-24 22:07:39 +0400"
+      "unlock_right_away": "2026-05-04 22:26:03 +0400"
     },
     "done": true
   },
   "environmental:recipes/transportation/pine_boat": {
     "criteria": {
-      "in_water": "2026-04-24 22:07:39 +0400"
+      "in_water": "2026-05-04 22:26:03 +0400"
     },
     "done": true
   },
   "minecraft:recipes/transportation/cherry_boat": {
     "criteria": {
-      "in_water": "2026-04-24 22:07:39 +0400"
+      "in_water": "2026-05-04 22:26:03 +0400"
     },
     "done": true
   },
   "jodek:utility": {
     "criteria": {
-      "tick": "2026-04-24 22:07:39 +0400"
+      "tick": "2026-05-04 22:26:03 +0400"
     },
     "done": true
   },
   "windswept:recipes/transportation/chestnut_boat": {
     "criteria": {
-      "in_water": "2026-04-24 22:07:39 +0400"
+      "in_water": "2026-05-04 22:26:03 +0400"
     },
     "done": true
   },
   "biomesoplenty:recipes/transportation/dead_boat": {
     "criteria": {
-      "in_water": "2026-04-24 22:07:39 +0400"
+      "in_water": "2026-05-04 22:26:03 +0400"
     },
     "done": true
   },
   "biomesoplenty:recipes/transportation/magic_boat": {
     "criteria": {
-      "in_water": "2026-04-24 22:07:39 +0400"
+      "in_water": "2026-05-04 22:26:03 +0400"
     },
     "done": true
   },
   "blastfromthepast:recipes/transportation/cedar_boat": {
     "criteria": {
-      "in_water": "2026-04-24 22:07:39 +0400"
+      "in_water": "2026-05-04 22:26:03 +0400"
     },
     "done": true
   },
   "biomesoplenty:recipes/transportation/pine_boat": {
     "criteria": {
-      "in_water": "2026-04-24 22:07:39 +0400"
+      "in_water": "2026-05-04 22:26:03 +0400"
     },
     "done": true
   },
   "minecraft:recipes/transportation/acacia_boat": {
     "criteria": {
-      "in_water": "2026-04-24 22:07:39 +0400"
+      "in_water": "2026-05-04 22:26:03 +0400"
     },
     "done": true
   },
   "natures_spirit:recipes/transportation/fir_boat": {
     "criteria": {
-      "in_water": "2026-04-24 22:07:39 +0400"
+      "in_water": "2026-05-04 22:26:03 +0400"
     },
     "done": true
   },
   "minecraft:recipes/transportation/pale_oak_boat": {
     "criteria": {
-      "in_water": "2026-04-24 22:07:39 +0400"
+      "in_water": "2026-05-04 22:26:03 +0400"
     },
     "done": true
   },
   "jodek:armor_stand_arms": {
     "criteria": {
-      "tick": "2026-04-24 22:07:39 +0400"
+      "tick": "2026-05-04 22:26:03 +0400"
     },
     "done": true
   },
   "minecraft:recipes/transportation/jungle_boat": {
     "criteria": {
-      "in_water": "2026-04-24 22:07:39 +0400"
+      "in_water": "2026-05-04 22:26:03 +0400"
     },
     "done": true
   },
   "natures_spirit:recipes/transportation/redwood_boat": {
     "criteria": {
-      "in_water": "2026-04-24 22:07:39 +0400"
+      "in_water": "2026-05-04 22:26:03 +0400"
     },
     "done": true
   },
   "natures_spirit:recipes/transportation/saxaul_boat": {
     "criteria": {
-      "in_water": "2026-04-24 22:07:39 +0400"
+      "in_water": "2026-05-04 22:26:03 +0400"
     },
     "done": true
   },
   "biomesoplenty:recipes/transportation/fir_boat": {
     "criteria": {
-      "in_water": "2026-04-24 22:07:39 +0400"
+      "in_water": "2026-05-04 22:26:03 +0400"
     },
     "done": true
   },
   "biomesoplenty:recipes/transportation/maple_boat": {
     "criteria": {
-      "in_water": "2026-04-24 22:07:39 +0400"
+      "in_water": "2026-05-04 22:26:03 +0400"
     },
     "done": true
   },
   "environmental:recipes/transportation/wisteria_boat": {
     "criteria": {
-      "in_water": "2026-04-24 22:07:39 +0400"
+      "in_water": "2026-05-04 22:26:03 +0400"
     },
     "done": true
   },
   "minecraft:recipes/transportation/spruce_boat": {
     "criteria": {
-      "in_water": "2026-04-24 22:07:39 +0400"
+      "in_water": "2026-05-04 22:26:03 +0400"
     },
     "done": true
   },
   "biomesoplenty:recipes/transportation/redwood_boat": {
     "criteria": {
-      "in_water": "2026-04-24 22:07:39 +0400"
+      "in_water": "2026-05-04 22:26:03 +0400"
     },
     "done": true
   },
   "minecraft:recipes/transportation/mangrove_boat": {
     "criteria": {
-      "in_water": "2026-04-24 22:07:39 +0400"
+      "in_water": "2026-05-04 22:26:03 +0400"
     },
     "done": true
   },
   "natures_spirit:recipes/transportation/olive_boat": {
     "criteria": {
-      "in_water": "2026-04-24 22:07:39 +0400"
+      "in_water": "2026-05-04 22:26:03 +0400"
     },
     "done": true
   },
   "biomesoplenty:recipes/transportation/hellbark_boat": {
     "criteria": {
-      "in_water": "2026-04-24 22:07:39 +0400"
+      "in_water": "2026-05-04 22:26:03 +0400"
     },
     "done": true
   },
   "biomesoplenty:recipes/transportation/jacaranda_boat": {
     "criteria": {
-      "in_water": "2026-04-24 22:07:39 +0400"
+      "in_water": "2026-05-04 22:26:03 +0400"
     },
     "done": true
   },
   "environmental:recipes/transportation/plum_boat": {
     "criteria": {
-      "in_water": "2026-04-24 22:07:39 +0400"
+      "in_water": "2026-05-04 22:26:03 +0400"
     },
     "done": true
   },
   "biomesoplenty:recipes/transportation/palm_boat": {
     "criteria": {
-      "in_water": "2026-04-24 22:07:39 +0400"
+      "in_water": "2026-05-04 22:26:03 +0400"
     },
     "done": true
   },
   "biomesoplenty:recipes/transportation/empyreal_boat": {
     "criteria": {
-      "in_water": "2026-04-24 22:07:39 +0400"
+      "in_water": "2026-05-04 22:26:03 +0400"
     },
     "done": true
   },
   "upgrade_aquatic:recipes/transportation/river_boat": {
     "criteria": {
-      "in_water": "2026-04-24 22:07:39 +0400"
+      "in_water": "2026-05-04 22:26:03 +0400"
     },
     "done": true
   },
   "jodek:root": {
     "criteria": {
-      "tick": "2026-04-24 22:07:39 +0400"
+      "tick": "2026-05-04 22:26:03 +0400"
     },
     "done": true
   },
   "vanilla_refresh:first_join": {
     "criteria": {
-      "s": "2026-04-24 22:07:39 +0400"
+      "s": "2026-05-04 22:26:03 +0400"
     },
     "done": true
   },
   "natures_spirit:recipes/transportation/maple_boat": {
     "criteria": {
-      "in_water": "2026-04-24 22:07:39 +0400"
+      "in_water": "2026-05-04 22:26:03 +0400"
     },
     "done": true
   },
   "minecraft:recipes/transportation/dark_oak_boat": {
     "criteria": {
-      "in_water": "2026-04-24 22:07:39 +0400"
+      "in_water": "2026-05-04 22:26:03 +0400"
     },
     "done": true
   },
   "atmospheric:recipes/transportation/laurel_boat": {
     "criteria": {
-      "in_water": "2026-04-24 22:07:39 +0400"
+      "in_water": "2026-05-04 22:26:03 +0400"
     },
     "done": true
   },
   "natures_spirit:recipes/transportation/mahogany_boat": {
     "criteria": {
-      "in_water": "2026-04-24 22:07:39 +0400"
+      "in_water": "2026-05-04 22:26:03 +0400"
     },
     "done": true
   },
   "biomesoplenty:recipes/transportation/umbran_boat": {
     "criteria": {
-      "in_water": "2026-04-24 22:07:39 +0400"
+      "in_water": "2026-05-04 22:26:03 +0400"
     },
     "done": true
   },
   "upgrade_aquatic:recipes/transportation/driftwood_boat": {
     "criteria": {
-      "in_water": "2026-04-24 22:07:39 +0400"
+      "in_water": "2026-05-04 22:26:03 +0400"
     },
     "done": true
   },
   "minecraft:recipes/transportation/bamboo_raft": {
     "criteria": {
-      "in_water": "2026-04-24 22:07:39 +0400"
+      "in_water": "2026-05-04 22:26:03 +0400"
     },
     "done": true
   },
   "atmospheric:recipes/transportation/grimwood_boat": {
     "criteria": {
-      "in_water": "2026-04-24 22:07:39 +0400"
+      "in_water": "2026-05-04 22:26:03 +0400"
     },
     "done": true
   },
   "atmospheric:recipes/transportation/rosewood_boat": {
     "criteria": {
-      "in_water": "2026-04-24 22:07:39 +0400"
+      "in_water": "2026-05-04 22:26:03 +0400"
     },
     "done": true
   },
   "natures_spirit:recipes/transportation/sugi_boat": {
     "criteria": {
-      "in_water": "2026-04-24 22:07:39 +0400"
+      "in_water": "2026-05-04 22:26:03 +0400"
     },
     "done": true
   },
   "natures_spirit:recipes/transportation/joshua_boat": {
     "criteria": {
-      "in_water": "2026-04-24 22:07:39 +0400"
+      "in_water": "2026-05-04 22:26:03 +0400"
     },
     "done": true
   },
   "natures_spirit:recipes/transportation/ghaf_boat": {
     "criteria": {
-      "in_water": "2026-04-24 22:07:39 +0400"
+      "in_water": "2026-05-04 22:26:03 +0400"
     },
     "done": true
   },
   "natures_spirit:recipes/transportation/willow_boat": {
     "criteria": {
-      "in_water": "2026-04-24 22:07:39 +0400"
+      "in_water": "2026-05-04 22:26:03 +0400"
     },
     "done": true
   },
   "atmospheric:recipes/transportation/aspen_boat": {
     "criteria": {
-      "in_water": "2026-04-24 22:07:39 +0400"
+      "in_water": "2026-05-04 22:26:03 +0400"
     },
     "done": true
   },
   "atmospheric:recipes/transportation/kousa_boat": {
     "criteria": {
-      "in_water": "2026-04-24 22:07:39 +0400"
+      "in_water": "2026-05-04 22:26:03 +0400"
     },
     "done": true
   },
   "natures_spirit:recipes/transportation/cypress_boat": {
     "criteria": {
-      "in_water": "2026-04-24 22:07:39 +0400"
+      "in_water": "2026-05-04 22:26:03 +0400"
     },
     "done": true
   },
   "hybrid-aquatic:root": {
     "criteria": {
-      "enter_water": "2026-04-24 22:07:39 +0400"
+      "enter_water": "2026-05-04 22:26:03 +0400"
     },
     "done": true
   },
   "natures_spirit:recipes/transportation/aspen_boat": {
     "criteria": {
-      "in_water": "2026-04-24 22:07:39 +0400"
+      "in_water": "2026-05-04 22:26:03 +0400"
     },
     "done": true
   },
   "atmospheric:recipes/transportation/morado_boat": {
     "criteria": {
-      "in_water": "2026-04-24 22:07:39 +0400"
+      "in_water": "2026-05-04 22:26:03 +0400"
     },
     "done": true
   },
   "natures_spirit:recipes/transportation/coconut_boat": {
     "criteria": {
-      "in_water": "2026-04-24 22:07:39 +0400"
+      "in_water": "2026-05-04 22:26:03 +0400"
     },
     "done": true
   },
   "minecraft:recipes/transportation/birch_boat": {
     "criteria": {
-      "in_water": "2026-04-24 22:07:39 +0400"
+      "in_water": "2026-05-04 22:26:03 +0400"
     },
     "done": true
   },
   "natures_spirit:recipes/transportation/palo_verde_boat": {
     "criteria": {
-      "in_water": "2026-04-24 22:07:39 +0400"
+      "in_water": "2026-05-04 22:26:03 +0400"
     },
     "done": true
   },
   "minecraft:recipes/transportation/oak_boat": {
     "criteria": {
-      "in_water": "2026-04-24 22:07:39 +0400"
+      "in_water": "2026-05-04 22:26:03 +0400"
     },
     "done": true
   },
   "natures_spirit:recipes/transportation/wisteria_boat": {
     "criteria": {
-      "in_water": "2026-04-24 22:07:39 +0400"
+      "in_water": "2026-05-04 22:26:03 +0400"
     },
     "done": true
   },
   "atmospheric:recipes/transportation/yucca_boat": {
     "criteria": {
-      "in_water": "2026-04-24 22:07:39 +0400"
+      "in_water": "2026-05-04 22:26:03 +0400"
     },
     "done": true
   },
   "windswept:recipes/transportation/holly_boat": {
     "criteria": {
-      "in_water": "2026-04-24 22:07:39 +0400"
+      "in_water": "2026-05-04 22:26:03 +0400"
     },
     "done": true
   },
   "biomesoplenty:recipes/transportation/mahogany_boat": {
     "criteria": {
-      "in_water": "2026-04-24 22:07:39 +0400"
+      "in_water": "2026-05-04 22:26:03 +0400"
     },
     "done": true
   },
   "windswept:recipes/transportation/pine_boat": {
     "criteria": {
-      "in_water": "2026-04-24 22:07:39 +0400"
-    },
-    "done": true
-  },
-  "natures_spirit:recipes/transportation/cedar_boat": {
-    "criteria": {
-      "in_water": "2026-04-24 22:07:39 +0400"
-    },
-    "done": true
-  },
-  "natures_spirit:recipes/transportation/larch_boat": {
-    "criteria": {
-      "in_water": "2026-04-24 22:07:39 +0400"
+      "in_water": "2026-05-04 22:26:03 +0400"
     },
     "done": true
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
-      "minecraft:deep_ocean": "2026-04-24 22:07:40 +0400",
-      "minecraft:beach": "2026-04-24 22:12:13 +0400",
-      "minecraft:river": "2026-04-24 22:08:33 +0400",
-      "minecraft:ocean": "2026-04-24 22:07:47 +0400",
-<<<<<<< HEAD
-=======
-      "minecraft:flower_forest": "2026-04-24 23:07:48 +0400",
->>>>>>> bf9d29105cc81c5ec88530d6528ae32a72acdfdb
-      "minecraft:plains": "2026-04-24 22:08:29 +0400"
+      "minecraft:deep_ocean": "2026-05-04 22:26:03 +0400",
+      "minecraft:beach": "2026-05-04 23:14:19 +0400",
+      "minecraft:river": "2026-05-04 23:06:19 +0400",
+      "minecraft:stony_shore": "2026-05-04 22:26:24 +0400",
+      "minecraft:forest": "2026-05-04 23:19:00 +0400",
+      "minecraft:ocean": "2026-05-04 23:06:20 +0400",
+      "minecraft:deep_lukewarm_ocean": "2026-05-04 23:38:25 +0400",
+      "minecraft:flower_forest": "2026-05-04 23:13:19 +0400",
+      "minecraft:plains": "2026-05-04 23:08:46 +0400"
     },
     "done": false
   },
-<<<<<<< HEAD
-  "legendarysurvivaloverhaul:recipes/food/healing_herbs": {
+  "natures_spirit:recipes/transportation/cedar_boat": {
     "criteria": {
-      "has_flower": "2026-04-24 23:47:36 +0400"
+      "in_water": "2026-05-04 22:26:03 +0400"
     },
     "done": true
   },
-  "minecraft:recipes/misc/white_dye": {
+  "natures_spirit:recipes/transportation/larch_boat": {
     "criteria": {
-      "has_bone_meal": "2026-04-24 23:48:31 +0400"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/bone_block": {
-    "criteria": {
-      "has_bone_meal": "2026-04-24 23:48:31 +0400"
-    },
-    "done": true
-  },
-  "excessive_building:recipes/decorations/dirt_slab": {
-    "criteria": {
-      "has_dirt": "2026-04-26 15:46:42 +0400"
-    },
-    "done": true
-  },
-  "environmental:recipes/building_blocks/dirt_bricks_from_dirt_stonecutting": {
-    "criteria": {
-      "has_dirt": "2026-04-26 15:46:42 +0400"
-    },
-    "done": true
-  },
-  "environmental:recipes/building_blocks/dirt_tile_stairs_from_dirt_stonecutting": {
-    "criteria": {
-      "has_dirt": "2026-04-26 15:46:42 +0400"
-    },
-    "done": true
-  },
-  "environmental:recipes/misc/mud_ball_from_dirt": {
-    "criteria": {
-      "has_convertable_to_mud": "2026-04-26 15:46:42 +0400"
-    },
-    "done": true
-  },
-  "environmental:recipes/building_blocks/dirt_brick_slab_from_dirt_stonecutting": {
-    "criteria": {
-      "has_dirt": "2026-04-26 15:46:42 +0400"
-    },
-    "done": true
-  },
-  "environmental:recipes/decorations/dirt_tile_wall_from_dirt_stonecutting": {
-    "criteria": {
-      "has_dirt": "2026-04-26 15:46:42 +0400"
-    },
-    "done": true
-  },
-  "environmental:recipes/building_blocks/dirt_brick_stairs_from_dirt_stonecutting": {
-    "criteria": {
-      "has_dirt": "2026-04-26 15:46:42 +0400"
-    },
-    "done": true
-  },
-  "environmental:recipes/building_blocks/dirt_tiles_from_dirt_stonecutting": {
-    "criteria": {
-      "has_dirt": "2026-04-26 15:46:42 +0400"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/flower_box": {
-    "criteria": {
-      "has_dirt": "2026-04-26 15:46:42 +0400"
-    },
-    "done": true
-  },
-  "environmental:recipes/building_blocks/dirt_tile_slab_from_dirt_stonecutting": {
-    "criteria": {
-      "has_dirt": "2026-04-26 15:46:42 +0400"
-    },
-    "done": true
-  },
-  "environmental:recipes/building_blocks/dirt_bricks": {
-    "criteria": {
-      "has_dirt": "2026-04-26 15:46:42 +0400"
-    },
-    "done": true
-  },
-  "environmental:recipes/decorations/dirt_brick_wall_from_dirt_stonecutting": {
-    "criteria": {
-      "has_dirt": "2026-04-26 15:46:42 +0400"
-    },
-    "done": true
-  },
-  "excessive_building:recipes/building_blocks/grass_slab": {
-    "criteria": {
-      "has_grass_block": "2026-04-26 15:46:43 +0400"
-    },
-    "done": true
-  },
-  "legendary_additions:recipes/decorations/oak_window_pane": {
-    "criteria": {
-      "has_oak_window": "2026-04-26 19:32:56 +0400"
-    },
-    "done": true
-  },
-  "legendary_additions:recipes/decorations/dark_oak_window_pane": {
-    "criteria": {
-      "has_dark_oak_window": "2026-04-26 19:33:55 +0400"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/sugar_from_honey_bottle": {
-    "criteria": {
-      "has_honey_bottle": "2026-04-26 19:34:13 +0400"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/honey_block": {
-    "criteria": {
-      "has_honey_bottle": "2026-04-26 19:34:13 +0400"
-    },
-    "done": true
-  },
-  "legendary_additions:recipes/decorations/honey_pond": {
-    "criteria": {
-      "has_honey_bottle": "2026-04-26 19:34:13 +0400"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/candy": {
-    "criteria": {
-      "has_honey_bottle": "2026-04-26 19:34:13 +0400"
-    },
-    "done": true
-  },
-  "legendarysurvivaloverhaul:recipes/tools/thermometer": {
-    "criteria": {
-      "has_glass": "2026-04-26 19:34:32 +0400"
-    },
-    "done": true
-  },
-  "delicate_dyes:recipes/building_blocks/sangria_concrete_powder": {
-    "criteria": {
-      "has_sand": "2026-04-26 19:38:03 +0400"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/lime_concrete_powder": {
-    "criteria": {
-      "has_sand": "2026-04-26 19:38:03 +0400"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/magenta_concrete_powder": {
-    "criteria": {
-      "has_sand": "2026-04-26 19:38:03 +0400"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/black_concrete_powder": {
-    "criteria": {
-      "has_sand": "2026-04-26 19:38:03 +0400"
-    },
-    "done": true
-  },
-  "delicate_dyes:recipes/building_blocks/canary_concrete_powder": {
-    "criteria": {
-      "has_sand": "2026-04-26 19:38:03 +0400"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/cyan_concrete_powder": {
-    "criteria": {
-      "has_sand": "2026-04-26 19:38:03 +0400"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/pink_concrete_powder": {
-    "criteria": {
-      "has_sand": "2026-04-26 19:38:03 +0400"
-    },
-    "done": true
-  },
-  "delicate_dyes:recipes/building_blocks/coral_concrete_powder": {
-    "criteria": {
-      "has_sand": "2026-04-26 19:38:03 +0400"
-    },
-    "done": true
-  },
-  "delicate_dyes:recipes/building_blocks/wasabi_concrete_powder": {
-    "criteria": {
-      "has_sand": "2026-04-26 19:38:03 +0400"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/white_concrete_powder": {
-    "criteria": {
-      "has_sand": "2026-04-26 19:38:03 +0400"
-    },
-    "done": true
-  },
-  "delicate_dyes:recipes/building_blocks/rose_concrete_powder": {
-    "criteria": {
-      "has_sand": "2026-04-26 19:38:03 +0400"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/yellow_concrete_powder": {
-    "criteria": {
-      "has_sand": "2026-04-26 19:38:03 +0400"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/sandstone": {
-    "criteria": {
-      "has_sand": "2026-04-26 19:38:03 +0400"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/red_concrete_powder": {
-    "criteria": {
-      "has_sand": "2026-04-26 19:38:03 +0400"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/green_concrete_powder": {
-    "criteria": {
-      "has_sand": "2026-04-26 19:38:03 +0400"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/blue_concrete_powder": {
-    "criteria": {
-      "has_sand": "2026-04-26 19:38:03 +0400"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/orange_concrete_powder": {
-    "criteria": {
-      "has_sand": "2026-04-26 19:38:03 +0400"
-    },
-    "done": true
-  },
-  "twigs:recipes/silt/silt_from_sand": {
-    "criteria": {
-      "has_item": "2026-04-26 19:38:03 +0400"
-    },
-    "done": true
-  },
-  "delicate_dyes:recipes/building_blocks/sky_concrete_powder": {
-    "criteria": {
-      "has_sand": "2026-04-26 19:38:03 +0400"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/purple_concrete_powder": {
-    "criteria": {
-      "has_sand": "2026-04-26 19:38:03 +0400"
-    },
-    "done": true
-  },
-  "natures_spirit:recipes/building_blocks/sandy_soil": {
-    "criteria": {
-      "has_sand": "2026-04-26 19:38:03 +0400"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/light_gray_concrete_powder": {
-    "criteria": {
-      "has_sand": "2026-04-26 19:38:03 +0400"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/brown_concrete_powder": {
-    "criteria": {
-      "has_sand": "2026-04-26 19:38:03 +0400"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/light_blue_concrete_powder": {
-    "criteria": {
-      "has_sand": "2026-04-26 19:38:03 +0400"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/glass": {
-    "criteria": {
-      "has_smelts_to_glass": "2026-04-26 19:38:03 +0400"
-    },
-    "done": true
-  },
-  "waxed:recipes/building_blocks/waxed_sand_from_wax": {
-    "criteria": {
-      "has_sand": "2026-04-26 19:38:03 +0400"
-    },
-    "done": true
-  },
-  "delicate_dyes:recipes/building_blocks/sacramento_concrete_powder": {
-    "criteria": {
-      "has_sand": "2026-04-26 19:38:03 +0400"
-    },
-    "done": true
-  },
-  "delicate_dyes:recipes/building_blocks/blurple_concrete_powder": {
-    "criteria": {
-      "has_sand": "2026-04-26 19:38:03 +0400"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/gray_concrete_powder": {
-    "criteria": {
-      "has_sand": "2026-04-26 19:38:03 +0400"
-    },
-    "done": true
-  },
-  "twigs:recipes/cobblestone_bricks/cobblestone_brick_stairs_from_cobblestone_stonecutting": {
-    "criteria": {
-      "has_item": "2026-04-26 19:38:06 +0400"
-    },
-    "done": true
-  },
-  "excessive_building:recipes/building_blocks/cobblestone_bricks": {
-    "criteria": {
-      "has_cobblestone": "2026-04-26 19:38:06 +0400"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/turn_table": {
-    "criteria": {
-      "has_cobblestone": "2026-04-26 19:38:06 +0400"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/cobblestone_slab": {
-    "criteria": {
-      "has_cobblestone": "2026-04-26 19:38:06 +0400"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/cobblestone_wall_from_cobblestone_stonecutting": {
-    "criteria": {
-      "has_cobblestone": "2026-04-26 19:38:06 +0400"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/cobblestone_stairs": {
-    "criteria": {
-      "has_cobblestone": "2026-04-26 19:38:06 +0400"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/lever": {
-    "criteria": {
-      "has_cobblestone": "2026-04-26 19:38:06 +0400"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/stone_sword": {
-    "criteria": {
-      "has_cobblestone": "2026-04-26 19:38:06 +0400"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/cobblestone_wall": {
-    "criteria": {
-      "has_cobblestone": "2026-04-26 19:38:06 +0400"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/stone_axe": {
-    "criteria": {
-      "has_cobblestone": "2026-04-26 19:38:06 +0400"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/checker": {
-    "criteria": {
-      "has_cobblestone": "2026-04-26 19:38:06 +0400"
-    },
-    "done": true
-  },
-  "twigs:recipes/cobblestone_bricks/cobblestone_brick_slab_from_cobblestone_stonecutting": {
-    "criteria": {
-      "has_item": "2026-04-26 19:38:06 +0400"
-    },
-    "done": true
-  },
-  "twigs:recipes/cobblestone_bricks/cobblestone_bricks_stonecutting": {
-    "criteria": {
-      "has_item": "2026-04-26 19:38:06 +0400"
-    },
-    "done": true
-  },
-  "twigs:recipes/cobblestone_bricks/cobblestone_bricks": {
-    "criteria": {
-      "has_item": "2026-04-26 19:38:06 +0400"
-    },
-    "done": true
-  },
-  "twigs:recipes/cobblestone_bricks/cobblestone_brick_wall_from_cobblestone_stonecutting": {
-    "criteria": {
-      "has_item": "2026-04-26 19:38:06 +0400"
-    },
-    "done": true
-  },
-  "minecraft:story/mine_stone": {
-    "criteria": {
-      "get_stone": "2026-04-26 19:38:06 +0400"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/furnace": {
-    "criteria": {
-      "has_cobblestone": "2026-04-26 19:38:06 +0400"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/cobblestone_slab_from_cobblestone_stonecutting": {
-    "criteria": {
-      "has_cobblestone": "2026-04-26 19:38:06 +0400"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/stone": {
-    "criteria": {
-      "has_cobblestone": "2026-04-26 19:38:06 +0400"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/stone_pickaxe": {
-    "criteria": {
-      "has_cobblestone": "2026-04-26 19:38:06 +0400"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/stone_shovel": {
-    "criteria": {
-      "has_cobblestone": "2026-04-26 19:38:06 +0400"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/cobblestone_stairs_from_cobblestone_stonecutting": {
-    "criteria": {
-      "has_cobblestone": "2026-04-26 19:38:06 +0400"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/stone_hoe": {
-    "criteria": {
-      "has_cobblestone": "2026-04-26 19:38:06 +0400"
-=======
-  "biomesoplenty:recipes/transportation/jacaranda_chest_boat": {
-    "criteria": {
-      "has_boat": "2026-04-24 23:04:28 +0400"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/spruce_chest_boat": {
-    "criteria": {
-      "has_boat": "2026-04-24 23:04:28 +0400"
-    },
-    "done": true
-  },
-  "atmospheric:recipes/transportation/grimwood_chest_boat": {
-    "criteria": {
-      "has_boat": "2026-04-24 23:04:28 +0400"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/mangrove_chest_boat": {
-    "criteria": {
-      "has_boat": "2026-04-24 23:04:28 +0400"
-    },
-    "done": true
-  },
-  "biomesoplenty:recipes/transportation/fir_chest_boat": {
-    "criteria": {
-      "has_boat": "2026-04-24 23:04:28 +0400"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/oak_chest_boat": {
-    "criteria": {
-      "has_boat": "2026-04-24 23:04:28 +0400"
-    },
-    "done": true
-  },
-  "natures_spirit:recipes/transportation/larch_chest_boat": {
-    "criteria": {
-      "has_boat": "2026-04-24 23:04:28 +0400"
-    },
-    "done": true
-  },
-  "natures_spirit:recipes/transportation/palo_verde_chest_boat": {
-    "criteria": {
-      "has_boat": "2026-04-24 23:04:28 +0400"
-    },
-    "done": true
-  },
-  "biomesoplenty:biomesoplenty/root": {
-    "criteria": {
-      "pasture": "2026-04-24 23:09:06 +0400"
-    },
-    "done": true
-  },
-  "environmental:recipes/transportation/wisteria_chest_boat": {
-    "criteria": {
-      "has_boat": "2026-04-24 23:04:28 +0400"
-    },
-    "done": true
-  },
-  "natures_spirit:recipes/transportation/maple_chest_boat": {
-    "criteria": {
-      "has_boat": "2026-04-24 23:04:28 +0400"
-    },
-    "done": true
-  },
-  "vintagevibes:all_masks": {
-    "criteria": {
-      "sunrise_mask": "2026-04-24 23:02:46 +0400"
-    },
-    "done": false
-  },
-  "biomesoplenty:recipes/transportation/umbran_chest_boat": {
-    "criteria": {
-      "has_boat": "2026-04-24 23:04:28 +0400"
-    },
-    "done": true
-  },
-  "biomesoplenty:recipes/transportation/willow_chest_boat": {
-    "criteria": {
-      "has_boat": "2026-04-24 23:04:28 +0400"
-    },
-    "done": true
-  },
-  "natures_spirit:recipes/transportation/coconut_chest_boat": {
-    "criteria": {
-      "has_boat": "2026-04-24 23:04:28 +0400"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/boat_jar": {
-    "criteria": {
-      "minecraft:boats": "2026-04-24 23:04:28 +0400"
-    },
-    "done": true
-  },
-  "upgrade_aquatic:recipes/transportation/driftwood_chest_boat": {
-    "criteria": {
-      "has_boat": "2026-04-24 23:04:28 +0400"
-    },
-    "done": true
-  },
-  "blastfromthepast:recipes/transportation/cedar_chest_boat": {
-    "criteria": {
-      "has_boat": "2026-04-24 23:04:28 +0400"
-    },
-    "done": true
-  },
-  "biomesoplenty:recipes/transportation/redwood_chest_boat": {
-    "criteria": {
-      "has_boat": "2026-04-24 23:04:28 +0400"
-    },
-    "done": true
-  },
-  "biomesoplenty:recipes/transportation/empyreal_chest_boat": {
-    "criteria": {
-      "has_boat": "2026-04-24 23:04:28 +0400"
-    },
-    "done": true
-  },
-  "environmental:recipes/transportation/willow_chest_boat": {
-    "criteria": {
-      "has_boat": "2026-04-24 23:04:28 +0400"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/dark_oak_chest_boat": {
-    "criteria": {
-      "has_boat": "2026-04-24 23:04:28 +0400"
-    },
-    "done": true
-  },
-  "natures_spirit:recipes/transportation/sugi_chest_boat": {
-    "criteria": {
-      "has_boat": "2026-04-24 23:04:28 +0400"
-    },
-    "done": true
-  },
-  "natures_spirit:recipes/transportation/cedar_chest_boat": {
-    "criteria": {
-      "has_boat": "2026-04-24 23:04:28 +0400"
-    },
-    "done": true
-  },
-  "saintsdragons:recipes/volitans_binder": {
-    "criteria": {
-      "has_volitans_spine": "2026-04-24 23:07:07 +0400"
-    },
-    "done": true
-  },
-  "natures_spirit:recipes/transportation/olive_chest_boat": {
-    "criteria": {
-      "has_boat": "2026-04-24 23:04:28 +0400"
-    },
-    "done": true
-  },
-  "natures_spirit:recipes/transportation/joshua_chest_boat": {
-    "criteria": {
-      "has_boat": "2026-04-24 23:04:28 +0400"
-    },
-    "done": true
-  },
-  "natures_spirit:recipes/transportation/fir_chest_boat": {
-    "criteria": {
-      "has_boat": "2026-04-24 23:04:28 +0400"
-    },
-    "done": true
-  },
-  "atmospheric:recipes/transportation/laurel_chest_boat": {
-    "criteria": {
-      "has_boat": "2026-04-24 23:04:28 +0400"
-    },
-    "done": true
-  },
-  "natures_spirit:recipes/transportation/redwood_chest_boat": {
-    "criteria": {
-      "has_boat": "2026-04-24 23:04:28 +0400"
-    },
-    "done": true
-  },
-  "atmospheric:recipes/transportation/kousa_chest_boat": {
-    "criteria": {
-      "has_boat": "2026-04-24 23:04:28 +0400"
-    },
-    "done": true
-  },
-  "natures_spirit:recipes/transportation/willow_chest_boat": {
-    "criteria": {
-      "has_boat": "2026-04-24 23:04:28 +0400"
-    },
-    "done": true
-  },
-  "natures_spirit:recipes/transportation/saxaul_chest_boat": {
-    "criteria": {
-      "has_boat": "2026-04-24 23:04:28 +0400"
-    },
-    "done": true
-  },
-  "atmospheric:recipes/transportation/yucca_chest_boat": {
-    "criteria": {
-      "has_boat": "2026-04-24 23:04:28 +0400"
-    },
-    "done": true
-  },
-  "biomesoplenty:recipes/transportation/pine_chest_boat": {
-    "criteria": {
-      "has_boat": "2026-04-24 23:04:28 +0400"
-    },
-    "done": true
-  },
-  "atmospheric:recipes/transportation/morado_chest_boat": {
-    "criteria": {
-      "has_boat": "2026-04-24 23:04:28 +0400"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/jungle_chest_boat": {
-    "criteria": {
-      "has_boat": "2026-04-24 23:04:28 +0400"
-    },
-    "done": true
-  },
-  "biomesoplenty:recipes/transportation/maple_chest_boat": {
-    "criteria": {
-      "has_boat": "2026-04-24 23:04:28 +0400"
-    },
-    "done": true
-  },
-  "biomesoplenty:recipes/transportation/palm_chest_boat": {
-    "criteria": {
-      "has_boat": "2026-04-24 23:04:28 +0400"
-    },
-    "done": true
-  },
-  "natures_spirit:recipes/transportation/cypress_chest_boat": {
-    "criteria": {
-      "has_boat": "2026-04-24 23:04:28 +0400"
-    },
-    "done": true
-  },
-  "natures_spirit:recipes/transportation/ghaf_chest_boat": {
-    "criteria": {
-      "has_boat": "2026-04-24 23:04:28 +0400"
-    },
-    "done": true
-  },
-  "hybrid-aquatic:boat": {
-    "criteria": {
-      "has_boat": "2026-04-24 23:04:28 +0400"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/bamboo_chest_raft": {
-    "criteria": {
-      "has_boat": "2026-04-24 23:04:28 +0400"
-    },
-    "done": true
-  },
-  "biomesoplenty:recipes/transportation/hellbark_chest_boat": {
-    "criteria": {
-      "has_boat": "2026-04-24 23:04:28 +0400"
-    },
-    "done": true
-  },
-  "upgrade_aquatic:recipes/transportation/river_chest_boat": {
-    "criteria": {
-      "has_boat": "2026-04-24 23:04:28 +0400"
-    },
-    "done": true
-  },
-  "natures_spirit:recipes/transportation/wisteria_chest_boat": {
-    "criteria": {
-      "has_boat": "2026-04-24 23:04:28 +0400"
-    },
-    "done": true
-  },
-  "environmental:recipes/transportation/pine_chest_boat": {
-    "criteria": {
-      "has_boat": "2026-04-24 23:04:28 +0400"
-    },
-    "done": true
-  },
-  "environmental:recipes/transportation/plum_chest_boat": {
-    "criteria": {
-      "has_boat": "2026-04-24 23:04:28 +0400"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/pale_oak_chest_boat": {
-    "criteria": {
-      "has_boat": "2026-04-24 23:04:28 +0400"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/acacia_chest_boat": {
-    "criteria": {
-      "has_boat": "2026-04-24 23:04:28 +0400"
-    },
-    "done": true
-  },
-  "biomesoplenty:biomesoplenty/all_biomes": {
-    "criteria": {
-      "pasture": "2026-04-24 23:09:06 +0400"
-    },
-    "done": false
-  },
-  "biomesoplenty:recipes/transportation/magic_chest_boat": {
-    "criteria": {
-      "has_boat": "2026-04-24 23:04:28 +0400"
-    },
-    "done": true
-  },
-  "natures_spirit:recipes/transportation/mahogany_chest_boat": {
-    "criteria": {
-      "has_boat": "2026-04-24 23:04:28 +0400"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/cherry_chest_boat": {
-    "criteria": {
-      "has_boat": "2026-04-24 23:04:28 +0400"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/birch_chest_boat": {
-    "criteria": {
-      "has_boat": "2026-04-24 23:04:28 +0400"
-    },
-    "done": true
-  },
-  "biomesoplenty:recipes/transportation/dead_chest_boat": {
-    "criteria": {
-      "has_boat": "2026-04-24 23:04:28 +0400"
+      "in_water": "2026-05-04 22:26:03 +0400"
     },
     "done": true
   },
   "fintastic:fintastic/minnow": {
     "criteria": {
-      "witness_entity": "2026-04-24 23:08:25 +0400"
+      "witness_entity": "2026-05-04 22:26:17 +0400"
     },
     "done": true
   },
-  "biomesoplenty:recipes/transportation/mahogany_chest_boat": {
+  "biomesoplenty:biomesoplenty/root": {
     "criteria": {
-      "has_boat": "2026-04-24 23:04:28 +0400"
+      "pasture": "2026-05-04 22:26:25 +0400"
     },
     "done": true
   },
-  "natures_spirit:recipes/transportation/aspen_chest_boat": {
+  "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
-      "has_boat": "2026-04-24 23:04:28 +0400"
+      "redwood_forest": "2026-05-04 23:19:39 +0400",
+      "dune_beach": "2026-05-04 23:14:14 +0400",
+      "pasture": "2026-05-04 22:26:25 +0400",
+      "lavender_field": "2026-05-04 23:12:34 +0400"
+    },
+    "done": false
+  },
+  "moredelight:main/root": {
+    "criteria": {
+      "seeds": "2026-05-04 22:45:52 +0400"
     },
     "done": true
   },
-  "atmospheric:recipes/transportation/rosewood_chest_boat": {
+  "farmersdelight:recipes/misc/canvas_from_canvas_rug": {
     "criteria": {
-      "has_boat": "2026-04-24 23:04:28 +0400"
+      "has_canvas_rug": "2026-05-04 22:45:52 +0400"
     },
     "done": true
   },
-  "atmospheric:recipes/transportation/aspen_chest_boat": {
+  "farmersdelight:main/root": {
     "criteria": {
-      "has_boat": "2026-04-24 23:04:28 +0400"
->>>>>>> bf9d29105cc81c5ec88530d6528ae32a72acdfdb
+      "seeds": "2026-05-04 22:45:52 +0400"
+    },
+    "done": true
+  },
+  "dungeonsdelight:main/root": {
+    "criteria": {
+      "seeds": "2026-05-04 22:45:52 +0400"
+    },
+    "done": true
+  },
+  "excessive_building:recipes/building_blocks/grass_slab": {
+    "criteria": {
+      "has_grass_block": "2026-05-04 22:46:04 +0400"
+    },
+    "done": true
+  },
+  "delicate_dyes:recipes/building_blocks/sangria_concrete_powder": {
+    "criteria": {
+      "has_sand": "2026-05-04 23:10:13 +0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/lime_concrete_powder": {
+    "criteria": {
+      "has_sand": "2026-05-04 23:10:13 +0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/magenta_concrete_powder": {
+    "criteria": {
+      "has_sand": "2026-05-04 23:10:13 +0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/black_concrete_powder": {
+    "criteria": {
+      "has_sand": "2026-05-04 23:10:13 +0400"
+    },
+    "done": true
+  },
+  "delicate_dyes:recipes/building_blocks/canary_concrete_powder": {
+    "criteria": {
+      "has_sand": "2026-05-04 23:10:13 +0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cyan_concrete_powder": {
+    "criteria": {
+      "has_sand": "2026-05-04 23:10:13 +0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/pink_concrete_powder": {
+    "criteria": {
+      "has_sand": "2026-05-04 23:10:13 +0400"
+    },
+    "done": true
+  },
+  "delicate_dyes:recipes/building_blocks/coral_concrete_powder": {
+    "criteria": {
+      "has_sand": "2026-05-04 23:10:13 +0400"
+    },
+    "done": true
+  },
+  "delicate_dyes:recipes/building_blocks/wasabi_concrete_powder": {
+    "criteria": {
+      "has_sand": "2026-05-04 23:10:13 +0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/white_concrete_powder": {
+    "criteria": {
+      "has_sand": "2026-05-04 23:10:13 +0400"
+    },
+    "done": true
+  },
+  "delicate_dyes:recipes/building_blocks/rose_concrete_powder": {
+    "criteria": {
+      "has_sand": "2026-05-04 23:10:13 +0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/yellow_concrete_powder": {
+    "criteria": {
+      "has_sand": "2026-05-04 23:10:13 +0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone": {
+    "criteria": {
+      "has_sand": "2026-05-04 23:10:13 +0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_concrete_powder": {
+    "criteria": {
+      "has_sand": "2026-05-04 23:10:13 +0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/green_concrete_powder": {
+    "criteria": {
+      "has_sand": "2026-05-04 23:10:13 +0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blue_concrete_powder": {
+    "criteria": {
+      "has_sand": "2026-05-04 23:10:13 +0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/orange_concrete_powder": {
+    "criteria": {
+      "has_sand": "2026-05-04 23:10:13 +0400"
+    },
+    "done": true
+  },
+  "twigs:recipes/silt/silt_from_sand": {
+    "criteria": {
+      "has_item": "2026-05-04 23:10:13 +0400"
+    },
+    "done": true
+  },
+  "delicate_dyes:recipes/building_blocks/sky_concrete_powder": {
+    "criteria": {
+      "has_sand": "2026-05-04 23:10:13 +0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purple_concrete_powder": {
+    "criteria": {
+      "has_sand": "2026-05-04 23:10:13 +0400"
+    },
+    "done": true
+  },
+  "natures_spirit:recipes/building_blocks/sandy_soil": {
+    "criteria": {
+      "has_sand": "2026-05-04 23:10:13 +0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/light_gray_concrete_powder": {
+    "criteria": {
+      "has_sand": "2026-05-04 23:10:13 +0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/brown_concrete_powder": {
+    "criteria": {
+      "has_sand": "2026-05-04 23:10:13 +0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/light_blue_concrete_powder": {
+    "criteria": {
+      "has_sand": "2026-05-04 23:10:13 +0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/glass": {
+    "criteria": {
+      "has_smelts_to_glass": "2026-05-04 23:10:13 +0400"
+    },
+    "done": true
+  },
+  "waxed:recipes/building_blocks/waxed_sand_from_wax": {
+    "criteria": {
+      "has_sand": "2026-05-04 23:10:13 +0400"
+    },
+    "done": true
+  },
+  "delicate_dyes:recipes/building_blocks/sacramento_concrete_powder": {
+    "criteria": {
+      "has_sand": "2026-05-04 23:10:13 +0400"
+    },
+    "done": true
+  },
+  "delicate_dyes:recipes/building_blocks/blurple_concrete_powder": {
+    "criteria": {
+      "has_sand": "2026-05-04 23:10:13 +0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/gray_concrete_powder": {
+    "criteria": {
+      "has_sand": "2026-05-04 23:10:13 +0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2026-05-04 23:10:33 +0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_slab": {
+    "criteria": {
+      "has_mossy_cobblestone": "2026-05-04 23:10:33 +0400"
+    },
+    "done": true
+  },
+  "twigs:recipes/cobblestone_bricks/mossy_cobblestone_brick_slab_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_item": "2026-05-04 23:10:33 +0400"
+    },
+    "done": true
+  },
+  "twigs:recipes/cobblestone_bricks/mossy_cobblestone_bricks_from_mossy_cobblestone": {
+    "criteria": {
+      "has_item": "2026-05-04 23:10:33 +0400"
+    },
+    "done": true
+  },
+  "twigs:recipes/cobblestone_bricks/mossy_cobblestone_brick_stairs_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_item": "2026-05-04 23:10:33 +0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mossy_cobblestone_wall": {
+    "criteria": {
+      "has_mossy_cobblestone": "2026-05-04 23:10:33 +0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mossy_cobblestone_wall_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2026-05-04 23:10:33 +0400"
+    },
+    "done": true
+  },
+  "twigs:recipes/cobblestone_bricks/mossy_cobblestone_brick_wall_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_item": "2026-05-04 23:10:33 +0400"
+    },
+    "done": true
+  },
+  "twigs:recipes/cobblestone_bricks/mossy_cobblestone_bricks_stonecutting": {
+    "criteria": {
+      "has_item": "2026-05-04 23:10:33 +0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs": {
+    "criteria": {
+      "has_mossy_cobblestone": "2026-05-04 23:10:33 +0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_slab_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2026-05-04 23:10:33 +0400"
+    },
+    "done": true
+  },
+  "twigs:recipes/cobblestone_bricks/mossy_cobblestone_bricks_cobblestone": {
+    "criteria": {
+      "has_item": "2026-05-04 23:10:33 +0400"
+    },
+    "done": true
+  },
+  "excessive_building:recipes/building_blocks/mossy_cobblestone_bricks": {
+    "criteria": {
+      "has_mossy_cobblestone": "2026-05-04 23:10:33 +0400"
+    },
+    "done": true
+  },
+  "legendarysurvivaloverhaul:recipes/food/healing_herbs": {
+    "criteria": {
+      "has_flower": "2026-05-04 23:12:36 +0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/leaf_litter": {
+    "criteria": {
+      "has_leaves": "2026-05-04 23:12:36 +0400"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/misc/purple_dye_from_tall_lavender": {
+    "criteria": {
+      "has_tall_lavender": "2026-05-04 23:12:44 +0400"
+    },
+    "done": true
+  },
+  "dungeonsdelight:recipes/transportation/wormwood_boat": {
+    "criteria": {
+      "in_water": "2026-05-04 23:17:12 +0400"
+    },
+    "done": true
+  },
+  "fintastic:fintastic/catfish": {
+    "criteria": {
+      "witness_entity": "2026-05-04 23:20:14 +0400"
+    },
+    "done": true
+  },
+  "delicate_dyes:recipes/misc/blurple_dye_from_blueberries": {
+    "criteria": {
+      "has_blueberries": "2026-05-04 23:22:06 +0400"
+    },
+    "done": true
+  },
+  "twigs:recipes/cobblestone_from_pebble": {
+    "criteria": {
+      "has_item": "2026-05-04 23:22:50 +0400"
+    },
+    "done": true
+  },
+  "twigs:recipes/rocky_dirt": {
+    "criteria": {
+      "has_item": "2026-05-04 23:22:50 +0400"
+    },
+    "done": true
+  },
+  "farmersdelight:main/eat_comfort_food": {
+    "criteria": {
+      "comfort": "2026-05-04 23:24:24 +0400"
+    },
+    "done": true
+  },
+  "fintastic:fintastic/creatures": {
+    "criteria": {
+      "consumed_item": "2026-05-04 23:24:24 +0400"
+    },
+    "done": true
+  },
+  "fintastic:fintastic/items": {
+    "criteria": {
+      "consumed_item": "2026-05-04 23:24:24 +0400"
+    },
+    "done": true
+  },
+  "fintastic:fintastic/root": {
+    "criteria": {
+      "consumed_item": "2026-05-04 23:24:24 +0400"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2026-05-04 23:24:24 +0400"
+    },
+    "done": true
+  },
+  "legendary_additions:recipes/decorations/tribal_torch": {
+    "criteria": {
+      "has_torch": "2026-05-04 23:32:11 +0400"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/sconce": {
+    "criteria": {
+      "has_torch": "2026-05-04 23:32:11 +0400"
+    },
+    "done": true
+  },
+  "twigs:recipes/lamps/lamp": {
+    "criteria": {
+      "has_item": "2026-05-04 23:32:11 +0400"
     },
     "done": true
   },

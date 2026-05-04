@@ -21,7 +21,8 @@
 		"soundEvent": "minecraft:block.note_block.chime"
 	},
 	"mentionKeywords": [
-		"@BACKTOLOBBYLOL"
+		"@BACKTOLOBBYLOL",
+		"@ItTouchMe"
 	],
 	"ignoreSystemChats": false,
 	"enableChatSoundCooldown": false,
