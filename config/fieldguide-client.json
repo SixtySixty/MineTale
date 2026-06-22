@@ -1,5 +1,5 @@
 {
-  "showPauseMenuButton": true,
+  "showPauseMenuButton": false,
   "pauseButtonXOffset": 0,
   "pauseButtonYOffset": 0,
   "showInventoryButton": true,

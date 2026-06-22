@@ -4,6 +4,7 @@
   "disableBiomeDisplay": false,
   "disableEditingDescriptions": false,
   "disableEditingNames": false,
+  "disableVariants": false,
   "keepSilhouetteWhenUnlocked": false,
   "unlockAllVariants": false,
   "enableFieldGuideItem": false,

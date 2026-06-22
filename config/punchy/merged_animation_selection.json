@@ -72,7 +72,7 @@
       "kind": "item",
       "definition": "FISHING_ROD",
       "animations": {
-        "useitem": "pack:punchy:punchy",
+        "fishingrod": "pack:punchy:punchy",
         "attack": "pack:punchy:punchy"
       }
     },

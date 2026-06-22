@@ -6,3 +6,9 @@ de.keksuccino.drippyloadingscreen.customization.DrippyOverlayScreen {
 de.keksuccino.spiffyhud.customization.SpiffyOverlayScreen {
 }
 
+noppes.npcs.client.gui.player.GuiFaction {
+}
+
+net.minecraft.client.gui.screens.inventory.InventoryScreen {
+}
+

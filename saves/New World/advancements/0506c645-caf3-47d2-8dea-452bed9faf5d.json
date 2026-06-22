@@ -1,0 +1,40 @@
+{
+  "dustydecorations:welcome_to_dusty_decor": {
+    "criteria": {
+      "welcome_to_dusty_decor_0": "2026-06-22 01:38:59 +0400"
+    },
+    "done": true
+  },
+  "vanilla_refresh:first_join": {
+    "criteria": {
+      "s": "2026-06-22 01:39:05 +0400"
+    },
+    "done": true
+  },
+  "legendarysurvivaloverhaul:main/root": {
+    "criteria": {
+      "main": "2026-06-22 01:39:05 +0400"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:deep_dark": "2026-06-22 13:34:54 +0400",
+      "minecraft:plains": "2026-06-22 01:39:06 +0400"
+    },
+    "done": false
+  },
+  "fieldguide:first_discovery": {
+    "criteria": {
+      "unlock": "2026-06-22 13:36:54 +0400"
+    },
+    "done": true
+  },
+  "fieldguide:root": {
+    "criteria": {
+      "has_spyglass": "2026-06-22 13:36:50 +0400"
+    },
+    "done": true
+  },
+  "DataVersion": 3465
+}

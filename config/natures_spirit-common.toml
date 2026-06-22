@@ -31,9 +31,9 @@
 	windswept_hills_toggle = true
 
 [biome]
-	has_sugi_forest = true
-	has_windswept_sugi_forest = true
-	has_blooming_sugi_forest = true
+	has_sugi_forest = false
+	has_windswept_sugi_forest = false
+	has_blooming_sugi_forest = false
 	has_lavender_fields = true
 	has_marsh = true
 	has_bamboo_wetlands = true
@@ -57,7 +57,7 @@
 	has_xeric_plains = true
 	has_white_cliffs = true
 	has_prairie = true
-	has_oak_savanna = true
+	has_oak_savanna = false
 	has_heather_fields = true
 	has_tundra = true
 	has_alpine_clearings = true
